@@ -22,6 +22,8 @@ body { background: #07070A; }
 .bar { height: 30px; border-radius: 6px; margin-top: 12px; display: flex; align-items: center; padding: 0 12px; font-family: 'Geist Mono', monospace; font-size: 13px; letter-spacing: 0.12em; color: #fff; transform-origin: left; white-space: nowrap; }
 .lvl { display: flex; justify-content: space-between; align-items: center; padding: 14px 0; border-bottom: 1px dashed #374151; }
 .lvl:last-child { border-bottom: 0; }
+.lvl .k { font-size: 24px; letter-spacing: 0.06em; color: #E5E7EB; }
+.card.solo { padding: 26px 22px; } .card.solo .v { font-size: 64px; } .card.solo .n { font-size: 18px; }
 .lvl .v { font-family: 'Geist Mono', monospace; font-size: 40px; letter-spacing: -0.03em; }
 .qt { font-size: 32px; font-weight: 700; line-height: 1.25; border-left: 4px solid #00E0C6; padding-left: 18px; margin-top: 14px; }
 .ag { background: #0F0F16; border: 1px solid #2A2F37; border-radius: 14px; padding: 14px 16px; margin-bottom: 12px; font-family: 'Geist Mono', monospace; font-size: 15px; line-height: 1.5; }
@@ -98,7 +100,7 @@ function build() {
       items.forEach((it, i) => { const c = el('div', 'card', null, 'margin-top:14px'); c.append(el('div', 'k', it.k), el('div', 'v', it.v, `color:${col(it.color)}; font-size:36px`)); if (it.n) c.append(el('div', 'n', it.n)); blk.append(anim(c, 'c' + b + '+' + (1.8 + i * 1.2).toFixed(2))); });
     } else if (B.type === 'cards' || B.type === 'list') {
       items.forEach((it, i) => {
-        const c = el('div', B.type === 'list' ? 'card cal' : 'card', null, B.color ? `border:2px solid ${col(B.color)}` : '');
+        const c = el('div', (B.type === 'list' ? 'card cal' : 'card') + (items.length === 1 ? ' solo' : ''), null, B.color ? `border:2px solid ${col(B.color)}` : '');
         c.append(el('div', 'k', it.k), el('div', 'v', it.v, B.type === 'list' ? '' : `color:${col(it.color)}`));
         if (it.n) c.append(el('div', 'n', it.n));
         blk.append(anim(c, 'c' + b + '+' + (0.5 + i * stepOf(b, items.length)).toFixed(2)));

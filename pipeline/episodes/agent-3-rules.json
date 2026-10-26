@@ -1,0 +1,29 @@
+{
+  "id": "agent-3-rules",
+  "series": "AGENT 101",
+  "badge": "AI TRADING",
+  "badgeColor": "purple",
+  "date": "3 RULES",
+  "src": "educational · rules you set for your own AI agent · trading involves risk · not financial advice",
+  "tape": ["RULE 1 · MAX LEVERAGE", "RULE 2 · DAILY LOSS LIMIT", "RULE 3 · NO WITHDRAWALS", "BONUS · LOG EVERYTHING"],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR AGENT 101",
+  "followSay": "Follow for more on AI trading.",
+  "followCap": "Follow for more on AI trading.",
+  "cta": [["Set your rules once, and let your agent trade on ninety-nine X.", "Set your rules once, and let your agent trade on 99X."],
+          ["Your rules. Your limits. And keys that can never withdraw.", "Your rules. Your limits. Keys that can never withdraw."]],
+  "beats": [
+    {"type": "hero", "say": "Three rules to give your AI agent, before it trades a single dollar.", "cap": "3 rules to give your AI agent, before it trades a single dollar.",
+     "k": "RULES FOR YOUR AI AGENT", "from": 0, "to": 3, "color": "teal", "sub": "before it trades a single dollar"},
+    {"type": "cards", "say": "Rule one. A max leverage it can never go above.", "cap": "Rule #1: a max leverage it can never go above.",
+     "items": [{"k": "RULE #1", "v": "MAX 5×", "n": "no order above it, ever", "color": "teal"}]},
+    {"type": "cards", "say": "Rule two. A daily loss limit. Hit it, and it stops for the day.", "cap": "Rule #2: a daily loss limit. Hit it, and it stops for the day.",
+     "items": [{"k": "RULE #2", "v": "−$50 / DAY", "n": "then trading pauses until tomorrow", "color": "amber"}]},
+    {"type": "cards", "say": "Rule three. It can never withdraw your money. On ninety-nine X, agent keys can't withdraw, by design.", "cap": "Rule #3: no withdrawals. On 99X, agent keys can't withdraw, by design.",
+     "items": [{"k": "RULE #3", "v": "NO WITHDRAW", "n": "agent keys sign orders only", "color": "red"}]},
+    {"type": "cards", "say": "Bonus. Make it explain every trade in plain English.", "cap": "Bonus: make it explain every trade in plain English.",
+     "items": [{"k": "BONUS", "v": "LOG IT ALL", "n": "every action, explained in plain English", "color": "purple"}]}
+  ],
+  "title": "3 rules to give your AI trading agent",
+  "caption": "3 rules to give your AI agent before it trades a single dollar 🤖 what would your rule #4 be? 👇\n\n#aitrading #ai #crypto #trading #riskmanagement"
+}

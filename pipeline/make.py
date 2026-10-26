@@ -33,7 +33,7 @@ CTA = [
 def voice(ep, work):
     from kokoro_onnx import Kokoro
     k = Kokoro(str(HERE / "models/kokoro-v1.0.onnx"), str(HERE / "models/voices-v1.0.bin"))
-    lines = [(b["say"], b["cap"]) for b in ep["beats"]] + CTA + [(ep.get("followSay", "Follow for the daily brief."), ep.get("followCap", "Follow for the daily brief."))]
+    lines = [(b["say"], b["cap"]) for b in ep["beats"]] + [tuple(x) for x in ep.get("cta", CTA)] + [(ep.get("followSay", "Follow for the daily brief."), ep.get("followCap", "Follow for the daily brief."))]
     nb = len(ep["beats"])
     parts, chunks, t = [], [], 0.0
     for i, (say, cap) in enumerate(lines):

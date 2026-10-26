@@ -1,0 +1,29 @@
+{
+  "id": "liq-ladder",
+  "series": "TRADING 101",
+  "badge": "CHEAT SHEET",
+  "badgeColor": "teal",
+  "date": "SAVE THIS",
+  "src": "approximation · long, isolated margin · 0.5% maintenance margin assumed · fees and funding ignored · real values vary by exchange and size · not financial advice",
+  "tape": ["5× → −19.5%", "10× → −9.5%", "25× → −3.5%", "50× → −1.5%", "100× → −0.5%"],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR TRADING 101",
+  "followSay": "Follow for more trading one-oh-one.",
+  "followCap": "Follow for more Trading 101.",
+  "cta": [["Want a guardrail? Trade with an AI agent on ninety-nine X, with a leverage cap you set.", "Want a guardrail? Trade with an AI agent on 99X, with a leverage cap you set."],
+          ["Your rules. Your limits. And keys that can never withdraw.", "Your rules. Your limits. Keys that can never withdraw."]],
+  "beats": [
+    {"type": "hero", "say": "How far can price move before you get liquidated? Save this.", "cap": "How far can price move before you get liquidated? Save this.",
+     "k": "LEVERAGE", "from": 1, "to": 100, "suffix": "×", "color": "white", "sub": "how far until liquidation?"},
+    {"type": "levels", "say": "At five x, about nineteen percent. At ten x, about nine and a half.", "cap": "5×: about −19.5%. 10×: about −9.5%.",
+     "k": "LONG · DISTANCE TO LIQUIDATION", "rows": [{"k": "5×", "v": "−19.5%", "color": "green"}, {"k": "10×", "v": "−9.5%", "color": "amber"}]},
+    {"type": "levels", "say": "At twenty-five x, three and a half. At fifty x, just one and a half.", "cap": "25×: −3.5%. 50×: just −1.5%.",
+     "k": "LONG · DISTANCE TO LIQUIDATION", "rows": [{"k": "25×", "v": "−3.5%", "color": "amber"}, {"k": "50×", "v": "−1.5%", "color": "red"}]},
+    {"type": "hero", "say": "At a hundred x, half a percent. Bitcoin can do that in minutes.", "cap": "100×: −0.5%. BTC can do that in minutes.",
+     "k": "100× LEVERAGE", "from": 0, "to": -0.5, "dec": 1, "suffix": "%", "color": "red", "sub": "a normal few-minute move"},
+    {"type": "cards", "say": "The rule of thumb: one divided by your leverage, minus the maintenance margin.", "cap": "Rule of thumb: 1 ÷ leverage, minus maintenance margin.",
+     "items": [{"k": "FORMULA", "v": "1/lev − MM", "color": "teal"}, {"k": "MAINTENANCE (EXAMPLE)", "v": "0.5%", "n": "varies by exchange and position size"}]}
+  ],
+  "title": "How far is your liquidation? (save this)",
+  "caption": "how far can price move before you get liquidated? 5x → ~19.5%, 50x → ~1.5%, 100x → ~0.5%. save this 📌\n\n#crypto #trading #leverage #bitcoin #tradingtips"
+}
