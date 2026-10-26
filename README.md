@@ -38,4 +38,4 @@ Skip `draft` and `sent`. If a download is not a video file, stop and say so.
 
 ## Automated videos
 
-`pipeline/` renders TikTok videos from a small JSON script (voice, captions, music). Scheduled runs follow `pipeline/RUNBOOK.md`: Daily Brief (Mon–Fri), Insight (Tue, Thu) and Weekly Recap (Sun). Each run leaves a **draft** in Buffer for a human to approve.
+`pipeline/` renders TikTok videos from a small JSON script (voice, captions, music). Scheduled runs follow `pipeline/RUNBOOK.md`: Daily Brief (Mon–Fri), Insight (Tue, Thu) and Weekly Recap (Sun). Each run fact-checks the video and schedules it in Buffer to publish automatically.

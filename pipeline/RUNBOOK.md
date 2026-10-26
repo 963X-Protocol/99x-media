@@ -1,6 +1,6 @@
 # Scheduled video runs — runbook
 
-Scheduled sessions follow this file. Each run makes **one** TikTok video and leaves it in Buffer as a **draft** for a human to approve. Never publish or queue it.
+Scheduled sessions follow this file. Each run makes **one** TikTok video and **schedules it to publish automatically** at the series' posting time (no human review). Because nobody checks it before it goes live, the fact check in step 3 is mandatory.
 
 ## 0. Setup (fresh machine)
 
@@ -31,7 +31,8 @@ Series:
 
 1. Write `pipeline/episodes/<id>.json` (see `EPISODE_SPEC.md`, copy the shape of `example-brief.json`).
 2. `python3 pipeline/make.py pipeline/episodes/<id>.json --stills` then **look at** `pipeline/work/<id>/sheet.png`. Fix overflow (text cut off, overlapping), wrong numbers or empty beats, and re-run until clean.
-3. `python3 pipeline/make.py pipeline/episodes/<id>.json` → `videos/<id>.mp4` (must be < 50 MB).
+3. **Fact check (mandatory, no human review):** for every number, name and date in the episode JSON, re-open the source page and confirm it matches. Check the date stamp is today. Check every `cap` matches its `say`. Re-read the editorial rules. If any fact cannot be confirmed, remove that beat. If the video would have fewer than 4 beats, or anything looks wrong that you cannot fix, do not publish: create the Buffer post as a draft instead (step 5) and say why in the report.
+4. `python3 pipeline/make.py pipeline/episodes/<id>.json` → `videos/<id>.mp4` (must be < 50 MB).
 
 ## 4. Publish to the repo
 
@@ -39,14 +40,16 @@ Series:
 2. Commit the episode JSON, the video and `queue.json`; `git pull --rebase` then push to `main`.
 3. Check `https://raw.githubusercontent.com/963X-Protocol/99x-media/main/videos/<id>.mp4` returns HTTP 200 (retry for up to a minute).
 
-## 5. Buffer draft
+## 5. Schedule in Buffer
 
 Organization `My organization` (`6ad2d8c76f00424ac7119ce8`), TikTok channel `agentictrading` (`6ad2da72778b240e2f3339e7`).
 
-`create_post` with `saveToDraft: true`, `schedulingType: "automatic"`, `text` = caption, one video asset (raw URL above, `metadata.title` = file name, `thumbnailOffset` 1500), `metadata.tiktok` = `{title, isAiGenerated: true}`.
+Posting times (Asia/Ho_Chi_Minh, +07:00): Daily Brief **08:30**, Insight **20:00**, Weekly Recap **09:00**.
 
-Then set the item's `bufferPostId` in `queue.json`, commit and push.
+`create_post` with `schedulingType: "automatic"`, `mode: "customScheduled"`, `dueAt` = today's posting time with `+07:00` offset, `text` = caption, one video asset (raw URL above, `metadata.title` = file name, `thumbnailOffset` 1500), `metadata.tiktok` = `{title, isAiGenerated: true}`. If the posting time has already passed (run started late), use `mode: "shareNow"` instead. If the fact check failed, use `saveToDraft: true` instead.
+
+Then set the item's `bufferPostId`, `status` (`scheduled`, `sent` or `draft`) and `dueAt` in `queue.json`, commit and push. Do not touch other scheduled posts. The free Buffer plan allows 10 scheduled posts; if `create_post` fails on that limit, save as draft and report it.
 
 ## 6. Report
 
-Send the human a short message (Vietnamese): video title, 1-line summary of each beat, sources, and that the draft is waiting in Buffer → TikTok → Drafts for approval. Attach the mp4. If anything failed, say exactly which step.
+Send the human a short message (Vietnamese): video title, 1-line summary of each beat, sources, and when it will go live (or that it was saved as a draft and why). Attach the mp4. If anything failed, say exactly which step.
