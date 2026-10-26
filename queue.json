@@ -45,36 +45,40 @@
       "file": "videos/99X_tiktok_povfed.mp4",
       "title": "POV: Fed day, your AI agent is on it",
       "caption": "pov: it's fed day and you're stuck in meetings. your agent isn't 🏛️ what would your fed-day rule be? 👇\n\n#aitrading #fed #crypto #bitcoin #trading",
-      "status": "draft",
+      "status": "scheduled",
       "bufferUrl": "",
-      "dueAt": "2026-10-29T20:00:00+07:00"
+      "dueAt": "2026-10-29T20:00:00+07:00",
+      "bufferPostId": "6adf10b53163d936550ae951"
     },
     {
       "id": "liq-ladder",
       "file": "videos/liq-ladder.mp4",
       "title": "How far is your liquidation? (save this)",
       "caption": "how far can price move before you get liquidated? 5x → ~19.5%, 50x → ~1.5%, 100x → ~0.5%. save this 📌\n\n#crypto #trading #leverage #bitcoin #tradingtips",
-      "status": "draft",
+      "status": "scheduled",
       "bufferUrl": "",
-      "dueAt": "2026-10-30T20:00:00+07:00"
+      "dueAt": "2026-10-30T20:00:00+07:00",
+      "bufferPostId": "6adf10b8b5e7f93409218836"
     },
     {
       "id": "pov-tilt",
       "file": "videos/99X_tiktok_povtilt.mp4",
       "title": "POV: 3 losses in a row. Just one more trade?",
       "caption": "pov: 3 losses in a row and you want \"just one more trade\" 😤 what's your stop-trading rule? 👇\n\n#trading #crypto #tradingpsychology #aitrading #bitcoin",
-      "status": "draft",
+      "status": "scheduled",
       "bufferUrl": "",
-      "dueAt": "2026-10-31T20:00:00+07:00"
+      "dueAt": "2026-10-31T20:00:00+07:00",
+      "bufferPostId": "6adf10ba52312294267ebdb8"
     },
     {
       "id": "agent-3-rules",
       "file": "videos/agent-3-rules.mp4",
       "title": "3 rules to give your AI trading agent",
       "caption": "3 rules to give your AI agent before it trades a single dollar 🤖 what would your rule #4 be? 👇\n\n#aitrading #ai #crypto #trading #riskmanagement",
-      "status": "draft",
+      "status": "scheduled",
       "bufferUrl": "",
-      "dueAt": "2026-11-01T20:00:00+07:00"
+      "dueAt": "2026-11-01T20:00:00+07:00",
+      "bufferPostId": "6adf10bdc99de55ddb70a95b"
     }
   ]
 }
