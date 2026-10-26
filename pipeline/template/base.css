@@ -1,0 +1,23 @@
+@font-face { font-family: 'Geist'; src: url('fonts/Geist-Variable.woff2') format('woff2'); font-weight: 100 900; }
+@font-face { font-family: 'Geist Mono'; src: url('fonts/GeistMono-Regular.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'Geist Mono'; src: url('fonts/GeistMono-Medium.woff2') format('woff2'); font-weight: 500 700; }
+
+:root {
+  --bg: #0A0A0F; --surface: #12121A; --surface2: #1E2329;
+  --teal: #00E0C6; --teal-l: #33E8D1; --teal-d: #1FA3A3;
+  --g400: #9CA3AF; --g600: #4B5563; --txt2: #D1D5DB;
+  --long: #22C55E; --short: #EF4444; --ai: #A855F7;
+}
+html, body { margin: 0; width: 960px; height: 540px; overflow: hidden; background: var(--bg); color: #fff;
+  font-family: 'Geist', sans-serif; -webkit-font-smoothing: antialiased; }
+#cam { position: absolute; inset: 0; transform-origin: 50% 50%; }
+#veil { position: absolute; inset: 0; background: #000; pointer-events: none; z-index: 99; }
+.mono { font-family: 'Geist Mono', monospace; }
+.abs { position: absolute; }
+.gx { transform-origin: left center; }
+.gy { transform-origin: center top; }
+.card { background: var(--surface); border: 1px solid var(--surface2); border-radius: 12px; }
+.eyebrow { font-family: 'Geist Mono', monospace; font-size: 11px; letter-spacing: 0.16em; color: var(--teal); }
+.row { display: flex; align-items: center; }
+.col { display: flex; flex-direction: column; }
+[data-in] { will-change: opacity, transform; }

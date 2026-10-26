@@ -1,0 +1,13 @@
+/* Vertical 9:16 layer on top of base.css. Safe zone: keep text inside x 28–470, y 60–780. */
+html, body { width: 540px; height: 960px; }
+.top { position: absolute; left: 28px; right: 28px; top: 62px; display: flex; justify-content: space-between; align-items: center; }
+.top img { height: 20px; display: block; }
+.series { font-family: 'Geist Mono', monospace; font-size: 10px; letter-spacing: 0.22em; color: #9CA3AF; border: 1px solid #2A2F37; padding: 6px 10px; }
+.disc { position: absolute; left: 28px; right: 28px; top: 96px; font-size: 10px; color: #6B7280; letter-spacing: 0.04em; }
+.hook { position: absolute; left: 28px; right: 70px; top: 128px; font-size: 38px; font-weight: 700; line-height: 1.08; letter-spacing: -0.02em; }
+.win { color: #22C55E; } .loss { color: #EF4444; } .tealc { color: #00E0C6; }
+.mono { font-family: 'Geist Mono', monospace; }
+#cap { position: absolute; left: 28px; right: 70px; top: 700px; display: flex; justify-content: center; text-align: center; z-index: 20; }
+#cap span.c { font-size: 26px; font-weight: 700; line-height: 1.32; color: #FFFFFF; background: rgba(0,0,0,0.78); padding: 4px 12px; border-radius: 10px;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+#cap b { color: #00E0C6; font-weight: 800; }

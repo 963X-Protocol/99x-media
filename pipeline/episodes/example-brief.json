@@ -1,0 +1,26 @@
+{
+  "id": "example-brief",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "OCT 26, 2026",
+  "src": "data as of Oct 26, ~00:00 UTC · sources: KuCoin, Yahoo Finance · not financial advice",
+  "tape": ["BTC ~$80,150 ▼0.9%", "ETH ~$2,330 ▼1.2%", "F&G 50 neutral", "BRENT >$117", "FED WED OCT 28"],
+  "beats": [
+    {"type": "hero", "say": "Breaking. October twenty-sixth. It's Fed week, and Bitcoin is stuck at eighty thousand.", "cap": "BREAKING · Oct 26: It's Fed week. BTC stuck at $80K.",
+     "k": "BITCOIN · FED WEEK", "from": 81000, "to": 80151, "prefix": "$", "color": "white", "sub": "stuck between $79.2K and $81K"},
+    {"type": "cards", "say": "It's thirty-six percent below its all-time high. Fear and greed sits at fifty.", "cap": "36% below its ATH. Fear & Greed: 50.",
+     "items": [{"k": "BELOW ALL-TIME HIGH", "v": "−36%", "color": "red"}, {"k": "FEAR & GREED", "v": "50 · NEUTRAL", "color": "amber"}]},
+    {"type": "bars", "say": "Eight hundred twenty million dollars got liquidated. Eighty-four percent longs.", "cap": "$820M liquidated. 84% longs.",
+     "k": "LIQUIDATED · 24H", "v": "$820M", "items": [{"label": "LONGS · 84%", "pct": 84, "color": "#B91C1C"}, {"label": "SHORTS · 16%", "pct": 16, "color": "#14532D"}], "note": "CoinGlass"},
+    {"type": "headline", "say": "Meanwhile, HSBC launched a Hong Kong dollar stablecoin for three point three million users.", "cap": "HSBC launched a HKD stablecoin for 3.3M users.",
+     "k": "INSTITUTIONS", "text": "HSBC launches RedCoin, a HKD stablecoin", "items": [{"k": "USERS AT LAUNCH", "v": "3.3M (PayMe)", "color": "teal"}]},
+    {"type": "list", "say": "This week: the Fed decides Wednesday. Inflation and G D P on Thursday.", "cap": "This week: Fed Wed. Inflation + GDP Thu.",
+     "k": "THIS WEEK", "items": [{"k": "WED · OCT 28", "v": "FED DECISION"}, {"k": "THU · OCT 29", "v": "INFLATION + GDP"}]},
+    {"type": "levels", "say": "Watch eighty thousand. Lose it, and seventy-eight is next.", "cap": "Watch $80K. Lose it, and $78K is next.",
+     "k": "KEY LEVELS", "rows": [{"k": "SUPPORT", "v": "$80,000", "color": "amber"}, {"k": "IF LOST →", "v": "$78,000", "color": "red"}]},
+    {"type": "quote", "say": "As one analyst put it: no catalyst, no breakout.", "cap": "As one analyst put it: no catalyst, no breakout.",
+     "text": "No catalyst, no breakout.", "who": "illustrative"}
+  ],
+  "title": "Example brief",
+  "caption": "example"
+}

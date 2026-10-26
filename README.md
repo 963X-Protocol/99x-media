@@ -31,5 +31,11 @@ Skip `draft` and `sent`. If a download is not a video file, stop and say so.
 | `id` | Stable name for this post |
 | `file` | Path inside this repo, for example `videos/launch.mp4` |
 | `caption` | Exact TikTok text |
-| `status` | `draft`, `ready`, or `sent` |
+| `status` | `draft` (in Buffer, waiting for approval), `ready`, `scheduled`, or `sent` |
+| `bufferPostId` | Buffer post id |
+| `dueAt` | Scheduled publish time, if any |
 | `bufferUrl` | Filled after Buffer accepts the post |
+
+## Automated videos
+
+`pipeline/` renders TikTok videos from a small JSON script (voice, captions, music). Scheduled runs follow `pipeline/RUNBOOK.md`: Daily Brief (Mon–Fri), Insight (Tue, Thu) and Weekly Recap (Sun). Each run leaves a **draft** in Buffer for a human to approve.
