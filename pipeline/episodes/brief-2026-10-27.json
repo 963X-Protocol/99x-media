@@ -1,0 +1,144 @@
+{
+  "id": "brief-2026-10-27",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "OCT 27, 2026",
+  "src": "data as of Oct 26, ~20:17 UTC · sources: CoinGecko (Motley Fool), CoinGlass (TechFlow), SoSoValue (KuCoin), crypto.news, Pintu · not financial advice",
+  "tape": [
+    "BTC ~$79,817 ▼0.3%",
+    "ETH ~$2,314 ▼0.6%",
+    "SOL ~$100.30 ▼0.9%",
+    "LIQ 24H $187M",
+    "FED WED OCT 28"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Breaking. It's Fed week, and Bitcoin just slipped back under eighty thousand.",
+      "cap": "BREAKING · It's Fed week. BTC slipped back under $80K.",
+      "k": "BITCOIN · FED WEEK",
+      "from": 80264,
+      "to": 79817,
+      "prefix": "$",
+      "color": "white",
+      "sub": "−0.3% in 24h · ~36% below ATH"
+    },
+    {
+      "type": "cards",
+      "say": "Ether sits near twenty-three hundred. Solana is barely holding one hundred.",
+      "cap": "ETH near $2,300. SOL barely holding $100.",
+      "items": [
+        {
+          "k": "ETHEREUM · 24H",
+          "v": "$2,314",
+          "n": "−0.6%",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA · 24H",
+          "v": "$100.30",
+          "n": "−0.9%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "One hundred eighty-seven million dollars got liquidated in a day. Sixty-nine percent were longs.",
+      "cap": "$187M liquidated in 24h. 69% longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$187M",
+      "items": [
+        {
+          "label": "LONGS · 69%",
+          "pct": 69,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · 31%",
+          "pct": 31,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs bled seven hundred seventy-three million late last week, but still ended the week up three hundred one million.",
+      "cap": "BTC ETFs: −$773M Thu + Fri, but still +$301M on the week.",
+      "k": "SPOT BTC ETF FLOWS",
+      "items": [
+        {
+          "k": "THU + FRI",
+          "v": "−$773M",
+          "color": "red"
+        },
+        {
+          "k": "FULL WEEK",
+          "v": "+$301M",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: traders are cutting risk before Wednesday's Fed decision. Hike odds: just eight percent.",
+      "cap": "The driver: traders cut risk before Wednesday's Fed. Hike odds: 8%.",
+      "k": "MAIN DRIVER",
+      "text": "Traders cut risk before Wednesday's Fed call",
+      "items": [
+        {
+          "k": "FED RATE NOW",
+          "v": "3.75–4.00%",
+          "color": "amber"
+        },
+        {
+          "k": "HIKE ODDS",
+          "v": "8%",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Then G D P and inflation on Thursday, and about eleven billion in Bitcoin options expire Friday.",
+      "cap": "Then GDP + PCE Thursday, ~$11B BTC options expire Friday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "WED · OCT 28",
+          "v": "FED DECISION"
+        },
+        {
+          "k": "THU · OCT 29",
+          "v": "GDP + PCE"
+        },
+        {
+          "k": "FRI · OCT 30",
+          "v": "~$11B BTC OPTIONS"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: eighty-two thousand above, seventy-nine thousand below.",
+      "cap": "Levels to watch: $82K above, $79K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$82,000",
+          "color": "amber"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$79,000",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Fed week: Bitcoin slips under $80K, $187M liquidated",
+  "caption": "fed week is here 🏛️ btc back under $80k, $187m liquidated (69% longs), etfs -$773m thu+fri but +$301m on the week. fed wed, gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading"
+}
