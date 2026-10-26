@@ -85,8 +85,10 @@
       "file": "videos/brief-2026-10-27.mp4",
       "title": "Fed week: Bitcoin slips under $80K, $187M liquidated",
       "caption": "fed week is here 🏛️ btc back under $80k, $187m liquidated (69% longs), etfs -$773m thu+fri but +$301m on the week. fed wed, gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-27T08:30:00+07:00",
+      "bufferPostId": "6adfe8be5837b0fb9bf8ed3e"
     }
   ]
 }
