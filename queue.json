@@ -95,8 +95,10 @@
       "file": "videos/brief-2026-10-28.mp4",
       "title": "Fed day: Bitcoin bounces back above $80K, $144M liquidated",
       "caption": "fed decision day 🏛️ btc dipped under $80k then bounced to ~$80.6k, $144m liquidated (53% longs), btc etfs +$110m monday after ~$774m out. fed today 2pm et (hold odds 90.6%), gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-28T08:30:00+07:00",
+      "bufferPostId": "6ae13ab9b24fed5fb48f946b"
     }
   ]
 }
