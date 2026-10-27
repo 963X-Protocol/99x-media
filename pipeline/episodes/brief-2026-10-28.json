@@ -1,0 +1,144 @@
+{
+  "id": "brief-2026-10-28",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "OCT 28, 2026",
+  "src": "data as of Oct 27, ~21:35 UTC · sources: Yahoo Finance, CoinGlass (ChainCatcher), SoSoValue (Cointelegraph), CME FedWatch (Bloomingbit), Newsquawk, Coin Edition, The Crypto Basic · not financial advice",
+  "tape": [
+    "BTC ~$80,676 ▲0.8%",
+    "ETH ~$2,345 ▲1.1%",
+    "SOL ~$101.16 ▲0.4%",
+    "LIQ 24H $144M",
+    "FED TODAY 2PM ET"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Fed day. Bitcoin dipped under eighty thousand, then bounced to eighty thousand six hundred.",
+      "cap": "Fed day. BTC dipped under $80K, then bounced to $80.6K.",
+      "k": "BITCOIN · FED DAY",
+      "from": 79756,
+      "to": 80676,
+      "prefix": "$",
+      "color": "white",
+      "sub": "+0.8% in 24h · back above $80K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether is up about one percent. Solana holds just above one hundred.",
+      "cap": "ETH up ~1%. SOL holds just above $100.",
+      "items": [
+        {
+          "k": "ETHEREUM · 24H",
+          "v": "$2,345",
+          "n": "+1.1%",
+          "color": "green"
+        },
+        {
+          "k": "SOLANA · 24H",
+          "v": "$101.16",
+          "n": "+0.4%",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "One hundred forty-four million dollars liquidated in a day, almost evenly split.",
+      "cap": "$144M liquidated in 24h, almost evenly split.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$144M",
+      "items": [
+        {
+          "label": "LONGS · 53%",
+          "pct": 53,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · 47%",
+          "pct": 47,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs took in one hundred ten million Monday, after seven hundred seventy-four million left.",
+      "cap": "BTC ETFs: +$110M Monday, after ~$774M left.",
+      "k": "SPOT BTC ETF FLOWS",
+      "items": [
+        {
+          "k": "PRIOR 2 SESSIONS",
+          "v": "−$774M",
+          "color": "red"
+        },
+        {
+          "k": "MONDAY",
+          "v": "+$110M",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: the Fed decides today. Markets price over ninety percent odds of a hold.",
+      "cap": "The driver: the Fed decides today. Hold odds: over 90%.",
+      "k": "MAIN DRIVER",
+      "text": "Fed decides today at 2 PM ET",
+      "items": [
+        {
+          "k": "FED RATE NOW",
+          "v": "3.75–4.00%",
+          "color": "amber"
+        },
+        {
+          "k": "HOLD ODDS",
+          "v": "90.6%",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Then G D P and inflation Thursday, and about eleven billion in Bitcoin options expire Friday.",
+      "cap": "Then GDP + PCE Thursday, ~$11B BTC options expire Friday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "WED · OCT 28",
+          "v": "FED DECISION"
+        },
+        {
+          "k": "THU · OCT 29",
+          "v": "GDP + PCE"
+        },
+        {
+          "k": "FRI · OCT 30",
+          "v": "~$11B BTC OPTIONS"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: eighty-one thousand one hundred above, seventy-nine thousand one hundred below.",
+      "cap": "Levels to watch: ~$81.1K above, ~$79.1K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$81,100",
+          "color": "amber"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$79,120",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Fed day: Bitcoin bounces back above $80K, $144M liquidated",
+  "caption": "fed decision day 🏛️ btc dipped under $80k then bounced to ~$80.6k, $144m liquidated (53% longs), btc etfs +$110m monday after ~$774m out. fed today 2pm et (hold odds 90.6%), gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading"
+}
