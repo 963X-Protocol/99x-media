@@ -1,0 +1,141 @@
+{
+  "id": "brief-2026-10-29",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "OCT 29, 2026",
+  "src": "data as of Oct 28, ~21:10 UTC · sources: Motley Fool, Bitcoin Magazine, crypto.news, CoinGlass (ChainCatcher), SoSoValue (Bloomingbit, Altcoin Buzz), Deribit (KuCoin), Crypto Daily · not financial advice",
+  "tape": [
+    "BTC ~$81,220 ▲0.5%",
+    "ETH ~$2,363 ▲0.7%",
+    "SOL ~$102.60 ▲1.3%",
+    "LIQ 24H $181M",
+    "FED HOLD 3.75–4.00%",
+    "GDP + PCE TODAY"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "The Fed held rates, but two officials wanted a hike. Bitcoin sits near eighty-one thousand two hundred.",
+      "cap": "The Fed held, but 2 officials wanted a hike. BTC sits near $81.2K.",
+      "k": "BITCOIN · AFTER THE FED",
+      "from": 80000,
+      "to": 81220,
+      "prefix": "$",
+      "color": "white",
+      "sub": "+0.5% in 24h · holding above $80K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether is up under one percent. Solana gains over one percent, near one hundred three.",
+      "cap": "ETH up <1%. SOL up 1.3%, near $103.",
+      "items": [
+        {
+          "k": "ETHEREUM · 24H",
+          "v": "$2,363",
+          "n": "+0.7%",
+          "color": "green"
+        },
+        {
+          "k": "SOLANA · 24H",
+          "v": "$102.60",
+          "n": "+1.3%",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "One hundred eighty-one million dollars liquidated in a day. Three quarters of it was shorts.",
+      "cap": "$181M liquidated in 24h. ~3/4 of it was shorts.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$181M",
+      "items": [
+        {
+          "label": "SHORTS · 76%",
+          "pct": 76,
+          "color": "#14532D"
+        },
+        {
+          "label": "LONGS · 24%",
+          "pct": 24,
+          "color": "#B91C1C"
+        }
+      ],
+      "note": "CoinGlass"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs took in one hundred seventy-six million Tuesday. Ether ETFs lost sixty million.",
+      "cap": "BTC ETFs +$176M Tuesday. ETH ETFs −$60M.",
+      "k": "SPOT ETF FLOWS · TUE",
+      "items": [
+        {
+          "k": "BITCOIN ETFS",
+          "v": "+$176M",
+          "color": "green"
+        },
+        {
+          "k": "ETHER ETFS",
+          "v": "−$60M",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: a ten to two vote to hold, with both dissenters pushing for another hike.",
+      "cap": "The driver: a 10–2 vote to hold, both dissenters wanted a hike.",
+      "k": "MAIN DRIVER",
+      "text": "Fed holds: 10–2 split vote",
+      "items": [
+        {
+          "k": "FED RATE",
+          "v": "3.75–4.00%",
+          "color": "amber"
+        },
+        {
+          "k": "DISSENTS",
+          "v": "2 WANT A HIKE",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next: G D P and P C E inflation today, then about eleven billion in Bitcoin options expire Friday.",
+      "cap": "Next: GDP + PCE today, then ~$11B in BTC options expire Friday.",
+      "k": "WHAT'S NEXT",
+      "items": [
+        {
+          "k": "THU · OCT 29",
+          "v": "GDP + PCE 8:30 ET"
+        },
+        {
+          "k": "FRI · OCT 30",
+          "v": "~$10.9B BTC OPTIONS"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: eighty-one thousand four hundred above, eighty thousand below.",
+      "cap": "Levels to watch: ~$81.4K above, $80K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$81,400",
+          "color": "amber"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$80,000",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Fed holds, but 2 officials wanted a hike: Bitcoin near $81K, $181M liquidated",
+  "caption": "fed holds at 3.75–4.00% in a 10–2 vote 🏛️ two dissenters wanted a hike. btc near $81.2k, $181m liquidated (76% shorts), btc etfs +$176m tue, eth etfs -$60m. gdp + pce today, ~$11b btc options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading"
+}
