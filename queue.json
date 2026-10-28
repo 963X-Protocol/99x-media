@@ -105,8 +105,10 @@
       "file": "videos/brief-2026-10-29.mp4",
       "title": "Fed holds, but 2 officials wanted a hike: Bitcoin near $81K, $181M liquidated",
       "caption": "fed holds at 3.75–4.00% in a 10–2 vote 🏛️ two dissenters wanted a hike. btc near $81.2k, $181m liquidated (76% shorts), btc etfs +$176m tue, eth etfs -$60m. gdp + pce today, ~$11b btc options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-29T08:30:00+07:00",
+      "bufferPostId": "6ae28bfacc91be5434b8b669"
     }
   ]
 }
