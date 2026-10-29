@@ -115,8 +115,10 @@
       "file": "videos/insight-2026-10-29.mp4",
       "title": "Robinhood crypto revenue -55%, Coinbase reports tonight: crypto earnings week",
       "caption": "crypto earnings week 📉 robinhood's crypto revenue fell 55% vs a year ago, coinbase reports after the us close thursday, strategy paused btc buys (still 848,517 btc) and ripple got final occ approval for a national trust bank. what are you watching in coinbase's numbers? 👇 not financial advice.\n\n#crypto #bitcoin #coinbase #robinhood #cryptonews #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6ae2eae62467e67f12831fd5",
+      "dueAt": "2026-10-29T20:00:00+07:00"
     }
   ]
 }
