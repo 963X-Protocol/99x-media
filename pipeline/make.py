@@ -30,6 +30,17 @@ CTA = [
 ]
 
 
+
+def launch(p):
+    # Cloud images ship a pinned Chromium that may not match the pip playwright version.
+    exe = "/opt/pw-browsers/chromium"
+    try:
+        return p.chromium.launch()
+    except Exception:
+        if os.path.exists(exe):
+            return p.chromium.launch(executable_path=exe, args=["--no-sandbox"])
+        raise
+
 def voice(ep, work):
     from kokoro_onnx import Kokoro
     k = Kokoro(str(HERE / "models/kokoro-v1.0.onnx"), str(HERE / "models/voices-v1.0.bin"))
@@ -72,7 +83,7 @@ def stills(ep, tm, work):
     cfg = scene_cfg(tm)
     ts = [0.8] + [LEAD + c["end"] - 0.25 for c in tm["chunks"]] + [cfg["dur"] - 0.6]
     with sync_playwright() as p:
-        b = p.chromium.launch(); pg = open_page(b, ep, cfg)
+        b = launch(p); pg = open_page(b, ep, cfg)
         for i, t in enumerate(ts):
             pg.evaluate(f"renderAt({t:.3f})"); pg.screenshot(path=str(work / f"s_{i:02d}.png"))
         b.close()
@@ -86,7 +97,7 @@ def video(ep, tm, work):
     from playwright.sync_api import sync_playwright
     cfg = scene_cfg(tm); n = int(round(cfg["dur"] * FPS))
     with sync_playwright() as p:
-        b = p.chromium.launch(); pg = open_page(b, ep, cfg)
+        b = launch(p); pg = open_page(b, ep, cfg)
         ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "image2pipe", "-framerate", str(FPS), "-c:v", "mjpeg", "-i", "-",
                                "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p", "-r", str(FPS), str(work / "silent.mp4")], stdin=subprocess.PIPE)
         for i in range(n):

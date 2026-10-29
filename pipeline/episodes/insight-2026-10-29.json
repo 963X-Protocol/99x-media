@@ -1,0 +1,126 @@
+{
+  "id": "insight-2026-10-29",
+  "series": "INSIGHT",
+  "badge": "EARNINGS WEEK",
+  "badgeColor": "purple",
+  "date": "OCT 29, 2026",
+  "src": "data as of Oct 29, ~07:00 UTC · sources: CoinDesk, Coinotag, Crowdfund Insider, The Block, Decrypt, Bitcoin Magazine, Bloomberg (via KuCoin), Coinbase · not financial advice",
+  "tape": [
+    "HOOD CRYPTO REV ▼55%",
+    "COIN Q3 TODAY",
+    "MSTR 848,517 BTC",
+    "RIPPLE OCC ✓",
+    "BTC ~$81,250"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Robinhood's crypto revenue just fell fifty-five percent from a year ago. And Coinbase reports later today.",
+      "cap": "Robinhood's crypto revenue fell 55% YoY. Coinbase reports later today.",
+      "k": "ROBINHOOD · CRYPTO REVENUE · Q3",
+      "from": 0,
+      "to": -55,
+      "suffix": "%",
+      "color": "red",
+      "sub": "vs a year ago · trading volume cooled"
+    },
+    {
+      "type": "headline",
+      "say": "Robinhood also missed profit estimates, and the stock fell after hours.",
+      "cap": "Robinhood also missed profit estimates. Stock fell after hours.",
+      "k": "EARNINGS · WED",
+      "text": "Robinhood misses on profit",
+      "items": [
+        {
+          "k": "CRYPTO REVENUE",
+          "v": "−55% YoY",
+          "color": "red"
+        },
+        {
+          "k": "STOCK",
+          "v": "FELL AFTER HOURS",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Coinbase reports after the U S close Thursday. Analysts are split on whether trading bounced back.",
+      "cap": "Coinbase reports after the US close Thu. Analysts are split.",
+      "k": "EARNINGS · THU",
+      "text": "Coinbase Q3: was there a rebound?",
+      "items": [
+        {
+          "k": "REPORTS",
+          "v": "THU · AFTER CLOSE",
+          "color": "amber"
+        },
+        {
+          "k": "WALL STREET",
+          "v": "SPLIT",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Strategy bought no bitcoin last week. It spent about two hundred five million buying back preferred shares.",
+      "cap": "Strategy bought no BTC last week. ~$205M went to preferred buybacks.",
+      "k": "TREASURIES",
+      "text": "Strategy pauses its bitcoin buys",
+      "items": [
+        {
+          "k": "HOLDS",
+          "v": "848,517 BTC",
+          "color": "teal"
+        },
+        {
+          "k": "STRC BUYBACK",
+          "v": "~$205M",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "And Ripple won final approval from the O C C to charter a national trust bank.",
+      "cap": "And Ripple won final OCC approval to charter a national trust bank.",
+      "k": "REGULATION",
+      "text": "Ripple gets final OCC bank charter OK",
+      "items": [
+        {
+          "k": "ENTITY",
+          "v": "NATIONAL TRUST",
+          "color": "teal"
+        },
+        {
+          "k": "FOCUS",
+          "v": "CUSTODY · RLUSD",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: retail cooled, big players keep building. Next: Coinbase, then Friday's options expiry.",
+      "cap": "Retail cooled, big players keep building. Next: Coinbase, then Friday's options expiry.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {
+          "k": "THU · AFTER US CLOSE",
+          "v": "COINBASE Q3"
+        },
+        {
+          "k": "FRI · OCT 30",
+          "v": ">$11B BTC OPTIONS"
+        }
+      ]
+    }
+  ],
+  "title": "Robinhood crypto revenue -55%, Coinbase reports tonight: crypto earnings week",
+  "caption": "crypto earnings week 📉 robinhood's crypto revenue fell 55% vs a year ago, coinbase reports after the us close thursday, strategy paused btc buys (still 848,517 btc) and ripple got final occ approval for a national trust bank. what are you watching in coinbase's numbers? 👇 not financial advice.\n\n#crypto #bitcoin #coinbase #robinhood #cryptonews #trading"
+}
