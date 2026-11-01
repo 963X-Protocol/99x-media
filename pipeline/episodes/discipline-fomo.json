@@ -1,0 +1,82 @@
+{
+ "id": "discipline-fomo",
+ "series": "TRADING 101",
+ "badge": "MINDSET",
+ "badgeColor": "teal",
+ "date": "FOMO CHECK",
+ "src": "educational · not a trade signal · trading involves risk · not financial advice",
+ "tape": [
+  "BIG CANDLE ≠ YOUR SETUP",
+  "3 QUESTIONS BEFORE YOU CHASE",
+  "NO ANSWERS · NO TRADE",
+  "MISSING A MOVE COSTS $0"
+ ],
+ "tapeColor": "teal",
+ "beats": [
+  {
+   "type": "hero",
+   "say": "Huge green candle. Everyone's posting gains. And you want in right now.",
+   "cap": "Huge green candle. Everyone's posting gains. And you want in right now.",
+   "k": "FOMO ALERT",
+   "text": "CHASE?",
+   "color": "amber",
+   "sub": "read this before you click"
+  },
+  {
+   "type": "cards",
+   "say": "Here's the thing. The candle already moved. Your plan didn't.",
+   "cap": "Here's the thing: the candle already moved. Your plan didn't.",
+   "items": [
+    {
+     "k": "THE MOVE",
+     "v": "ALREADY GONE",
+     "n": "you're late to someone else's trade",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "say": "So ask three questions. Is this my setup? Where's my stop? What's my size?",
+   "cap": "So ask 3 questions: Is this my setup? Where's my stop? What's my size?",
+   "k": "3 QUESTIONS",
+   "items": [
+    {
+     "k": "QUESTION 1",
+     "v": "MY SETUP?"
+    },
+    {
+     "k": "QUESTION 2",
+     "v": "MY STOP?"
+    },
+    {
+     "k": "QUESTION 3",
+     "v": "MY SIZE?"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "say": "Can't answer all three in ten seconds? Then it's not a trade. It's a feeling.",
+   "cap": "Can't answer all 3 in 10 seconds? Then it's not a trade. It's a feeling.",
+   "items": [
+    {
+     "k": "NO ANSWERS",
+     "v": "NO TRADE",
+     "n": "a feeling is not a plan",
+     "color": "teal"
+    }
+   ]
+  },
+  {
+   "type": "headline",
+   "say": "Missing a move costs you nothing. Chasing one can cost you a lot.",
+   "cap": "Missing a move costs you nothing. Chasing one can cost you a lot.",
+   "k": "REMEMBER",
+   "text": "Missing a move costs $0.",
+   "sub": "chasing one can cost a lot more"
+  }
+ ],
+ "title": "Huge green candle, you want in? Ask these 3 questions first",
+ "caption": "huge green candle and you want in right now? 🕯️ ask 3 questions first: is this my setup, where's my stop, what's my size. no answers, no trade. not financial advice. what's the move you regret chasing? 👇\n\n#trading #fomo #tradingpsychology #crypto #riskmanagement"
+}

@@ -127,7 +127,25 @@
       "caption": "market swinging hard? 🌊 the traders who last aren't faster, they have rules: plan first, small fixed risk per trade, a daily stop, no revenge trades. examples only, set your own limits. not financial advice. which rule do you break the most? 👇\n\n#trading #tradingpsychology #riskmanagement #crypto #aitrading",
       "status": "draft",
       "bufferUrl": "",
-      "proposedDueAt": "2026-11-02T20:00:00+07:00"
+      "dueAt": "2026-11-02T20:00:00+07:00"
+    },
+    {
+      "id": "discipline-limits-first",
+      "file": "videos/discipline-limits-first.mp4",
+      "title": "3 limits to set before you click buy",
+      "caption": "the worst time to decide your risk is after you click buy 🛑 set 3 limits first: your stop, your size, your leverage cap. example numbers only, set your own. not financial advice. which one do you skip most? 👇\n\n#trading #riskmanagement #tradingpsychology #crypto #aitrading",
+      "status": "draft",
+      "bufferUrl": "",
+      "dueAt": "2026-11-04T20:00:00+07:00"
+    },
+    {
+      "id": "discipline-fomo",
+      "file": "videos/discipline-fomo.mp4",
+      "title": "Huge green candle, you want in? Ask these 3 questions first",
+      "caption": "huge green candle and you want in right now? 🕯️ ask 3 questions first: is this my setup, where's my stop, what's my size. no answers, no trade. not financial advice. what's the move you regret chasing? 👇\n\n#trading #fomo #tradingpsychology #crypto #riskmanagement",
+      "status": "draft",
+      "bufferUrl": "",
+      "dueAt": "2026-11-06T20:00:00+07:00"
     }
   ]
 }

@@ -1,0 +1,78 @@
+{
+ "id": "discipline-limits-first",
+ "series": "TRADING 101",
+ "badge": "MINDSET",
+ "badgeColor": "teal",
+ "date": "BEFORE YOU CLICK",
+ "src": "educational · example numbers, set your own · trading involves risk · not financial advice",
+ "tape": [
+  "SET LIMITS FIRST",
+  "STOP · WHERE YOU'RE WRONG",
+  "SIZE · FROM YOUR MAX LOSS",
+  "LEVERAGE · A HARD CAP",
+  "DECIDE WHILE CALM"
+ ],
+ "tapeColor": "teal",
+ "beats": [
+  {
+   "type": "hero",
+   "say": "The worst time to decide your risk is after you click buy.",
+   "cap": "The worst time to decide your risk is after you click buy.",
+   "k": "BEFORE YOU CLICK",
+   "from": 0,
+   "to": 3,
+   "color": "teal",
+   "suffix": " LIMITS",
+   "sub": "set them first, every single trade"
+  },
+  {
+   "type": "cards",
+   "say": "Limit one. Your stop. The price where your idea is simply wrong.",
+   "cap": "Limit #1: your stop. The price where your idea is simply wrong.",
+   "items": [
+    {
+     "k": "LIMIT #1",
+     "v": "THE STOP",
+     "n": "where your idea is wrong",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "say": "Limit two. Your size. Pick it so hitting the stop costs only what you planned to lose.",
+   "cap": "Limit #2: your size. Pick it so hitting the stop costs only what you planned to lose.",
+   "items": [
+    {
+     "k": "LIMIT #2",
+     "v": "THE SIZE",
+     "n": "max loss ÷ distance to stop",
+     "color": "amber"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "say": "Limit three. A leverage cap you never go above. For example, three x.",
+   "cap": "Limit #3: a leverage cap you never go above. Example: 3×.",
+   "items": [
+    {
+     "k": "LIMIT #3",
+     "v": "MAX 3×",
+     "n": "example cap · you set your own",
+     "color": "purple"
+    }
+   ]
+  },
+  {
+   "type": "headline",
+   "say": "Set all three while you're calm. Not in the middle of a red candle.",
+   "cap": "Set all 3 while you're calm. Not in the middle of a red candle.",
+   "k": "WHEN TO DECIDE",
+   "text": "Decide calm. Execute later.",
+   "sub": "your limits shouldn't change mid-candle"
+  }
+ ],
+ "title": "3 limits to set before you click buy",
+ "caption": "the worst time to decide your risk is after you click buy 🛑 set 3 limits first: your stop, your size, your leverage cap. example numbers only, set your own. not financial advice. which one do you skip most? 👇\n\n#trading #riskmanagement #tradingpsychology #crypto #aitrading"
+}
