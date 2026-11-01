@@ -1,0 +1,27 @@
+{
+  "id": "recap-2026-11-01",
+  "series": "WEEKLY RECAP",
+  "badge": "THIS WEEK",
+  "date": "NOV 1, 2026",
+  "src": "data as of Oct 31, ~00:47 UTC · sources: CryptoTicker, 24/7 Wall St. (SoSoValue), Bitcoin News Digest, KuCoin · not financial advice",
+  "tape": ["BTC ~$77,290 ▼4.0% 7D", "ETH ~$2,246 ▼5.2% 7D", "BINANCE −$6.3B HACK", "BTC ETFS −$202M WK", "ETH ETFS −$432M WK", "JOBS FRI NOV 6"],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR THE WEEKLY RECAP",
+  "followSay": "Follow for the weekly recap.",
+  "beats": [
+    {"type": "hero", "say": "About six point three billion dollars drained from Binance. Here's your crypto week.", "cap": "~$6.3B drained from Binance. Here's your crypto week.",
+     "k": "THE WEEK'S BIGGEST STORY", "from": 0, "to": 6.3, "dec": 1, "prefix": "$", "suffix": "B", "color": "red", "sub": "Binance hack · Thu, Oct 29"},
+    {"type": "cards", "say": "Bitcoin fell four percent on the week, near seventy-seven thousand. Ether lost over five percent.", "cap": "BTC −4% on the week, near $77K. ETH lost >5%.",
+     "k": "7-DAY MOVE", "items": [{"k": "BITCOIN · 7D", "v": "$77,290", "n": "−4.0%", "color": "red"}, {"k": "ETHER · 7D", "v": "$2,246", "n": "−5.2%", "color": "red"}]},
+    {"type": "headline", "say": "TRM Labs blames North Korea's TraderTraitor. About three billion is frozen, and Binance says it will cover all losses.", "cap": "TRM Labs blames North Korea's TraderTraitor. ~$3B frozen; Binance says it will cover all losses.",
+     "k": "BINANCE HACK", "text": "Binance pledges to cover all losses", "items": [{"k": "DRAINED", "v": "~$6.3B", "color": "red"}, {"k": "FROZEN", "v": "~$3B", "color": "teal"}]},
+    {"type": "cards", "say": "Bitcoin ETFs lost two hundred two million on the week. Ether ETFs bled for eleven straight days.", "cap": "BTC ETFs −$202M on the week. ETH ETFs bled 11 straight days.",
+     "k": "SPOT ETF FLOWS · WEEK", "items": [{"k": "BITCOIN ETFS", "v": "−$202M", "color": "red"}, {"k": "ETHER ETFS", "v": "−$432M", "n": "11 days of outflows", "color": "red"}]},
+    {"type": "headline", "say": "On the institutional side, Strive bought six thousand one hundred eighty-two Bitcoin, to about forty-three thousand.", "cap": "Institutions: Strive bought 6,182 BTC, now ~43,000 BTC.",
+     "k": "INSTITUTIONS", "text": "Strive buys 6,182 BTC", "items": [{"k": "TOTAL HOLDINGS", "v": "~43,000 BTC", "color": "teal"}]},
+    {"type": "list", "say": "Next week: U S midterms Tuesday, I S M services Wednesday, and the jobs report Friday.", "cap": "Next week: US midterms Tue, ISM services Wed, jobs report Fri.",
+     "k": "NEXT WEEK", "items": [{"k": "TUE · NOV 3", "v": "US MIDTERMS"}, {"k": "WED · NOV 4", "v": "ISM SERVICES"}, {"k": "FRI · NOV 6", "v": "JOBS REPORT"}]}
+  ],
+  "title": "Binance loses ~$6.3B in a hack, Bitcoin −4% on the week: your crypto recap",
+  "caption": "the week in crypto 🗓️ ~$6.3b drained from binance (≈$3b frozen, binance says it will cover losses), btc −4% near $77.3k, eth −5.2%, btc etfs −$202m, eth etfs −$432m (11 straight days out), strive added 6,182 btc. next week: us midterms, ism, jobs report fri. not financial advice.\n\n#bitcoin #crypto #binance #cryptonews #weeklyrecap"
+}
