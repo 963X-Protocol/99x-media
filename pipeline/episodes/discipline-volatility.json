@@ -1,0 +1,26 @@
+{
+  "id": "discipline-volatility",
+  "series": "TRADING 101",
+  "badge": "MINDSET",
+  "badgeColor": "teal",
+  "date": "4 RULES",
+  "src": "educational · example limits, set your own · trading involves risk · not financial advice",
+  "tape": ["RULE 1 · PLAN FIRST", "RULE 2 · RISK PER TRADE", "RULE 3 · DAILY STOP", "RULE 4 · NO REVENGE", "PATIENCE IS A POSITION"],
+  "tapeColor": "teal",
+  "beats": [
+    {"type": "hero", "say": "Market swinging hard? The traders who last aren't faster. They have rules.", "cap": "Market swinging hard? The traders who last aren't faster. They have rules.",
+     "k": "VOLATILE MARKET?", "from": 0, "to": 4, "color": "teal", "suffix": " RULES", "sub": "to stay disciplined when it gets loud"},
+    {"type": "cards", "say": "Rule one. No plan, no trade. Write your entry, exit and size before you click.", "cap": "Rule #1: no plan, no trade. Write your entry, exit and size before you click.",
+     "items": [{"k": "RULE #1", "v": "PLAN FIRST", "n": "entry · exit · size, written down", "color": "teal"}]},
+    {"type": "cards", "say": "Rule two. Risk a small, fixed slice per trade. For example, one percent of your account.", "cap": "Rule #2: risk a small, fixed slice per trade. Example: 1% of your account.",
+     "items": [{"k": "RULE #2", "v": "1% / TRADE", "n": "example limit · you set your own", "color": "amber"}]},
+    {"type": "cards", "say": "Rule three. A daily loss limit. Hit it, and you're done until tomorrow.", "cap": "Rule #3: a daily loss limit. Hit it, and you're done until tomorrow.",
+     "items": [{"k": "RULE #3", "v": "−3% / DAY", "n": "example · then stop until tomorrow", "color": "red"}]},
+    {"type": "list", "say": "Rule four. No revenge trades. After three losses, step away. After a big win, keep the same size.", "cap": "Rule #4: no revenge trades. After 3 losses, step away. After a big win, keep the same size.",
+     "k": "RULE #4 · NO REVENGE", "items": [{"k": "AFTER 3 LOSSES", "v": "STEP AWAY"}, {"k": "AFTER A BIG WIN", "v": "SAME SIZE"}]},
+    {"type": "headline", "say": "And remember: no setup means no trade. Sitting out is a decision too.", "cap": "And remember: no setup means no trade. Sitting out is a decision too.",
+     "k": "PATIENCE", "text": "No setup? Doing nothing is a decision.", "sub": "patience is a position"}
+  ],
+  "title": "4 rules to stay disciplined when the market gets wild",
+  "caption": "market swinging hard? 🌊 the traders who last aren't faster, they have rules: plan first, small fixed risk per trade, a daily stop, no revenge trades. examples only, set your own limits. not financial advice. which rule do you break the most? 👇\n\n#trading #tradingpsychology #riskmanagement #crypto #aitrading"
+}
