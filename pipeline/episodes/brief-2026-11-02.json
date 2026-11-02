@@ -1,0 +1,146 @@
+{
+  "id": "brief-2026-11-02",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 2, 2026",
+  "src": "data as of Nov 1, ~21:00 UTC · sources: TokenPost, crypto.news, CryptoTicker, SoSoValue (TokenPost), 24/7 Wall St, Newsquawk · not financial advice",
+  "tape": [
+    "BTC ~$77,906 ▲0.4%",
+    "ETH ~$2,264 ▲0.4%",
+    "SOL ~$94.35 ▼1.4%",
+    "LIQ 24H $56M",
+    "BTC ETF FRI −$643M",
+    "MIDTERMS TUE"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Binance reopened Bitcoin withdrawals after a six point three billion dollar hack. Bitcoin sits near seventy-eight thousand.",
+      "cap": "Binance reopened BTC withdrawals after a $6.3B hack. BTC sits near $78K.",
+      "k": "BITCOIN · AFTER THE HACK",
+      "from": 76338,
+      "to": 77906,
+      "prefix": "$",
+      "color": "white",
+      "sub": "+0.4% in 24h · week low $76,338"
+    },
+    {
+      "type": "cards",
+      "say": "Ether is up under half a percent. Solana slips one point four percent, near ninety-four.",
+      "cap": "ETH up 0.4%. SOL down 1.4%, near $94.",
+      "items": [
+        {
+          "k": "ETHEREUM · 24H",
+          "v": "$2,264",
+          "n": "+0.4%",
+          "color": "green"
+        },
+        {
+          "k": "SOLANA · 24H",
+          "v": "$94.35",
+          "n": "−1.4%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "A quiet Sunday: fifty-six million liquidated, about six in ten longs.",
+      "cap": "Quiet Sunday: $56M liquidated, ~6 in 10 longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$56M",
+      "items": [
+        {
+          "label": "LONGS · 61%",
+          "pct": 61,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · 39%",
+          "pct": 39,
+          "color": "#14532D"
+        }
+      ],
+      "note": "Binance, Bybit, OKX"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost six hundred forty-three million Friday, the most in a day since June.",
+      "cap": "BTC ETFs −$643M Friday, the most in a day since June.",
+      "k": "SPOT BTC ETF FLOWS · FRI",
+      "items": [
+        {
+          "k": "BITCOIN ETFS · OCT 30",
+          "v": "−$643M",
+          "n": "worst day since late June",
+          "color": "red"
+        },
+        {
+          "k": "INFLOW STREAK",
+          "v": "ENDED AT 4",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: Binance says about ninety-five percent of the hacked assets are now replenished.",
+      "cap": "The driver: Binance says ~95% of hacked assets are replenished.",
+      "k": "MAIN DRIVER",
+      "text": "Binance reopens withdrawals after hack",
+      "items": [
+        {
+          "k": "HACK · OCT 29",
+          "v": "$6.3B",
+          "color": "red"
+        },
+        {
+          "k": "REPLENISHED",
+          "v": "~95%",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "This week: I S M today, U S midterms Tuesday, jobs report Friday.",
+      "cap": "This week: ISM today, US midterms Tuesday, jobs report Friday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "MON · NOV 2",
+          "v": "ISM MANUFACTURING"
+        },
+        {
+          "k": "TUE · NOV 3",
+          "v": "US MIDTERMS"
+        },
+        {
+          "k": "FRI · NOV 6",
+          "v": "JOBS REPORT"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: eighty thousand above, last week's low near seventy-six thousand three hundred below.",
+      "cap": "Levels to watch: $80K above, last week's low ~$76.3K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$80,000",
+          "color": "amber"
+        },
+        {
+          "k": "WEEK LOW",
+          "v": "$76,338",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Binance reopens withdrawals after $6.3B hack: Bitcoin near $78K, BTC ETFs -$643M",
+  "caption": "binance reopened btc withdrawals after the $6.3b hack and says ~95% of affected assets are replenished 🔓 btc near $77.9k, eth $2,264, sol $94. $56m liquidated in 24h (mostly longs). btc etfs -$643m friday, worst day since late june. this week: ism today, us midterms tue, jobs report fri. not financial advice.\n\n#bitcoin #crypto #binance #cryptonews #trading"
+}
