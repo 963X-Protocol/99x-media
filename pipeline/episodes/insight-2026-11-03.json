@@ -1,0 +1,81 @@
+{
+  "id": "insight-2026-11-03",
+  "series": "INSIGHT",
+  "badge": "DEAL FLOW",
+  "badgeColor": "purple",
+  "date": "NOV 3, 2026",
+  "src": "data as of Nov 3, ~09:00 UTC · sources: The Block, Binance, Strategy 8-K, Bitmine, Circle, KuCoin · not financial advice",
+  "tape": [
+    "BINANCE −$3.64B / 9.5H",
+    "HACK $6.3B · ~95% REFILLED",
+    "MSTR +811 BTC",
+    "BMNR +8,573 ETH",
+    "XYZ Q3 TODAY",
+    "CRCL Q3 WED"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Three point six four billion dollars left Binance in under ten hours after it reopened withdrawals.",
+      "cap": "$3.64B left Binance in under 10 hours after it reopened withdrawals.",
+      "k": "BINANCE · NET OUTFLOWS · FIRST 9.5H",
+      "from": 0,
+      "to": 3.64,
+      "dec": 2,
+      "prefix": "$",
+      "suffix": "B",
+      "color": "red",
+      "sub": "after the record $6.3B hack · Sunday"
+    },
+    {
+      "type": "headline",
+      "say": "Binance says it has refilled about ninety-five percent of the stolen assets, and published a new proof of reserves.",
+      "cap": "Binance says it refilled ~95% of stolen assets and published a new proof of reserves.",
+      "k": "EXCHANGES · MON",
+      "text": "Binance refills reserves after hack",
+      "items": [
+        {"k": "HACK", "v": "$6.3B", "color": "red"},
+        {"k": "REFILLED", "v": "~95%", "color": "teal"}
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Big buyers didn't flinch. Strategy bought eight hundred eleven bitcoin for sixty-five point five million.",
+      "cap": "Big buyers didn't flinch. Strategy bought 811 BTC for $65.5M.",
+      "k": "TREASURIES · MON",
+      "text": "Strategy keeps buying bitcoin",
+      "items": [
+        {"k": "BOUGHT", "v": "811 BTC", "color": "teal"},
+        {"k": "NOW HOLDS", "v": "849,327 BTC", "color": "purple"}
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Bitmine added eight thousand five hundred seventy-three ether. Tom Lee called the muted hack reaction very constructive.",
+      "cap": "Bitmine added 8,573 ETH. Tom Lee called the muted hack reaction \"very constructive.\"",
+      "k": "TREASURIES · MON",
+      "text": "Bitmine adds ether, now 4.9% of supply",
+      "items": [
+        {"k": "ADDED", "v": "8,573 ETH", "color": "teal"},
+        {"k": "NOW HOLDS", "v": "6.06M ETH", "color": "purple"}
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: exchange risk is back, but treasuries kept buying. Next up: Block earnings today, Circle on Wednesday.",
+      "cap": "Exchange risk is back, but treasuries kept buying. Next: Block earnings today, Circle on Wednesday.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {"k": "TUE · NOV 3", "v": "BLOCK Q3"},
+        {"k": "WED · NOV 4", "v": "CIRCLE Q3"},
+        {"k": "WED · NOV 4", "v": "BINANCE NEW SNAPSHOT"}
+      ]
+    }
+  ],
+  "title": "$3.64B left Binance in 10 hours. Strategy and Bitmine kept buying anyway",
+  "caption": "deal flow after the binance hack 🏦 $3.64b left binance in the first 9.5 hours after withdrawals reopened, binance says ~95% of stolen assets are refilled, strategy bought 811 btc and bitmine added 8,573 eth. block reports today, circle on wednesday. would you keep funds on an exchange right now? 👇 not financial advice.\n\n#crypto #bitcoin #binance #ethereum #cryptonews #trading"
+}
