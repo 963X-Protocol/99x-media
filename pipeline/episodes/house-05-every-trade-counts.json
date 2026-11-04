@@ -60,8 +60,8 @@
     },
     {
       "type": "cards",
-      "say": "And it's Halving Trading. The mint rate steps down at every band. Right now, it's at the max.",
-      "cap": "And it's Halving Trading. The mint rate steps down at every band. Right now, it's at the max.",
+      "say": "And it's Halving Trading. The mint rate halves every band. Right now, it's at the max.",
+      "cap": "And it's Halving Trading. The mint rate halves every band. Right now, it's at the max.",
       "items": [
         {
           "k": "MINT RATE",
@@ -92,5 +92,5 @@
     }
   ],
   "title": "Win or lose, every trade on 99X counts",
-  "caption": "win or lose, every trade counts 🏠 win and keep the profit. lose and your realized loss mints 99x house to you. stake it and share usdc rewards from 1% of house pnl. halving trading: the mint rate steps down at every band, now at the max. 99x house has no market price. which side are you on today? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
+  "caption": "win or lose, every trade counts 🏠 win and keep the profit. lose and your realized loss mints 99x house to you. stake it and share usdc rewards from 1% of house pnl. halving trading: the mint rate halves every band, now at the max. 99x house has no market price. which side are you on today? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
 }
