@@ -149,6 +149,56 @@
       "bufferUrl": "",
       "bufferPostId": "6ae9a24c310a3657584cd2d6",
       "dueAt": "2026-11-03T20:00:00+07:00"
+    },
+    {
+      "id": "house-01-lose-still-get",
+      "file": "videos/house-01-lose-still-get.mp4",
+      "title": "Lost a trade? On 99X you still walk away with something",
+      "caption": "lost a trade? on 99x your realized loss mints 99x house straight to you 🏠 win and the profit is yours, stake 99x house and share usdc rewards from the house. it's halving trading: the mint rate halves every band and we're still in the first. 99x house has no market price. what would you do with yours? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aeb5ea3610a51b44dd9cd39",
+      "dueAt": "2026-11-06T12:00:00+07:00"
+    },
+    {
+      "id": "house-02-meet-the-house",
+      "file": "videos/house-02-meet-the-house.mp4",
+      "title": "Who's on the other side of your trade? Meet the 99X House",
+      "caption": "every trade has another side. on 99x it's the house 🏠 $3.8m in volume so far, losing traders get 99x house minted from realized losses, and stakers share 1% of house pnl in usdc. all live on the house page. did you know who you trade against? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #perps #tradetoearn #99x",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aeb5ea4acc4680b0b555db4",
+      "dueAt": "2026-11-08T12:00:00+07:00"
+    },
+    {
+      "id": "house-03-stake-earn-usdc",
+      "file": "videos/house-03-stake-earn-usdc.mp4",
+      "title": "Stake 99X House, earn USDC: from a losing trade to rewards in 3 steps",
+      "caption": "a losing trade can still lead to usdc rewards 💵 realized loss mints 99x house to you, stake it, share rewards from 1% of house pnl paid in usdc. rewards move with house pnl. 99x house has no market price. would you stake yours? 👇 trading involves risk, not financial advice.\n\n#crypto #staking #usdc #defi #tradetoearn #99x",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aeb5ea5a6d053c9c52a3569",
+      "dueAt": "2026-11-10T12:00:00+07:00"
+    },
+    {
+      "id": "house-04-halving-trading",
+      "file": "videos/house-04-halving-trading.mp4",
+      "title": "Halving Trading: $100 lost = 20,000 99X House, until the 1M halving",
+      "caption": "halving trading ⛏️ right now a $100 realized loss mints 20,000 99x house. every band the rate halves: 200 → 100 at the 1m halving → 50 at 10m → 25 at 100m → 12.5 at 1b → 0 at 10b. about 14k minted so far. no presale. 99x house has no market price. which band will you trade in? 👇 trading involves risk, not financial advice.\n\n#crypto #halving #defi #tradetoearn #trading #99x",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aeb5ea5acc4680b0b555e12",
+      "dueAt": "2026-11-12T12:00:00+07:00"
+    },
+    {
+      "id": "house-05-every-trade-counts",
+      "file": "videos/house-05-every-trade-counts.mp4",
+      "title": "Win or lose, every trade on 99X counts",
+      "caption": "win or lose, every trade counts 🏠 win and keep the profit. lose and your realized loss mints 99x house to you. stake it and share usdc rewards from 1% of house pnl. halving trading: the mint rate halves every band, now at the max. 99x house has no market price. which side are you on today? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aeb5ea6de5163115e161ed0",
+      "dueAt": "2026-11-14T12:00:00+07:00"
     }
   ]
 }
