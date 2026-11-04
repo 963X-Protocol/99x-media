@@ -16,6 +16,37 @@
   "follow": "FOLLOW FOR HOUSE 101",
   "followSay": "Follow to see how the House works.",
   "followCap": "Follow to see how the House works.",
+  "cta": [
+    [
+      "Win or lose, every trade counts on ninety-nine X.",
+      "Win or lose, every trade counts on 99X."
+    ],
+    [
+      "Lose, and you mint ninety-nine X House. Stake it, and earn USDC.",
+      "Lose, and you mint 99X House. Stake it, and earn USDC."
+    ]
+  ],
+  "pitch": {
+    "head": "Win or lose, it counts on <span style=\"color:#00E0C6\">99X House</span>.",
+    "cards": [
+      {
+        "who": "EXAMPLE ▸ TRADE CLOSED",
+        "line": "SOL long · realized PnL −$100",
+        "res": "✓ 20,000 99X House minted · first band"
+      },
+      {
+        "who": "EXAMPLE ▸ STAKE",
+        "line": "stake 20,000 99X House",
+        "res": "✓ earning USDC · from 1% of House PnL"
+      }
+    ],
+    "chips": [
+      "win · keep profit",
+      "lose · mint 99X House",
+      "stake · earn USDC"
+    ],
+    "endTitle": "Win or lose.<br><span>Every trade counts.</span>"
+  },
   "beats": [
     {
       "type": "hero",
