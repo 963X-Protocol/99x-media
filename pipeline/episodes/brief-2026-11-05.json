@@ -1,0 +1,150 @@
+{
+  "id": "brief-2026-11-05",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 5, 2026",
+  "src": "data as of Nov 4, ~17:00–19:00 UTC · sources: Crypto News Flash, Bitcoin.com, Cointelegraph, crypto.news, TokenPost, The Coin Republic, RoboForex · not financial advice",
+  "tape": [
+    "BTC ~$80,412 ▲4.0%",
+    "ETH ~$2,428 ▲6.3%",
+    "SOL ~$96.54 ▲3.8%",
+    "LIQ $951M 24H",
+    "DEMS WIN CONGRESS",
+    "JOBS REPORT FRI"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Democrats won the House and the Senate, and Bitcoin ripped back above eighty thousand.",
+      "cap": "Democrats won the House and the Senate, and BTC ripped back above $80K.",
+      "k": "BITCOIN · AFTER THE MIDTERMS",
+      "from": 75618,
+      "to": 80412,
+      "prefix": "$",
+      "color": "green",
+      "sub": "+4% in 24h · night low $75,618"
+    },
+    {
+      "type": "cards",
+      "say": "Ether led, up six percent near twenty-four twenty-eight. Solana gained almost four percent.",
+      "cap": "ETH led, +6% near $2,428. SOL gained almost 4%.",
+      "k": "24H MOVES",
+      "items": [
+        {
+          "k": "ETHEREUM · 24H",
+          "v": "$2,428",
+          "n": "+6.29%",
+          "color": "green"
+        },
+        {
+          "k": "SOLANA · 24H",
+          "v": "$96.54",
+          "n": "+3.81%",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Over nine hundred fifty million was liquidated in a day, mostly short sellers.",
+      "cap": "$951M+ liquidated in a day, mostly short sellers.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$951M",
+      "items": [
+        {
+          "label": "SHORTS · 59%",
+          "pct": 59,
+          "color": "#14532D"
+        },
+        {
+          "label": "LONGS · 41%",
+          "pct": 41,
+          "color": "#B91C1C"
+        }
+      ],
+      "note": "CoinGlass data"
+    },
+    {
+      "type": "headline",
+      "say": "Not everything rallied. The TRUMP token fell seventeen percent.",
+      "cap": "Not everything rallied. The TRUMP token fell 17%.",
+      "k": "POLITICAL TOKENS",
+      "text": "Trump-linked tokens slide on the sweep",
+      "items": [
+        {
+          "k": "TRUMP · 24H",
+          "v": "−17%",
+          "n": "~$1.33",
+          "color": "red"
+        },
+        {
+          "k": "WLFI · 24H",
+          "v": "−7%+",
+          "n": "~$0.047",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost one hundred sixteen million Tuesday, a third straight outflow day. Ether ETFs lost eighty-five million.",
+      "cap": "BTC ETFs −$116M Tuesday, a 3rd straight outflow day. ETH ETFs −$85M.",
+      "k": "SPOT ETF FLOWS · NOV 3",
+      "items": [
+        {
+          "k": "BITCOIN ETFS",
+          "v": "−$115.6M",
+          "n": "3rd straight outflow day",
+          "color": "red"
+        },
+        {
+          "k": "ETHER ETFS",
+          "v": "−$85.4M",
+          "n": "7th straight outflow day",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today, the Bank of England sets rates. Friday, the U S jobs report.",
+      "cap": "Today, the Bank of England sets rates. Friday, the US jobs report.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "THU · NOV 5",
+          "v": "BOE RATE DECISION"
+        },
+        {
+          "k": "FRI · NOV 6",
+          "v": "US JOBS REPORT"
+        },
+        {
+          "k": "FRI · NOV 6",
+          "v": "UMICH SENTIMENT"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: eighty-four thousand above, seventy-five six below.",
+      "cap": "Levels to watch: ~$84K above, ~$75.6K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "SELL ZONE",
+          "v": "$84K–85.5K",
+          "color": "amber"
+        },
+        {
+          "k": "NIGHT LOW",
+          "v": "$75,618",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Democrats win Congress and Bitcoin rips back above $80K as $951M gets liquidated",
+  "caption": "democrats won both the house and senate and btc ripped back above $80k 🗳️ btc +4% near $80.4k, eth +6.3%, sol +3.8%. $951m liquidated in 24h, mostly shorts. trump token -17%. btc etfs -$116m tue, 3rd straight outflow day. boe today, us jobs report fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #trading"
+}
