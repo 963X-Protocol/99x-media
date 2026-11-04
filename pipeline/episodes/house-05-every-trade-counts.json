@@ -9,8 +9,8 @@
     "WIN · KEEP PROFIT",
     "LOSE · GET 99X HOUSE",
     "STAKE · EARN USDC",
-    "FAIR LAUNCH",
-    "LIVE ON-SITE"
+    "HALVING TRADING",
+    "RATE 200 → 100 AT 1M"
   ],
   "tapeColor": "teal",
   "follow": "FOLLOW FOR HOUSE 101",
@@ -60,20 +60,20 @@
     },
     {
       "type": "cards",
-      "say": "Fair launch, no presale, and every number is live on the House page.",
-      "cap": "Fair launch, no presale, and every number is live on the House page.",
+      "say": "And it's Halving Trading. The mint rate steps down at every band. Right now, it's at the max.",
+      "cap": "And it's Halving Trading. The mint rate steps down at every band. Right now, it's at the max.",
       "items": [
+        {
+          "k": "MINT RATE",
+          "v": "200",
+          "n": "the max, first band",
+          "color": "teal"
+        },
         {
           "k": "LAUNCH",
           "v": "FAIR",
           "n": "no presale",
           "color": "white"
-        },
-        {
-          "k": "DATA",
-          "v": "LIVE",
-          "n": "on the House page",
-          "color": "teal"
         }
       ]
     },
@@ -92,5 +92,5 @@
     }
   ],
   "title": "Win or lose, every trade on 99X counts",
-  "caption": "win or lose, every trade counts 🏠 win and keep the profit. lose and your realized loss mints 99x house to you. stake it and share usdc rewards from 1% of house pnl. fair launch, no presale. 99x house has no market price. which side are you on today? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
+  "caption": "win or lose, every trade counts 🏠 win and keep the profit. lose and your realized loss mints 99x house to you. stake it and share usdc rewards from 1% of house pnl. halving trading: the mint rate steps down at every band, now at the max. 99x house has no market price. which side are you on today? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
 }
