@@ -1,0 +1,102 @@
+{
+  "id": "house-04-fair-launch",
+  "series": "HOUSE 101",
+  "badge": "FAIR LAUNCH",
+  "badgeColor": "teal",
+  "date": "NOV 12, 2026",
+  "src": "house data read nov 4, 2026 · 99x.exchange/house · trading involves risk · 99X House is minted only from realized losses · it has no market price · not financial advice",
+  "tape": [
+    "FAIR LAUNCH",
+    "NO PRESALE",
+    "CAP 10B",
+    "MINTED 0.00014%",
+    "ONLY FROM LOSSES"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR HOUSE 101",
+  "followSay": "Follow to see how the House works.",
+  "followCap": "Follow to see how the House works.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Point zero zero zero one four percent. That's how much of ninety-nine X House exists so far.",
+      "cap": "0.00014%. That's how much of 99X House exists so far.",
+      "k": "OF THE CAP MINTED",
+      "text": "0.00014%",
+      "color": "teal",
+      "sub": "of the 10B cap, minted so far"
+    },
+    {
+      "type": "cards",
+      "say": "The cap is ten billion. About fourteen thousand are minted.",
+      "cap": "The cap is 10B. About 14K are minted.",
+      "items": [
+        {
+          "k": "CAP",
+          "v": "10B",
+          "n": "authorized supply",
+          "color": "white"
+        },
+        {
+          "k": "MINTED",
+          "v": "~14K",
+          "n": "so far",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "No presale. No private round. It's minted only from realized losses.",
+      "cap": "No presale. No private round. It's minted only from realized losses.",
+      "items": [
+        {
+          "k": "PRESALE",
+          "v": "NONE",
+          "n": "fair launch",
+          "color": "white"
+        },
+        {
+          "k": "MINTED FROM",
+          "v": "LOSSES ONLY",
+          "n": "realized losses",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Don't mix it up with the ninety-nine X governance token on Ethereum. Different token, different job.",
+      "cap": "Don't mix it up with the 99X governance token on Ethereum. Different token, different job.",
+      "items": [
+        {
+          "k": "99X HOUSE",
+          "v": "TRADE TO EARN",
+          "n": "minted from losses",
+          "color": "teal"
+        },
+        {
+          "k": "99X ERC-20",
+          "v": "GOVERNANCE",
+          "n": "on Ethereum",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Every mint shows up live on the House page.",
+      "cap": "Every mint shows up live on the House page.",
+      "items": [
+        {
+          "k": "SUPPLY",
+          "v": "LIVE",
+          "n": "on the House page",
+          "color": "teal"
+        }
+      ]
+    }
+  ],
+  "title": "0.00014% minted: 99X House is a fair launch with no presale",
+  "caption": "0.00014% of the 10b cap minted so far 🏠 99x house is a fair launch: no presale, no private round, minted only from realized losses. not the same as the 99x governance token on ethereum. 99x house has no market price. did you know the difference? 👇 trading involves risk, not financial advice.\n\n#crypto #fairlaunch #defi #tradetoearn #trading #99x"
+}

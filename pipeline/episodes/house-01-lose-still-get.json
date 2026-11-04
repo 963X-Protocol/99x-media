@@ -1,0 +1,28 @@
+{
+  "id": "house-01-lose-still-get",
+  "series": "HOUSE 101",
+  "badge": "TRADE TO EARN",
+  "badgeColor": "teal",
+  "date": "NOV 6, 2026",
+  "src": "house data read nov 4, 2026 · 99x.exchange/house · trading involves risk · 99X House is minted only from realized losses · it has no market price · not financial advice",
+  "tape": ["WIN · KEEP PROFIT", "LOSE · GET 99X HOUSE", "STAKE · EARN USDC", "FAIR LAUNCH", "NO PRESALE"],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR HOUSE 101",
+  "followSay": "Follow to see how the House works.",
+  "followCap": "Follow to see how the House works.",
+  "beats": [
+    {"type": "hero", "say": "Lost a trade? On ninety-nine X, you still walk away with something.", "cap": "Lost a trade? On 99X, you still walk away with something.",
+     "k": "TRADE TO EARN", "text": "LOST?", "color": "red", "sub": "you still walk away with something"},
+    {"type": "cards", "say": "Win, and the profit is yours.", "cap": "Win, and the profit is yours.",
+     "items": [{"k": "YOU WIN", "v": "KEEP PROFIT", "n": "your PnL, settled to you", "color": "green"}]},
+    {"type": "cards", "say": "Lose, and your realized loss mints ninety-nine X House, straight to you.", "cap": "Lose, and your realized loss mints 99X House, straight to you.",
+     "items": [{"k": "YOU LOSE", "v": "GET 99X HOUSE", "n": "minted from your realized loss", "color": "teal"}]},
+    {"type": "cards", "say": "Stake it, and you share USDC rewards from the House.", "cap": "Stake it, and you share USDC rewards from the House.",
+     "items": [{"k": "YOU STAKE", "v": "EARN USDC", "n": "rewards from 1% of House PnL", "color": "purple"}]},
+    {"type": "cards", "say": "Fair launch. No presale. Only a tiny fraction of the ten billion cap is minted so far.", "cap": "Fair launch. No presale. Only a tiny fraction of the 10B cap is minted so far.",
+     "items": [{"k": "MINTED SO FAR", "v": "0.00014%", "n": "of the 10B cap", "color": "teal"},
+               {"k": "PRESALE", "v": "NONE", "n": "minted only from losses", "color": "white"}]}
+  ],
+  "title": "Lost a trade? On 99X you still walk away with something",
+  "caption": "lost a trade? on 99x your realized loss mints 99x house straight to you 🏠 win and the profit is yours, stake 99x house and share usdc rewards from the house. fair launch, no presale. 99x house has no market price. what would you do with yours? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
+}
