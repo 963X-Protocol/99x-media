@@ -1,0 +1,121 @@
+{
+  "id": "house-02-meet-the-house",
+  "series": "HOUSE 101",
+  "badge": "HOUSE 101",
+  "badgeColor": "teal",
+  "date": "NOV 8, 2026",
+  "src": "house data read nov 4, 2026 · 99x.exchange/house · trading involves risk · 99X House is minted only from realized losses · it has no market price · not financial advice",
+  "tape": [
+    "THE HOUSE",
+    "VOLUME $3.8M",
+    "1,400+ TRADES",
+    "STAKERS · USDC",
+    "LIVE ON-SITE"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR HOUSE 101",
+  "followSay": "Follow to see how the House works.",
+  "followCap": "Follow to see how the House works.",
+  "cta": [
+    [
+      "Win or lose, every trade counts on ninety-nine X.",
+      "Win or lose, every trade counts on 99X."
+    ],
+    [
+      "Lose, and you mint ninety-nine X House. Stake it, and earn USDC.",
+      "Lose, and you mint 99X House. Stake it, and earn USDC."
+    ]
+  ],
+  "pitch": {
+    "head": "Win or lose, it counts on <span style=\"color:#00E0C6\">99X House</span>.",
+    "cards": [
+      {
+        "who": "EXAMPLE ▸ TRADE CLOSED",
+        "line": "SOL long · realized PnL −$100",
+        "res": "✓ 20,000 99X House minted · first band"
+      },
+      {
+        "who": "EXAMPLE ▸ STAKE",
+        "line": "stake 20,000 99X House",
+        "res": "✓ earning USDC · from 1% of House PnL"
+      }
+    ],
+    "chips": [
+      "win · keep profit",
+      "lose · mint 99X House",
+      "stake · earn USDC"
+    ],
+    "endTitle": "Win or lose.<br><span>Every trade counts.</span>"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Every trade has another side. On ninety-nine X, that side is the House.",
+      "cap": "Every trade has another side. On 99X, that side is the House.",
+      "k": "WHO'S ON THE OTHER SIDE",
+      "text": "THE HOUSE",
+      "color": "teal",
+      "sub": "the other side of your trade"
+    },
+    {
+      "type": "cards",
+      "say": "So far, the House has handled three point eight million dollars in volume, across fourteen hundred trades.",
+      "cap": "So far, the House has handled $3.8M in volume, across 1,400+ trades.",
+      "items": [
+        {
+          "k": "VOLUME",
+          "v": "$3.8M",
+          "n": "cumulative",
+          "color": "teal"
+        },
+        {
+          "k": "TRADES",
+          "v": "1,400+",
+          "n": "cumulative",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "When traders lose, their realized losses mint ninety-nine X House to them.",
+      "cap": "When traders lose, their realized losses mint 99X House to them.",
+      "items": [
+        {
+          "k": "TRADER LOSES",
+          "v": "GET 99X HOUSE",
+          "n": "minted from realized losses",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "And one percent of House PnL goes to stakers, paid in USDC.",
+      "cap": "And 1% of House PnL goes to stakers, paid in USDC.",
+      "items": [
+        {
+          "k": "STAKERS",
+          "v": "1% HOUSE PnL",
+          "n": "paid in USDC",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Its exposure, positions and liquidation levels are public, live on the House page.",
+      "cap": "Its exposure, positions and liquidation levels are public, live on the House page.",
+      "items": [
+        {
+          "k": "PUBLIC",
+          "v": "LIVE DATA",
+          "n": "exposure · positions · liq levels",
+          "color": "teal"
+        }
+      ]
+    }
+  ],
+  "title": "Who's on the other side of your trade? Meet the 99X House",
+  "caption": "every trade has another side. on 99x it's the house 🏠 $3.8m in volume so far, losing traders get 99x house minted from realized losses, and stakers share 1% of house pnl in usdc. all live on the house page. did you know who you trade against? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #perps #tradetoearn #99x"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "house-01-lose-still-get",
+  "series": "HOUSE 101",
+  "badge": "TRADE TO EARN",
+  "badgeColor": "teal",
+  "date": "NOV 6, 2026",
+  "src": "house data read nov 4, 2026 · 99x.exchange/house · trading involves risk · 99X House is minted only from realized losses · it has no market price · not financial advice",
+  "tape": [
+    "WIN · KEEP PROFIT",
+    "LOSE · GET 99X HOUSE",
+    "STAKE · EARN USDC",
+    "HALVING TRADING",
+    "MINT RATE 200"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR HOUSE 101",
+  "followSay": "Follow to see how the House works.",
+  "followCap": "Follow to see how the House works.",
+  "cta": [
+    [
+      "Win or lose, every trade counts on ninety-nine X.",
+      "Win or lose, every trade counts on 99X."
+    ],
+    [
+      "Lose, and you mint ninety-nine X House. Stake it, and earn USDC.",
+      "Lose, and you mint 99X House. Stake it, and earn USDC."
+    ]
+  ],
+  "pitch": {
+    "head": "Win or lose, it counts on <span style=\"color:#00E0C6\">99X House</span>.",
+    "cards": [
+      {
+        "who": "EXAMPLE ▸ TRADE CLOSED",
+        "line": "SOL long · realized PnL −$100",
+        "res": "✓ 20,000 99X House minted · first band"
+      },
+      {
+        "who": "EXAMPLE ▸ STAKE",
+        "line": "stake 20,000 99X House",
+        "res": "✓ earning USDC · from 1% of House PnL"
+      }
+    ],
+    "chips": [
+      "win · keep profit",
+      "lose · mint 99X House",
+      "stake · earn USDC"
+    ],
+    "endTitle": "Win or lose.<br><span>Every trade counts.</span>"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Lost a trade? On ninety-nine X, you still walk away with something.",
+      "cap": "Lost a trade? On 99X, you still walk away with something.",
+      "k": "TRADE TO EARN",
+      "text": "LOST?",
+      "color": "red",
+      "sub": "you still walk away with something"
+    },
+    {
+      "type": "cards",
+      "say": "Win, and the profit is yours.",
+      "cap": "Win, and the profit is yours.",
+      "items": [
+        {
+          "k": "YOU WIN",
+          "v": "KEEP PROFIT",
+          "n": "your PnL, settled to you",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Lose, and your realized loss mints ninety-nine X House, straight to you.",
+      "cap": "Lose, and your realized loss mints 99X House, straight to you.",
+      "items": [
+        {
+          "k": "YOU LOSE",
+          "v": "GET 99X HOUSE",
+          "n": "minted from your realized loss",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Stake it, and you share USDC rewards from the House.",
+      "cap": "Stake it, and you share USDC rewards from the House.",
+      "items": [
+        {
+          "k": "YOU STAKE",
+          "v": "EARN USDC",
+          "n": "rewards from 1% of House PnL",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "And it's Halving Trading. The mint rate halves every band, and we're still in the first.",
+      "cap": "And it's Halving Trading. The mint rate halves every band, and we're still in the first.",
+      "items": [
+        {
+          "k": "MINT RATE NOW",
+          "v": "200",
+          "n": "first band, the max",
+          "color": "teal"
+        },
+        {
+          "k": "NEXT HALVING",
+          "v": "1M",
+          "n": "rate drops to 100",
+          "color": "amber"
+        }
+      ]
+    }
+  ],
+  "title": "Lost a trade? On 99X you still walk away with something",
+  "caption": "lost a trade? on 99x your realized loss mints 99x house straight to you 🏠 win and the profit is yours, stake 99x house and share usdc rewards from the house. it's halving trading: the mint rate halves every band and we're still in the first. 99x house has no market price. what would you do with yours? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
+}

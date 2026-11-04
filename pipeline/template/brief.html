@@ -121,10 +121,13 @@ function build() {
   // closing pitch: 2 voice chunks after the beats, then the follow line
   const p = el('div', 'blk'); p.dataset.in = 'c' + nb; p.dataset.a = 'up'; p.dataset.out = 'c' + (nb + 2) + '-0.05';
   p.append(el('div', 'sub', '', 'font-size:30px; margin:0 0 14px'));
-  p.lastChild.innerHTML = 'Trade with <span style="color:#00E0C6">AI agents</span> on 99X.';
-  const a1 = el('div', 'ag'); a1.innerHTML = '<div class="who">AGENT ▸ ORDER</div>long BTC 0.01 · max 5× · stop −3%<br><span class="ok">✓ risk check passed · filled</span>';
-  const a2 = el('div', 'ag'); a2.innerHTML = '<div class="who">AGENT ▸ WITHDRAW</div>withdraw all USDC<br><span class="no">✕ DENIED · agent keys can\'t withdraw</span>';
-  const ch = el('div', 'chips'); ['your rules', 'your limits', 'no withdrawal access'].forEach((s, i) => ch.append(anim(el('span', null, s), 'c' + (nb + 1) + '+' + (0.5 * i).toFixed(1), 'pop')));
+  const PT = window.EP.pitch;  // optional: replaces the default AI-agent pitch visuals
+  p.lastChild.innerHTML = PT ? PT.head : 'Trade with <span style="color:#00E0C6">AI agents</span> on 99X.';
+  const card = c => '<div class="who">' + c.who + '</div>' + c.line + '<br><span class="' + (c.no ? 'no' : 'ok') + '">' + c.res + '</span>';
+  const a1 = el('div', 'ag'); a1.innerHTML = PT ? card(PT.cards[0]) : '<div class="who">AGENT ▸ ORDER</div>long BTC 0.01 · max 5× · stop −3%<br><span class="ok">✓ risk check passed · filled</span>';
+  const a2 = el('div', 'ag'); a2.innerHTML = PT ? card(PT.cards[1]) : '<div class="who">AGENT ▸ WITHDRAW</div>withdraw all USDC<br><span class="no">✕ DENIED · agent keys can\'t withdraw</span>';
+  if (PT && PT.endTitle) document.querySelector('#end .t').innerHTML = PT.endTitle;
+  const ch = el('div', 'chips'); (PT ? PT.chips : ['your rules', 'your limits', 'no withdrawal access']).forEach((s, i) => ch.append(anim(el('span', null, s), 'c' + (nb + 1) + '+' + (0.5 * i).toFixed(1), 'pop')));
   p.append(anim(a1, 'c' + nb + '+1.0'), anim(a2, 'c' + (nb + 1) + '+1.3'), ch);
   root.append(p);
   built = true;

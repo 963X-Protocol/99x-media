@@ -1,0 +1,127 @@
+{
+  "id": "house-05-every-trade-counts",
+  "series": "HOUSE 101",
+  "badge": "WIN OR LOSE",
+  "badgeColor": "teal",
+  "date": "NOV 14, 2026",
+  "src": "house data read nov 4, 2026 · 99x.exchange/house · trading involves risk · 99X House is minted only from realized losses · it has no market price · not financial advice",
+  "tape": [
+    "WIN · KEEP PROFIT",
+    "LOSE · GET 99X HOUSE",
+    "STAKE · EARN USDC",
+    "HALVING TRADING",
+    "RATE 200 → 100 AT 1M"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR HOUSE 101",
+  "followSay": "Follow to see how the House works.",
+  "followCap": "Follow to see how the House works.",
+  "cta": [
+    [
+      "Win or lose, every trade counts on ninety-nine X.",
+      "Win or lose, every trade counts on 99X."
+    ],
+    [
+      "Lose, and you mint ninety-nine X House. Stake it, and earn USDC.",
+      "Lose, and you mint 99X House. Stake it, and earn USDC."
+    ]
+  ],
+  "pitch": {
+    "head": "Win or lose, it counts on <span style=\"color:#00E0C6\">99X House</span>.",
+    "cards": [
+      {
+        "who": "EXAMPLE ▸ TRADE CLOSED",
+        "line": "SOL long · realized PnL −$100",
+        "res": "✓ 20,000 99X House minted · first band"
+      },
+      {
+        "who": "EXAMPLE ▸ STAKE",
+        "line": "stake 20,000 99X House",
+        "res": "✓ earning USDC · from 1% of House PnL"
+      }
+    ],
+    "chips": [
+      "win · keep profit",
+      "lose · mint 99X House",
+      "stake · earn USDC"
+    ],
+    "endTitle": "Win or lose.<br><span>Every trade counts.</span>"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Win or lose, every trade on ninety-nine X counts.",
+      "cap": "Win or lose, every trade on 99X counts.",
+      "k": "HOUSE 101 · RECAP",
+      "text": "WIN/LOSE",
+      "color": "teal",
+      "sub": "every trade counts"
+    },
+    {
+      "type": "cards",
+      "say": "Win, and you keep the profit. Lose, and you get ninety-nine X House.",
+      "cap": "Win, and you keep the profit. Lose, and you get 99X House.",
+      "items": [
+        {
+          "k": "WIN",
+          "v": "KEEP PROFIT",
+          "n": "your PnL",
+          "color": "green"
+        },
+        {
+          "k": "LOSE",
+          "v": "GET 99X HOUSE",
+          "n": "from realized loss",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Stake ninety-nine X House to share USDC rewards from one percent of House PnL.",
+      "cap": "Stake 99X House to share USDC rewards from 1% of House PnL.",
+      "items": [
+        {
+          "k": "STAKE",
+          "v": "EARN USDC",
+          "n": "from 1% of House PnL",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "And it's Halving Trading. The mint rate halves every band. Right now, it's at the max.",
+      "cap": "And it's Halving Trading. The mint rate halves every band. Right now, it's at the max.",
+      "items": [
+        {
+          "k": "MINT RATE",
+          "v": "200",
+          "n": "the max, first band",
+          "color": "teal"
+        },
+        {
+          "k": "LAUNCH",
+          "v": "FAIR",
+          "n": "no presale",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Your loss stops being just a loss. It becomes your stake in the House.",
+      "cap": "Your loss stops being just a loss. It becomes your stake in the House.",
+      "items": [
+        {
+          "k": "YOUR LOSS",
+          "v": "YOUR STAKE",
+          "n": "in the House",
+          "color": "teal"
+        }
+      ]
+    }
+  ],
+  "title": "Win or lose, every trade on 99X counts",
+  "caption": "win or lose, every trade counts 🏠 win and keep the profit. lose and your realized loss mints 99x house to you. stake it and share usdc rewards from 1% of house pnl. halving trading: the mint rate halves every band, now at the max. 99x house has no market price. which side are you on today? 👇 trading involves risk, not financial advice.\n\n#crypto #trading #defi #tradetoearn #perps #99x"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "house-03-stake-earn-usdc",
+  "series": "HOUSE 101",
+  "badge": "STAKE",
+  "badgeColor": "teal",
+  "date": "NOV 10, 2026",
+  "src": "house data read nov 4, 2026 · 99x.exchange/house · trading involves risk · 99X House is minted only from realized losses · it has no market price · not financial advice",
+  "tape": [
+    "TRADE",
+    "GET 99X HOUSE",
+    "STAKE IT",
+    "EARN USDC",
+    "REWARD · 1% HOUSE PnL"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR HOUSE 101",
+  "followSay": "Follow to see how the House works.",
+  "followCap": "Follow to see how the House works.",
+  "cta": [
+    [
+      "Win or lose, every trade counts on ninety-nine X.",
+      "Win or lose, every trade counts on 99X."
+    ],
+    [
+      "Lose, and you mint ninety-nine X House. Stake it, and earn USDC.",
+      "Lose, and you mint 99X House. Stake it, and earn USDC."
+    ]
+  ],
+  "pitch": {
+    "head": "Win or lose, it counts on <span style=\"color:#00E0C6\">99X House</span>.",
+    "cards": [
+      {
+        "who": "EXAMPLE ▸ TRADE CLOSED",
+        "line": "SOL long · realized PnL −$100",
+        "res": "✓ 20,000 99X House minted · first band"
+      },
+      {
+        "who": "EXAMPLE ▸ STAKE",
+        "line": "stake 20,000 99X House",
+        "res": "✓ earning USDC · from 1% of House PnL"
+      }
+    ],
+    "chips": [
+      "win · keep profit",
+      "lose · mint 99X House",
+      "stake · earn USDC"
+    ],
+    "endTitle": "Win or lose.<br><span>Every trade counts.</span>"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "say": "A losing trade can still lead to USDC rewards. Here's how, in three steps.",
+      "cap": "A losing trade can still lead to USDC rewards. Here's how, in 3 steps.",
+      "k": "STAKE 99X HOUSE",
+      "from": 0,
+      "to": 3,
+      "suffix": " STEPS",
+      "color": "teal",
+      "sub": "from a losing trade to USDC rewards"
+    },
+    {
+      "type": "cards",
+      "say": "Step one. Trade on ninety-nine X. A realized loss mints ninety-nine X House to you.",
+      "cap": "Step 1: trade on 99X. A realized loss mints 99X House to you.",
+      "items": [
+        {
+          "k": "STEP 1",
+          "v": "GET 99X HOUSE",
+          "n": "minted from your realized loss",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Step two. Stake your ninety-nine X House.",
+      "cap": "Step 2: stake your 99X House.",
+      "items": [
+        {
+          "k": "STEP 2",
+          "v": "STAKE IT",
+          "n": "on the House page",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Step three. Share rewards from one percent of House PnL, paid in USDC.",
+      "cap": "Step 3: share rewards from 1% of House PnL, paid in USDC.",
+      "items": [
+        {
+          "k": "STEP 3",
+          "v": "EARN USDC",
+          "n": "from 1% of House PnL",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Rewards come from House PnL, so they move with it. Paid in USDC, not more tokens.",
+      "cap": "Rewards come from House PnL, so they move with it. Paid in USDC, not more tokens.",
+      "items": [
+        {
+          "k": "REWARD TOKEN",
+          "v": "USDC",
+          "n": "not more tokens",
+          "color": "green"
+        },
+        {
+          "k": "SOURCE",
+          "v": "HOUSE PnL",
+          "n": "rewards move with it",
+          "color": "white"
+        }
+      ]
+    }
+  ],
+  "title": "Stake 99X House, earn USDC: from a losing trade to rewards in 3 steps",
+  "caption": "a losing trade can still lead to usdc rewards 💵 realized loss mints 99x house to you, stake it, share rewards from 1% of house pnl paid in usdc. rewards move with house pnl. 99x house has no market price. would you stake yours? 👇 trading involves risk, not financial advice.\n\n#crypto #staking #usdc #defi #tradetoearn #99x"
+}
