@@ -1,0 +1,140 @@
+{
+  "id": "brief-2026-11-10",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 10, 2026",
+  "src": "data as of Nov 9, ~06:00–21:30 UTC · sources: CoinDesk, The Block, Analytics Insight, crypto.news · not financial advice",
+  "tape": [
+    "BTC ~$74,800 ▼1.1%",
+    "ETH ~$2,134 ▼4.4%",
+    "SOL ~$87.21 ▼2.2%",
+    "LIQ $1.15B 24H",
+    "BTC ETFS −$1.28B WK",
+    "US CPI TODAY"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin lost its fifty-week average and hit its lowest level since August.",
+      "cap": "BTC lost its 50-week average and hit its lowest level since August.",
+      "k": "BITCOIN · NOV 9",
+      "from": 75488,
+      "to": 74800,
+      "prefix": "$",
+      "color": "red",
+      "sub": "−1.1% Monday · low ~$73,761"
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell over four percent to near twenty-one thirty-four. Solana lost two percent.",
+      "cap": "ETH fell 4%+ to near $2,134. SOL lost 2%.",
+      "k": "24H MOVES",
+      "items": [
+        {
+          "k": "ETHEREUM · 24H",
+          "v": "$2,134",
+          "n": "−4.4%",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA · 24H",
+          "v": "$87.21",
+          "n": "−2.2%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "One point one five billion was liquidated in a day, about ninety percent of it longs.",
+      "cap": "$1.15B liquidated in a day, about 90% of it longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$1.15B",
+      "items": [
+        {
+          "label": "LONGS · 90%",
+          "pct": 90,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · 10%",
+          "pct": 10,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass data via The Block"
+    },
+    {
+      "type": "headline",
+      "say": "The trigger: Rubio said Iran talks stalled. December Fed hike odds sit near eighty-five percent.",
+      "cap": "The trigger: Rubio said Iran talks stalled. December Fed hike odds sit near 85%.",
+      "k": "THE DRIVER",
+      "text": "Rubio: negotiations with Iran have stalled",
+      "items": [
+        {
+          "k": "DEC FED HIKE ODDS",
+          "v": "85%",
+          "n": "CME FedWatch",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost one point two eight billion last week, the worst since June.",
+      "cap": "BTC ETFs −$1.28B last week, the worst since June.",
+      "k": "SPOT ETF FLOWS · NOV 2–6",
+      "items": [
+        {
+          "k": "BITCOIN ETFS",
+          "v": "−$1.28B",
+          "n": "worst week since June",
+          "color": "red"
+        },
+        {
+          "k": "ETHER ETFS",
+          "v": "−$365M",
+          "n": "6th straight weekly outflow",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today, U S inflation, expected at three point nine percent. Friday, producer prices.",
+      "cap": "Today, US inflation, expected at 3.9%. Friday, producer prices.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "TUE · NOV 10",
+          "v": "US CPI · EXP 3.9% Y/Y"
+        },
+        {
+          "k": "FRI · NOV 13",
+          "v": "US PPI"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: seventy-five five above, seventy-three one fifty below.",
+      "cap": "Levels to watch: ~$75.5K above, ~$73.15K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "50-WEEK AVG",
+          "v": "$75,488",
+          "color": "amber"
+        },
+        {
+          "k": "200-DAY AVG",
+          "v": "~$73,150",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin loses its 50-week average as $1.15B gets liquidated, CPI today",
+  "caption": "btc lost its 50-week average and hit its lowest since august 📉 btc near $74.8k, eth -4.4%, sol -2.2%. $1.15b liquidated in 24h, ~90% longs. rubio says iran talks stalled. btc etfs -$1.28b last week, worst since june. us cpi today, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #cpi #trading"
+}
