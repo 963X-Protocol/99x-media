@@ -1,0 +1,146 @@
+{
+  "id": "brief-2026-11-12",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 12, 2026",
+  "src": "data as of Nov 11, ~00:00–15:30 UTC · sources: Nexo, KuCoin/SoSoValue, PANews/CoinGlass, The Coin Republic, CoinGecko, StockHub · not financial advice",
+  "tape": [
+    "BTC ~$73,800",
+    "ETH ~$2,054",
+    "SOL ~$83",
+    "LIQ $494M 24H",
+    "BTC ETFS −$95M TUE",
+    "US PPI FRI"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin is stuck near seventy-three thousand eight hundred after a three-month low.",
+      "cap": "BTC is stuck near $73,800 after a 3-month low.",
+      "k": "BITCOIN · NOV 11",
+      "from": 73000,
+      "to": 73800,
+      "prefix": "$",
+      "color": "red",
+      "sub": "3-month low overnight · per Nexo"
+    },
+    {
+      "type": "headline",
+      "say": "Fed Governor Waller backs a hike next month and floated half a point. Hike odds: above eighty-five percent.",
+      "cap": "Fed Governor Waller backs a hike next month and floated half a point. Hike odds: above 85%.",
+      "k": "THE DRIVER",
+      "text": "Fed's Waller backs a December rate hike",
+      "items": [
+        {
+          "k": "DEC HIKE ODDS",
+          "v": "85%+",
+          "n": "25 bp move priced",
+          "color": "amber"
+        },
+        {
+          "k": "WALLER FLOATS",
+          "v": "50 bp",
+          "n": "if core CPI ≥ 0.3%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Ether holds near two thousand fifty-four. Solana trades near eighty-three dollars.",
+      "cap": "ETH holds near $2,054. SOL trades near $83.",
+      "k": "MAJORS · NOV 11",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$2,054",
+          "n": "−3.8% day to 00:00 UTC",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$83",
+          "n": "24h range $82–$86",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Four hundred ninety-four million was liquidated in a day, about three quarters of it longs.",
+      "cap": "$494M liquidated in a day, about three quarters of it longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$494M",
+      "items": [
+        {
+          "label": "LONGS · $364M",
+          "pct": 74,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · $131M",
+          "pct": 26,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass data via PANews"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost ninety-five million on Tuesday, a fourth straight outflow day.",
+      "cap": "BTC ETFs lost $95M on Tuesday, a 4th straight outflow day.",
+      "k": "SPOT BTC ETF FLOWS · NOV 10",
+      "items": [
+        {
+          "k": "ALL BTC ETFS",
+          "v": "−$95M",
+          "n": "4th straight outflow day",
+          "color": "red"
+        },
+        {
+          "k": "BLACKROCK IBIT",
+          "v": "−$78M",
+          "n": "largest outflow",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today, US jobless claims. Friday, October producer prices.",
+      "cap": "Today, US jobless claims. Friday, October PPI.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "THU · NOV 12",
+          "v": "US JOBLESS CLAIMS"
+        },
+        {
+          "k": "FRI · NOV 13",
+          "v": "US PPI · 8:30 ET"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support near seventy-two seven to seventy-three thousand, resistance near seventy-four five.",
+      "cap": "Levels to watch: support near $72.7K–$73K, resistance near $74.5K.",
+      "k": "LEVELS TO WATCH · KUCOIN",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$74.5K–$75K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$72.7K–$73K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Fed's Waller backs a December hike as BTC sits near $73.8K, $494M liquidated",
+  "caption": "btc pinned near $73.8k after a 3-month low 📉 fed's waller backs a december hike and floated 50bp, hike odds above 85%. eth ~$2,054, sol ~$83. $494m liquidated in 24h, ~74% longs. btc etfs -$95m tuesday, 4th straight outflow day. jobless claims thu, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #fed #trading"
+}
