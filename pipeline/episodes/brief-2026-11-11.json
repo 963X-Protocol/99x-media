@@ -1,0 +1,94 @@
+{
+  "id": "brief-2026-11-11",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 11, 2026",
+  "src": "data as of Nov 10, ~14:25–19:40 UTC · sources: The Block, Bitcoin.com, crypto.news, KuCoin/SoSoValue · not financial advice",
+  "tape": [
+    "BTC ~$73,363 ▼1.6%",
+    "ETH ~$2,042 ▼3.7%",
+    "SOL <$83 ▼4%+",
+    "LIQ $632M 24H",
+    "BTC ETFS −$201M MON",
+    "US PPI FRI"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Hot inflation just knocked Bitcoin down to seventy-three thousand.",
+      "cap": "Hot inflation just knocked BTC down to $73K.",
+      "k": "BITCOIN · NOV 10",
+      "from": 74560,
+      "to": 73363,
+      "prefix": "$",
+      "color": "red",
+      "sub": "−1.6% · intraday low $72,787"
+    },
+    {
+      "type": "headline",
+      "say": "October prices rose point four percent, above the point three expected. December hike odds jumped to eighty-five percent.",
+      "cap": "October CPI rose 0.4%, above the 0.3% expected. December hike odds jumped to 85%.",
+      "k": "THE DRIVER",
+      "text": "US CPI comes in hotter than expected",
+      "items": [
+        {"k": "CPI · OCT M/M", "v": "+0.4%", "n": "expected 0.3%", "color": "red"},
+        {"k": "DEC HIKE ODDS", "v": "85%", "n": "up from 77%", "color": "amber"}
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell three point seven percent to about two thousand forty-two. Solana dropped over four percent.",
+      "cap": "ETH fell 3.7% to about $2,042. SOL dropped over 4%.",
+      "k": "24H MOVES",
+      "items": [
+        {"k": "ETHEREUM · 24H", "v": "$2,042", "n": "−3.7%", "color": "red"},
+        {"k": "SOLANA · 24H", "v": "below $83", "n": "−4%+", "color": "red"}
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Six hundred thirty-two million was liquidated in a day, about eighty percent of it longs.",
+      "cap": "$632M liquidated in a day, about 80% of it longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$632M",
+      "items": [
+        {"label": "LONGS · $511M", "pct": 81, "color": "#B91C1C"},
+        {"label": "SHORTS · $121M", "pct": 19, "color": "#14532D"}
+      ],
+      "note": "CoinGlass data via Bitcoin.com"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost two hundred one million on Monday, a third straight day of outflows.",
+      "cap": "BTC ETFs lost $201M on Monday, a 3rd straight day of outflows.",
+      "k": "SPOT BTC ETF FLOWS · NOV 9",
+      "items": [
+        {"k": "ALL BTC ETFS", "v": "−$201M", "n": "3rd straight outflow day", "color": "red"},
+        {"k": "BLACKROCK IBIT", "v": "−$213M", "n": "largest outflow", "color": "red"}
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Thursday, jobless claims. Friday, producer prices for October.",
+      "cap": "Thursday, jobless claims. Friday, producer prices for October.",
+      "k": "THIS WEEK",
+      "items": [
+        {"k": "THU · NOV 12", "v": "US JOBLESS CLAIMS"},
+        {"k": "FRI · NOV 13", "v": "US PPI · 8:30 ET"}
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: the two-hundred-day average near seventy-three two, then seventy-three thousand.",
+      "cap": "Levels to watch: the 200-day average near $73.2K, then $73K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {"k": "200-DAY AVG", "v": "~$73,200", "color": "amber"},
+        {"k": "21SHARES LEVEL", "v": "$73,000", "color": "red"}
+      ]
+    }
+  ],
+  "title": "Hot CPI knocks Bitcoin to $73K as $632M gets liquidated, PPI Friday",
+  "caption": "hotter october cpi knocked btc to ~$73.4k 📉 cpi +0.4% vs 0.3% expected, december hike odds 85%. eth -3.7%, sol -4%+. $632m liquidated in 24h, ~80% longs. btc etfs -$201m monday, 3rd straight outflow day. jobless claims thu, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #cpi #trading"
+}
