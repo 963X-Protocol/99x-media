@@ -1,0 +1,106 @@
+{
+  "id": "insight-2026-11-12",
+  "series": "INSIGHT",
+  "badge": "DEAL FLOW",
+  "badgeColor": "purple",
+  "date": "NOV 12, 2026",
+  "src": "data as of Nov 12, ~09:00 UTC · sources: Bitcoin Magazine (MSCI review), The Block, KuCoin · not financial advice",
+  "tape": [
+    "MSTR OUT OF MSCI USA",
+    "EFFECTIVE NOV 30",
+    "BMNR FY LOSS $6.3B",
+    "BMNR 6.07M ETH",
+    "DEUTSCHE BANK CUSTODY LIVE",
+    "OKXICE NOV 23"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "The biggest corporate bitcoin holder is getting kicked out of the M S C I USA index on November thirtieth.",
+      "cap": "The biggest corporate bitcoin holder is getting kicked out of the MSCI USA Index on Nov 30.",
+      "k": "MSCI NOVEMBER INDEX REVIEW · WED",
+      "text": "NOV 30",
+      "color": "red",
+      "sub": "Strategy (MSTR) exits at the close"
+    },
+    {
+      "type": "headline",
+      "say": "M S C I's new rule screens out companies with too few operating assets. Metaplanet was dropped too.",
+      "cap": "MSCI's new rule screens out companies with too few operating assets. Metaplanet was dropped too.",
+      "k": "INDEXES · WED",
+      "text": "Strategy and Metaplanet cut from MSCI",
+      "items": [
+        {
+          "k": "MSTR HOLDS",
+          "v": "850,364 BTC",
+          "color": "purple"
+        },
+        {
+          "k": "ALSO OUT",
+          "v": "METAPLANET",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Tom Lee's Bitmine reported a net loss of over six point three billion dollars for its fiscal year, mostly unrealized.",
+      "cap": "Tom Lee's Bitmine reported a net loss of over $6.3B for its fiscal year, mostly unrealized.",
+      "k": "EARNINGS · FY TO AUG 31",
+      "text": "Bitmine posts $6.3B annual loss",
+      "items": [
+        {
+          "k": "NET LOSS",
+          "v": "$6.3B+",
+          "color": "red"
+        },
+        {
+          "k": "NOW HOLDS",
+          "v": "6.07M ETH",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Meanwhile, Deutsche Bank switched on crypto custody for institutions in Europe: bitcoin, ether and stablecoins.",
+      "cap": "Meanwhile, Deutsche Bank switched on crypto custody for institutions in Europe: BTC, ETH and stablecoins.",
+      "k": "CUSTODY · WED",
+      "text": "Deutsche Bank crypto custody goes live",
+      "items": [
+        {
+          "k": "ASSETS",
+          "v": "BTC · ETH · USDC",
+          "color": "teal"
+        },
+        {
+          "k": "ASSET MGR AUM",
+          "v": "€1.22T",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: index funds must sell Strategy shares by the November thirtieth close, but Strategy doesn't have to sell bitcoin.",
+      "cap": "Index funds must sell MSTR shares by the Nov 30 close, but Strategy doesn't have to sell bitcoin.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {
+          "k": "MON · NOV 23",
+          "v": "OKXICE VENUE LAUNCH"
+        },
+        {
+          "k": "MON · NOV 30",
+          "v": "MSCI EXIT AT CLOSE"
+        }
+      ]
+    }
+  ],
+  "title": "MSCI kicks out Strategy, Bitmine's $6.3B loss, Deutsche Bank goes live in crypto",
+  "caption": "deal flow 🏦 msci drops strategy (mstr) from its usa index at the nov 30 close under a new non-operating issuer rule, metaplanet cut too. bitmine posts a $6.3b+ annual net loss, mostly unrealized, and holds 6.07m eth. deutsche bank's crypto custody goes live in europe. index funds sell the shares, strategy doesn't have to sell btc. not financial advice.\n\n#crypto #bitcoin #mstr #ethereum #cryptonews #trading"
+}
