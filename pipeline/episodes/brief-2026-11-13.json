@@ -1,0 +1,151 @@
+{
+  "id": "brief-2026-11-13",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 13, 2026",
+  "src": "data as of Nov 12, ~14:30–18:30 UTC · sources: Bitcoin.com/CoinGlass, Cryptonomist, KuCoin/SoSoValue, Decrypt, AltcoinBuzz · not financial advice",
+  "tape": [
+    "BTC ~$72,000 ▼2.2%",
+    "ETH ~$1,993 ▼2.7%",
+    "SOL ~$80.71 ▼3.8%",
+    "LIQ $656M 24H",
+    "BTC ETFS −$300M WED",
+    "US PPI TODAY"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin slipped below seventy-two thousand, its lowest level since August.",
+      "cap": "BTC slipped below $72,000, its lowest level since August.",
+      "k": "BITCOIN · NOV 12",
+      "from": 74000,
+      "to": 72000,
+      "prefix": "$",
+      "color": "red",
+      "sub": "lowest since August · per AltcoinBuzz"
+    },
+    {
+      "type": "bars",
+      "say": "Over six hundred fifty million liquidated in a day, mostly longs.",
+      "cap": "Over $650M liquidated in a day, mostly longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$656M",
+      "items": [
+        {
+          "label": "LONGS · $555M+",
+          "pct": 85,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · $100M+",
+          "pct": 15,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass data via Bitcoin.com"
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell under two thousand. Solana is down almost four percent.",
+      "cap": "ETH fell under $2,000. SOL is down almost 4%.",
+      "k": "MAJORS · NOV 12",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,993",
+          "n": "−2.7% · under $2K",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$80.71",
+          "n": "−3.8%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost three hundred million Wednesday, a fifth straight outflow day.",
+      "cap": "BTC ETFs lost $300M Wednesday, a 5th straight outflow day.",
+      "k": "SPOT BTC ETF FLOWS · NOV 11",
+      "items": [
+        {
+          "k": "ALL BTC ETFS",
+          "v": "−$300M",
+          "n": "5th straight outflow day",
+          "color": "red"
+        },
+        {
+          "k": "NOV 5–11",
+          "v": "−$1.44B",
+          "n": "five-day total",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: hot October inflation. December hike odds are near ninety percent.",
+      "cap": "The driver: hot October inflation. December hike odds are near 90%.",
+      "k": "THE DRIVER",
+      "text": "Hot CPI lifts December rate-hike odds",
+      "items": [
+        {
+          "k": "OCT CPI",
+          "v": "+0.4%",
+          "n": "vs 0.3% expected",
+          "color": "red"
+        },
+        {
+          "k": "DEC HIKE ODDS",
+          "v": "~90%",
+          "n": "CME FedWatch",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today, US producer prices. November thirtieth, MSCI drops Strategy.",
+      "cap": "Today, US PPI. Nov 30, MSCI drops Strategy.",
+      "k": "ON THE CALENDAR",
+      "items": [
+        {
+          "k": "FRI · NOV 13",
+          "v": "US OCTOBER PPI"
+        },
+        {
+          "k": "MON · NOV 30",
+          "v": "MSCI DROPS STRATEGY"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support seventy-one two, then seventy thousand. Stronger resistance near seventy-five five.",
+      "cap": "Levels to watch: support $71.2K, then $70K. Stronger resistance near $75.5K.",
+      "k": "LEVELS TO WATCH · KUCOIN",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$75.5K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$71.2K",
+          "color": "red"
+        },
+        {
+          "k": "BELOW THAT",
+          "v": "$70K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin breaks below $72K, lowest since August, as $656M gets liquidated, PPI today",
+  "caption": "btc slipped below $72k, its lowest since august 📉 eth under $2,000, sol -3.8%. $656m liquidated in 24h, mostly longs. btc etfs -$300m wednesday, 5th straight outflow day, -$1.44b in five days. hot october inflation has december hike odds near 90%. us ppi today. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #ppi #trading"
+}
