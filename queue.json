@@ -205,8 +205,10 @@
       "file": "videos/brief-2026-11-13.mp4",
       "title": "Bitcoin breaks below $72K, lowest since August, as $656M gets liquidated, PPI today",
       "caption": "btc slipped below $72k, its lowest since august 📉 eth under $2,000, sol -3.8%. $656m liquidated in 24h, mostly longs. btc etfs -$300m wednesday, 5th straight outflow day, -$1.44b in five days. hot october inflation has december hike odds near 90%. us ppi today. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #ppi #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6af65297c1a0010a5be84a7c",
+      "dueAt": "2026-11-13T08:30:00+07:00"
     }
   ]
 }
