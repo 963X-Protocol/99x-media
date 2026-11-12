@@ -1,202 +1,204 @@
 {
- "bufferChannel": "tiktok",
- "posts": [
-  {
-   "id": "brief-2026-10-26",
-   "file": "videos/99X_tiktok_brief_2026-10-26.mp4",
-   "title": "Fed week: BTC stuck at $80K | Oct 26 brief",
-   "caption": "fed week 🏛️ btc stuck at $80K, fear & greed 50, oil above $117. fed wed, inflation thu, coinbase earnings next. watch $80K. your oct 26 brief\n\n#crypto #bitcoin #cryptonews #fed #trading #ai",
-   "status": "sent",
-   "bufferUrl": "https://tiktok.com/@agentictrading/video/7700838252294442261",
-   "bufferPostId": "6aded3fde4be8a4d86e3aa4d"
-  },
-  {
-   "id": "guess-liq-btc-50x",
-   "file": "videos/99X_tiktok_liq.mp4",
-   "title": "Guess the liquidation price: BTC 50x long",
-   "caption": "btc long at $80,000, 50x. where do you get liquidated? 👇 comment your guess before the reveal\n\n#crypto #bitcoin #leverage #trading #liquidation",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6adee152bd33ce99c3ada8df",
-   "dueAt": "2026-10-26T20:00:00+07:00"
-  },
-  {
-   "id": "same-move-different-leverage",
-   "file": "videos/99X_tiktok_lev.mp4",
-   "title": "Same 2.8% move, 4 different endings",
-   "caption": "btc fell 2.8% this weekend. same move, different leverage, different ending. which box are you? 👇\n\n#crypto #bitcoin #leverage #riskmanagement #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6adee1550b5343d0700ef25a",
-   "dueAt": "2026-10-28T20:00:00+07:00"
-  },
-  {
-   "id": "pov-agent-3am",
-   "file": "videos/99X_tiktok_pov.mp4",
-   "title": "POV: your AI agent at 3AM",
-   "caption": "pov: you're asleep. your agent isn't 🌙 what rule would you give it? 👇\n\n#aitrading #ai #crypto #trading #bitcoin",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6adee157e4be8a4d86e67ba0",
-   "dueAt": "2026-10-27T20:00:00+07:00"
-  },
-  {
-   "id": "pov-fed-day",
-   "file": "videos/99X_tiktok_povfed.mp4",
-   "title": "POV: Fed day, your AI agent is on it",
-   "caption": "pov: it's fed day and you're stuck in meetings. your agent isn't 🏛️ what would your fed-day rule be? 👇\n\n#aitrading #fed #crypto #bitcoin #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-10-29T20:00:00+07:00",
-   "bufferPostId": "6adf10b53163d936550ae951"
-  },
-  {
-   "id": "liq-ladder",
-   "file": "videos/liq-ladder.mp4",
-   "title": "How far is your liquidation? (save this)",
-   "caption": "how far can price move before you get liquidated? 5x → ~19.5%, 50x → ~1.5%, 100x → ~0.5%. save this 📌\n\n#crypto #trading #leverage #bitcoin #tradingtips",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-10-30T20:00:00+07:00",
-   "bufferPostId": "6adf10b8b5e7f93409218836"
-  },
-  {
-   "id": "pov-tilt",
-   "file": "videos/99X_tiktok_povtilt.mp4",
-   "title": "POV: 3 losses in a row. Just one more trade?",
-   "caption": "pov: 3 losses in a row and you want \"just one more trade\" 😤 what's your stop-trading rule? 👇\n\n#trading #crypto #tradingpsychology #aitrading #bitcoin",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-10-31T20:00:00+07:00",
-   "bufferPostId": "6adf10ba52312294267ebdb8"
-  },
-  {
-   "id": "agent-3-rules",
-   "file": "videos/agent-3-rules.mp4",
-   "title": "3 rules to give your AI trading agent",
-   "caption": "3 rules to give your AI agent before it trades a single dollar 🤖 what would your rule #4 be? 👇\n\n#aitrading #ai #crypto #trading #riskmanagement",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-11-01T20:00:00+07:00",
-   "bufferPostId": "6adf10bdc99de55ddb70a95b"
-  },
-  {
-   "id": "brief-2026-10-27",
-   "file": "videos/brief-2026-10-27.mp4",
-   "title": "Fed week: Bitcoin slips under $80K, $187M liquidated",
-   "caption": "fed week is here 🏛️ btc back under $80k, $187m liquidated (69% longs), etfs -$773m thu+fri but +$301m on the week. fed wed, gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-10-27T08:30:00+07:00",
-   "bufferPostId": "6adfe8be5837b0fb9bf8ed3e"
-  },
-  {
-   "id": "brief-2026-10-28",
-   "file": "videos/brief-2026-10-28.mp4",
-   "title": "Fed day: Bitcoin bounces back above $80K, $144M liquidated",
-   "caption": "fed decision day 🏛️ btc dipped under $80k then bounced to ~$80.6k, $144m liquidated (53% longs), btc etfs +$110m monday after ~$774m out. fed today 2pm et (hold odds 90.6%), gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-10-28T08:30:00+07:00",
-   "bufferPostId": "6ae13ab9b24fed5fb48f946b"
-  },
-  {
-   "id": "brief-2026-10-29",
-   "file": "videos/brief-2026-10-29.mp4",
-   "title": "Fed holds, but 2 officials wanted a hike: Bitcoin near $81K, $181M liquidated",
-   "caption": "fed holds at 3.75–4.00% in a 10–2 vote 🏛️ two dissenters wanted a hike. btc near $81.2k, $181m liquidated (76% shorts), btc etfs +$176m tue, eth etfs -$60m. gdp + pce today, ~$11b btc options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "dueAt": "2026-10-29T08:30:00+07:00",
-   "bufferPostId": "6ae28bfacc91be5434b8b669"
-  },
-  {
-   "id": "insight-2026-10-29",
-   "file": "videos/insight-2026-10-29.mp4",
-   "title": "Robinhood crypto revenue -55%, Coinbase reports tonight: crypto earnings week",
-   "caption": "crypto earnings week 📉 robinhood's crypto revenue fell 55% vs a year ago, coinbase reports after the us close thursday, strategy paused btc buys (still 848,517 btc) and ripple got final occ approval for a national trust bank. what are you watching in coinbase's numbers? 👇 not financial advice.\n\n#crypto #bitcoin #coinbase #robinhood #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6ae2eae62467e67f12831fd5",
-   "dueAt": "2026-10-29T20:00:00+07:00"
-  },
-  {
-   "id": "brief-2026-11-02",
-   "file": "videos/brief-2026-11-02.mp4",
-   "title": "Binance reopens withdrawals after $6.3B hack: Bitcoin near $78K, BTC ETFs -$643M",
-   "caption": "binance reopened btc withdrawals after the $6.3b hack and says ~95% of affected assets are replenished 🔓 btc near $77.9k, eth $2,264, sol $94. $56m liquidated in 24h (mostly longs). btc etfs -$643m friday, worst day since late june. this week: ism today, us midterms tue, jobs report fri. not financial advice.\n\n#bitcoin #crypto #binance #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6ae7d3d0d016796999fa7f44",
-   "dueAt": "2026-11-02T08:30:00+07:00"
-  },
-  {
-   "id": "brief-2026-11-03",
-   "file": "videos/brief-2026-11-03.mp4",
-   "title": "$6B leaves Binance in a day: Bitcoin under $77K as AI selloff hits, midterms today",
-   "caption": "over $6b left binance in 24h after withdrawals reopened 🏦 btc down 1.3% near $76.75k as an ai stock selloff hit the nasdaq. eth ~$2,250, sol -2.1%. $105m liquidated in two hours monday, ~98% longs. eth etfs lost a record $1.61b in october. us midterms today, jobs report fri. not financial advice.\n\n#bitcoin #crypto #binance #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6ae925a6e697cf47b841acca",
-   "dueAt": "2026-11-03T08:30:00+07:00"
-  },
-  {
-   "id": "insight-2026-11-03",
-   "file": "videos/insight-2026-11-03.mp4",
-   "title": "$3.64B left Binance in 10 hours. Strategy and Bitmine kept buying anyway",
-   "caption": "deal flow after the binance hack 🏦 $3.64b left binance in the first 9.5 hours after withdrawals reopened, binance says ~95% of stolen assets are refilled, strategy bought 811 btc and bitmine added 8,573 eth. block reports today, circle on wednesday. would you keep funds on an exchange right now? 👇 not financial advice.\n\n#crypto #bitcoin #binance #ethereum #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6ae9a24c310a3657584cd2d6",
-   "dueAt": "2026-11-03T20:00:00+07:00"
-  },
-  {
-   "id": "brief-2026-11-05",
-   "file": "videos/brief-2026-11-05.mp4",
-   "title": "Democrats win Congress and Bitcoin rips back above $80K as $951M gets liquidated",
-   "caption": "democrats won both the house and senate and btc ripped back above $80k 🗳️ btc +4% near $80.4k, eth +6.3%, sol +3.8%. $951m liquidated in 24h, mostly shorts. trump token -17%. btc etfs -$116m tue, 3rd straight outflow day. boe today, us jobs report fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6aebc714ff03f6944a12805f",
-   "dueAt": "2026-11-05T08:30:00+07:00"
-  },
-  {
-   "id": "brief-2026-11-10",
-   "file": "videos/brief-2026-11-10.mp4",
-   "title": "Bitcoin loses its 50-week average as $1.15B gets liquidated, CPI today",
-   "caption": "btc lost its 50-week average and hit its lowest since august 📉 btc near $74.8k, eth -4.4%, sol -2.2%. $1.15b liquidated in 24h, ~90% longs. rubio says iran talks stalled. btc etfs -$1.28b last week, worst since june. us cpi today, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #cpi #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6af25ddde261c09acc8a857f",
-   "dueAt": "2026-11-10T08:30:00+07:00"
-  },
-  {
-   "id": "brief-2026-11-11",
-   "file": "videos/brief-2026-11-11.mp4",
-   "title": "Hot CPI knocks Bitcoin to $73K as $632M gets liquidated, PPI Friday",
-   "caption": "hotter october cpi knocked btc to ~$73.4k 📉 cpi +0.4% vs 0.3% expected, december hike odds 85%. eth -3.7%, sol -4%+. $632m liquidated in 24h, ~80% longs. btc etfs -$201m monday, 3rd straight outflow day. jobless claims thu, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #cpi #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6af3b0256be08f4f9c73f6ca",
-   "dueAt": "2026-11-11T08:30:00+07:00"
-  },
-  {
-   "id": "brief-2026-11-12",
-   "file": "videos/brief-2026-11-12.mp4",
-   "title": "Fed's Waller backs a December hike as BTC sits near $73.8K, $494M liquidated",
-   "caption": "btc pinned near $73.8k after a 3-month low 📉 fed's waller backs a december hike and floated 50bp, hike odds above 85%. eth ~$2,054, sol ~$83. $494m liquidated in 24h, ~74% longs. btc etfs -$95m tuesday, 4th straight outflow day. jobless claims thu, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #fed #trading",
-   "status": "scheduled",
-   "bufferUrl": "",
-   "bufferPostId": "6af501598a1a2f52b50e957c",
-   "dueAt": "2026-11-12T08:30:00+07:00"
-  },
-  {
-   "id": "insight-2026-11-12",
-   "file": "videos/insight-2026-11-12.mp4",
-   "title": "MSCI kicks out Strategy, Bitmine's $6.3B loss, Deutsche Bank goes live in crypto",
-   "caption": "deal flow 🏦 msci drops strategy (mstr) from its usa index at the nov 30 close under a new non-operating issuer rule, metaplanet cut too. bitmine posts a $6.3b+ annual net loss, mostly unrealized, and holds 6.07m eth. deutsche bank's crypto custody goes live in europe. index funds sell the shares, strategy doesn't have to sell btc. not financial advice.\n\n#crypto #bitcoin #mstr #ethereum #cryptonews #trading",
-   "status": "draft",
-   "bufferUrl": ""
-  }
- ]
+  "bufferChannel": "tiktok",
+  "posts": [
+    {
+      "id": "brief-2026-10-26",
+      "file": "videos/99X_tiktok_brief_2026-10-26.mp4",
+      "title": "Fed week: BTC stuck at $80K | Oct 26 brief",
+      "caption": "fed week 🏛️ btc stuck at $80K, fear & greed 50, oil above $117. fed wed, inflation thu, coinbase earnings next. watch $80K. your oct 26 brief\n\n#crypto #bitcoin #cryptonews #fed #trading #ai",
+      "status": "sent",
+      "bufferUrl": "https://tiktok.com/@agentictrading/video/7700838252294442261",
+      "bufferPostId": "6aded3fde4be8a4d86e3aa4d"
+    },
+    {
+      "id": "guess-liq-btc-50x",
+      "file": "videos/99X_tiktok_liq.mp4",
+      "title": "Guess the liquidation price: BTC 50x long",
+      "caption": "btc long at $80,000, 50x. where do you get liquidated? 👇 comment your guess before the reveal\n\n#crypto #bitcoin #leverage #trading #liquidation",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6adee152bd33ce99c3ada8df",
+      "dueAt": "2026-10-26T20:00:00+07:00"
+    },
+    {
+      "id": "same-move-different-leverage",
+      "file": "videos/99X_tiktok_lev.mp4",
+      "title": "Same 2.8% move, 4 different endings",
+      "caption": "btc fell 2.8% this weekend. same move, different leverage, different ending. which box are you? 👇\n\n#crypto #bitcoin #leverage #riskmanagement #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6adee1550b5343d0700ef25a",
+      "dueAt": "2026-10-28T20:00:00+07:00"
+    },
+    {
+      "id": "pov-agent-3am",
+      "file": "videos/99X_tiktok_pov.mp4",
+      "title": "POV: your AI agent at 3AM",
+      "caption": "pov: you're asleep. your agent isn't 🌙 what rule would you give it? 👇\n\n#aitrading #ai #crypto #trading #bitcoin",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6adee157e4be8a4d86e67ba0",
+      "dueAt": "2026-10-27T20:00:00+07:00"
+    },
+    {
+      "id": "pov-fed-day",
+      "file": "videos/99X_tiktok_povfed.mp4",
+      "title": "POV: Fed day, your AI agent is on it",
+      "caption": "pov: it's fed day and you're stuck in meetings. your agent isn't 🏛️ what would your fed-day rule be? 👇\n\n#aitrading #fed #crypto #bitcoin #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-29T20:00:00+07:00",
+      "bufferPostId": "6adf10b53163d936550ae951"
+    },
+    {
+      "id": "liq-ladder",
+      "file": "videos/liq-ladder.mp4",
+      "title": "How far is your liquidation? (save this)",
+      "caption": "how far can price move before you get liquidated? 5x → ~19.5%, 50x → ~1.5%, 100x → ~0.5%. save this 📌\n\n#crypto #trading #leverage #bitcoin #tradingtips",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-30T20:00:00+07:00",
+      "bufferPostId": "6adf10b8b5e7f93409218836"
+    },
+    {
+      "id": "pov-tilt",
+      "file": "videos/99X_tiktok_povtilt.mp4",
+      "title": "POV: 3 losses in a row. Just one more trade?",
+      "caption": "pov: 3 losses in a row and you want \"just one more trade\" 😤 what's your stop-trading rule? 👇\n\n#trading #crypto #tradingpsychology #aitrading #bitcoin",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-31T20:00:00+07:00",
+      "bufferPostId": "6adf10ba52312294267ebdb8"
+    },
+    {
+      "id": "agent-3-rules",
+      "file": "videos/agent-3-rules.mp4",
+      "title": "3 rules to give your AI trading agent",
+      "caption": "3 rules to give your AI agent before it trades a single dollar 🤖 what would your rule #4 be? 👇\n\n#aitrading #ai #crypto #trading #riskmanagement",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-11-01T20:00:00+07:00",
+      "bufferPostId": "6adf10bdc99de55ddb70a95b"
+    },
+    {
+      "id": "brief-2026-10-27",
+      "file": "videos/brief-2026-10-27.mp4",
+      "title": "Fed week: Bitcoin slips under $80K, $187M liquidated",
+      "caption": "fed week is here 🏛️ btc back under $80k, $187m liquidated (69% longs), etfs -$773m thu+fri but +$301m on the week. fed wed, gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-27T08:30:00+07:00",
+      "bufferPostId": "6adfe8be5837b0fb9bf8ed3e"
+    },
+    {
+      "id": "brief-2026-10-28",
+      "file": "videos/brief-2026-10-28.mp4",
+      "title": "Fed day: Bitcoin bounces back above $80K, $144M liquidated",
+      "caption": "fed decision day 🏛️ btc dipped under $80k then bounced to ~$80.6k, $144m liquidated (53% longs), btc etfs +$110m monday after ~$774m out. fed today 2pm et (hold odds 90.6%), gdp + pce thu, ~$11b options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-28T08:30:00+07:00",
+      "bufferPostId": "6ae13ab9b24fed5fb48f946b"
+    },
+    {
+      "id": "brief-2026-10-29",
+      "file": "videos/brief-2026-10-29.mp4",
+      "title": "Fed holds, but 2 officials wanted a hike: Bitcoin near $81K, $181M liquidated",
+      "caption": "fed holds at 3.75–4.00% in a 10–2 vote 🏛️ two dissenters wanted a hike. btc near $81.2k, $181m liquidated (76% shorts), btc etfs +$176m tue, eth etfs -$60m. gdp + pce today, ~$11b btc options expiry fri. not financial advice.\n\n#bitcoin #crypto #fomc #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-10-29T08:30:00+07:00",
+      "bufferPostId": "6ae28bfacc91be5434b8b669"
+    },
+    {
+      "id": "insight-2026-10-29",
+      "file": "videos/insight-2026-10-29.mp4",
+      "title": "Robinhood crypto revenue -55%, Coinbase reports tonight: crypto earnings week",
+      "caption": "crypto earnings week 📉 robinhood's crypto revenue fell 55% vs a year ago, coinbase reports after the us close thursday, strategy paused btc buys (still 848,517 btc) and ripple got final occ approval for a national trust bank. what are you watching in coinbase's numbers? 👇 not financial advice.\n\n#crypto #bitcoin #coinbase #robinhood #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6ae2eae62467e67f12831fd5",
+      "dueAt": "2026-10-29T20:00:00+07:00"
+    },
+    {
+      "id": "brief-2026-11-02",
+      "file": "videos/brief-2026-11-02.mp4",
+      "title": "Binance reopens withdrawals after $6.3B hack: Bitcoin near $78K, BTC ETFs -$643M",
+      "caption": "binance reopened btc withdrawals after the $6.3b hack and says ~95% of affected assets are replenished 🔓 btc near $77.9k, eth $2,264, sol $94. $56m liquidated in 24h (mostly longs). btc etfs -$643m friday, worst day since late june. this week: ism today, us midterms tue, jobs report fri. not financial advice.\n\n#bitcoin #crypto #binance #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6ae7d3d0d016796999fa7f44",
+      "dueAt": "2026-11-02T08:30:00+07:00"
+    },
+    {
+      "id": "brief-2026-11-03",
+      "file": "videos/brief-2026-11-03.mp4",
+      "title": "$6B leaves Binance in a day: Bitcoin under $77K as AI selloff hits, midterms today",
+      "caption": "over $6b left binance in 24h after withdrawals reopened 🏦 btc down 1.3% near $76.75k as an ai stock selloff hit the nasdaq. eth ~$2,250, sol -2.1%. $105m liquidated in two hours monday, ~98% longs. eth etfs lost a record $1.61b in october. us midterms today, jobs report fri. not financial advice.\n\n#bitcoin #crypto #binance #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6ae925a6e697cf47b841acca",
+      "dueAt": "2026-11-03T08:30:00+07:00"
+    },
+    {
+      "id": "insight-2026-11-03",
+      "file": "videos/insight-2026-11-03.mp4",
+      "title": "$3.64B left Binance in 10 hours. Strategy and Bitmine kept buying anyway",
+      "caption": "deal flow after the binance hack 🏦 $3.64b left binance in the first 9.5 hours after withdrawals reopened, binance says ~95% of stolen assets are refilled, strategy bought 811 btc and bitmine added 8,573 eth. block reports today, circle on wednesday. would you keep funds on an exchange right now? 👇 not financial advice.\n\n#crypto #bitcoin #binance #ethereum #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6ae9a24c310a3657584cd2d6",
+      "dueAt": "2026-11-03T20:00:00+07:00"
+    },
+    {
+      "id": "brief-2026-11-05",
+      "file": "videos/brief-2026-11-05.mp4",
+      "title": "Democrats win Congress and Bitcoin rips back above $80K as $951M gets liquidated",
+      "caption": "democrats won both the house and senate and btc ripped back above $80k 🗳️ btc +4% near $80.4k, eth +6.3%, sol +3.8%. $951m liquidated in 24h, mostly shorts. trump token -17%. btc etfs -$116m tue, 3rd straight outflow day. boe today, us jobs report fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aebc714ff03f6944a12805f",
+      "dueAt": "2026-11-05T08:30:00+07:00"
+    },
+    {
+      "id": "brief-2026-11-10",
+      "file": "videos/brief-2026-11-10.mp4",
+      "title": "Bitcoin loses its 50-week average as $1.15B gets liquidated, CPI today",
+      "caption": "btc lost its 50-week average and hit its lowest since august 📉 btc near $74.8k, eth -4.4%, sol -2.2%. $1.15b liquidated in 24h, ~90% longs. rubio says iran talks stalled. btc etfs -$1.28b last week, worst since june. us cpi today, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #cpi #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6af25ddde261c09acc8a857f",
+      "dueAt": "2026-11-10T08:30:00+07:00"
+    },
+    {
+      "id": "brief-2026-11-11",
+      "file": "videos/brief-2026-11-11.mp4",
+      "title": "Hot CPI knocks Bitcoin to $73K as $632M gets liquidated, PPI Friday",
+      "caption": "hotter october cpi knocked btc to ~$73.4k 📉 cpi +0.4% vs 0.3% expected, december hike odds 85%. eth -3.7%, sol -4%+. $632m liquidated in 24h, ~80% longs. btc etfs -$201m monday, 3rd straight outflow day. jobless claims thu, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #cpi #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6af3b0256be08f4f9c73f6ca",
+      "dueAt": "2026-11-11T08:30:00+07:00"
+    },
+    {
+      "id": "brief-2026-11-12",
+      "file": "videos/brief-2026-11-12.mp4",
+      "title": "Fed's Waller backs a December hike as BTC sits near $73.8K, $494M liquidated",
+      "caption": "btc pinned near $73.8k after a 3-month low 📉 fed's waller backs a december hike and floated 50bp, hike odds above 85%. eth ~$2,054, sol ~$83. $494m liquidated in 24h, ~74% longs. btc etfs -$95m tuesday, 4th straight outflow day. jobless claims thu, ppi fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #fed #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6af501598a1a2f52b50e957c",
+      "dueAt": "2026-11-12T08:30:00+07:00"
+    },
+    {
+      "id": "insight-2026-11-12",
+      "file": "videos/insight-2026-11-12.mp4",
+      "title": "MSCI kicks out Strategy, Bitmine's $6.3B loss, Deutsche Bank goes live in crypto",
+      "caption": "deal flow 🏦 msci drops strategy (mstr) from its usa index at the nov 30 close under a new non-operating issuer rule, metaplanet cut too. bitmine posts a $6.3b+ annual net loss, mostly unrealized, and holds 6.07m eth. deutsche bank's crypto custody goes live in europe. index funds sell the shares, strategy doesn't have to sell btc. not financial advice.\n\n#crypto #bitcoin #mstr #ethereum #cryptonews #trading",
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6af57e7d33a016b1e3f491ce",
+      "dueAt": "2026-11-12T20:00:00+07:00"
+    }
+  ]
 }
