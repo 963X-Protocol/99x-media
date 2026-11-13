@@ -1,0 +1,144 @@
+{
+  "id": "coin-pons-2026-11-13",
+  "series": "COIN CHECK",
+  "badge": "ROBINHOOD CHAIN",
+  "badgeColor": "teal",
+  "date": "NOV 16, 2026",
+  "src": "terminal data read nov 13, 2026 17:01 UTC · 99x.exchange/app/terminal (beta) · small tokens are high risk · not financial advice",
+  "tape": [
+    "COIN CHECK · $PONS",
+    "LIQ $1.70M",
+    "MCAP $97.07M",
+    "-1.39% 24H",
+    "99X TERMINAL · BETA",
+    "FEE 0.75% IN QUOTE",
+    "CHECK LIQUIDITY FIRST"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR COIN CHECKS",
+  "followSay": "Follow for more coin checks.",
+  "followCap": "Follow for more coin checks.",
+  "cta": [
+    [
+      "Small caps can drop as fast as they rise. Size small, and you confirm every trade.",
+      "Small caps drop as fast as they rise. Size small, you confirm every trade."
+    ],
+    [
+      "Scan Robinhood Chain on ninety-nine X Terminal. Now in beta.",
+      "Scan Robinhood Chain on 99X Terminal. Now in beta."
+    ]
+  ],
+  "pitch": {
+    "head": "Check the coin on <span style=\"color:#00E0C6\">99X Terminal</span>.",
+    "cards": [
+      {
+        "who": "STEP 1 ▸ SCAN",
+        "line": "Trending · Gainers · $PONS",
+        "res": "✓ liq · vol · mcap on every pair"
+      },
+      {
+        "who": "STEP 2 ▸ QUOTE",
+        "line": "slippage 0.5–2% · route shown",
+        "res": "✓ 0.75% fee included · you confirm"
+      }
+    ],
+    "chips": [
+      "check liquidity",
+      "size small",
+      "you confirm"
+    ],
+    "endTitle": "Check the coin.<br><span>Then the pool.</span>",
+    "fine": "not financial advice · small tokens are high risk"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "k": "DEEPEST POOL · TRENDING",
+      "say": "One point seven million dollars. PONS had the deepest pool on the Robinhood Chain trending list.",
+      "cap": "$1.70M. $PONS had the deepest pool on the Robinhood Chain trending list.",
+      "from": 0,
+      "to": 1.7,
+      "prefix": "$",
+      "suffix": "M",
+      "dec": 2,
+      "color": "teal",
+      "sub": "liquidity · 99X Terminal trending · nov 13"
+    },
+    {
+      "type": "cards",
+      "say": "Market cap, about ninety-seven million dollars. Volume, about five hundred fifty-three thousand.",
+      "cap": "Market cap about $97.07M. Volume about $553K.",
+      "items": [
+        {
+          "k": "MCAP",
+          "v": "$97.07M",
+          "color": "white"
+        },
+        {
+          "k": "VOL 24H",
+          "v": "$552.5K",
+          "n": "PONS/WETH",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "The day was calm. PONS moved down one point three nine percent.",
+      "cap": "The day was calm: $PONS moved -1.39%.",
+      "items": [
+        {
+          "k": "24H",
+          "v": "-1.39%",
+          "n": "calm day",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "k": "POOL CHECK",
+      "say": "A deeper pool usually means less slippage for the same order size.",
+      "cap": "A deeper pool usually means less slippage for the same order size.",
+      "text": "Deeper pool, smaller price impact",
+      "sub": "same order, bigger pool",
+      "items": [
+        {
+          "k": "DEEP POOL",
+          "v": "less slippage",
+          "color": "green"
+        },
+        {
+          "k": "THIN POOL",
+          "v": "more slippage",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "k": "BEFORE YOU BUY",
+      "say": "On Terminal you pick slippage, see the route, and the fee is already in the quote.",
+      "cap": "On Terminal: pick slippage, see the route, fee already in the quote.",
+      "rows": [
+        {
+          "k": "SLIPPAGE",
+          "v": "0.5 · 1 · 2%",
+          "color": "teal"
+        },
+        {
+          "k": "ROUTE",
+          "v": "uniswap v3",
+          "color": "white"
+        },
+        {
+          "k": "FEE",
+          "v": "0.75%",
+          "color": "purple"
+        }
+      ]
+    }
+  ],
+  "title": "$PONS: $97M mcap and the deepest pool on the Robinhood Chain trending list | Coin check",
+  "caption": "$pons had the deepest pool on robinhood chain's trending list 🌊 liquidity $1.70m, mcap $97.07m, 24h volume $553k, -1.39% on the day (99x terminal, nov 13). deeper pool, less slippage for the same order. still crypto, still risky. do you check pool depth first? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #altcoins #trading #99x"
+}

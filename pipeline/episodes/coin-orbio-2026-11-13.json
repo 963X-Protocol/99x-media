@@ -1,0 +1,146 @@
+{
+  "id": "coin-orbio-2026-11-13",
+  "series": "COIN CHECK",
+  "badge": "ROBINHOOD CHAIN",
+  "badgeColor": "teal",
+  "date": "NOV 15, 2026",
+  "src": "terminal data read nov 13, 2026 17:01 UTC · 99x.exchange/app/terminal (beta) · small tokens are high risk · not financial advice",
+  "tape": [
+    "COIN CHECK · $ORBIO",
+    "-20% 24H",
+    "VOL $588.6K",
+    "LIQ $636.4K",
+    "99X TERMINAL · BETA",
+    "FEE 0.75% IN QUOTE",
+    "CHECK LIQUIDITY FIRST"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR COIN CHECKS",
+  "followSay": "Follow for more coin checks.",
+  "followCap": "Follow for more coin checks.",
+  "cta": [
+    [
+      "Small caps can drop as fast as they rise. Size small, and you confirm every trade.",
+      "Small caps drop as fast as they rise. Size small, you confirm every trade."
+    ],
+    [
+      "Scan Robinhood Chain on ninety-nine X Terminal. Now in beta.",
+      "Scan Robinhood Chain on 99X Terminal. Now in beta."
+    ]
+  ],
+  "pitch": {
+    "head": "Check the coin on <span style=\"color:#00E0C6\">99X Terminal</span>.",
+    "cards": [
+      {
+        "who": "STEP 1 ▸ SCAN",
+        "line": "Trending · Gainers · $ORBIO",
+        "res": "✓ liq · vol · mcap on every pair"
+      },
+      {
+        "who": "STEP 2 ▸ QUOTE",
+        "line": "slippage 0.5–2% · route shown",
+        "res": "✓ 0.75% fee included · you confirm"
+      }
+    ],
+    "chips": [
+      "check liquidity",
+      "size small",
+      "you confirm"
+    ],
+    "endTitle": "Check the coin.<br><span>Then the pool.</span>",
+    "fine": "not financial advice · small tokens are high risk"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "k": "TRENDING · ROBINHOOD CHAIN",
+      "say": "Minus twenty percent in a day. Yet ORBIO was one of the most traded pairs on Robinhood Chain.",
+      "cap": "-20% in a day. Yet $ORBIO was one of the most traded pairs on Robinhood Chain.",
+      "from": 0,
+      "to": -20,
+      "suffix": "%",
+      "color": "red",
+      "sub": "24h · 99X Terminal trending · nov 13"
+    },
+    {
+      "type": "cards",
+      "say": "Volume, about five hundred eighty-nine thousand dollars. Liquidity, about six hundred thirty-six thousand.",
+      "cap": "Volume about $589K. Liquidity about $636K.",
+      "items": [
+        {
+          "k": "VOL 24H",
+          "v": "$588.6K",
+          "color": "teal"
+        },
+        {
+          "k": "LIQUIDITY",
+          "v": "$636.4K",
+          "n": "uniswap v4 pool",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Market cap was about twenty-two million dollars, paired against U S D G.",
+      "cap": "Market cap about $21.95M, paired with USDG.",
+      "items": [
+        {
+          "k": "MCAP",
+          "v": "$21.95M",
+          "color": "white"
+        },
+        {
+          "k": "PAIR",
+          "v": "ORBIO/USDG",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "k": "VOLUME CHECK",
+      "say": "In one day, volume almost matched the whole pool. Busy pairs move both ways.",
+      "cap": "In one day, volume almost matched the whole pool. Busy pairs move both ways.",
+      "text": "Volume ≈ 92% of liquidity",
+      "sub": "$588.6K traded vs $636.4K pool",
+      "items": [
+        {
+          "k": "HOT",
+          "v": "high volume",
+          "color": "teal"
+        },
+        {
+          "k": "BUT",
+          "v": "-20% in 24h",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "k": "BEFORE YOU BUY",
+      "say": "On Terminal you pick slippage, see the route, and the fee is already in the quote.",
+      "cap": "On Terminal: pick slippage, see the route, fee already in the quote.",
+      "rows": [
+        {
+          "k": "SLIPPAGE",
+          "v": "0.5 · 1 · 2%",
+          "color": "teal"
+        },
+        {
+          "k": "ROUTE",
+          "v": "uniswap v4",
+          "color": "white"
+        },
+        {
+          "k": "FEE",
+          "v": "0.75%",
+          "color": "purple"
+        }
+      ]
+    }
+  ],
+  "title": "$ORBIO -20% but still one of the most traded pairs on Robinhood Chain | Coin check",
+  "caption": "$orbio -20% in a day, still one of the most traded pairs on robinhood chain 🔥 volume $589k vs liquidity $636k, mcap $21.95m (99x terminal, nov 13). hot doesn't mean up. small tokens are high risk. do you trade the volume or wait? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #altcoins #trading #99x"
+}
