@@ -215,24 +215,39 @@
       "file": "videos/coin-delta-2026-11-13.mp4",
       "title": "$DELTA +24% on Robinhood Chain: $4.3M mcap, $426K liquidity | Coin check",
       "caption": "$delta +24% in a day on robinhood chain 📈 mcap $4.30m, liquidity $426k, 24h volume $269k (99x terminal, nov 13). liquidity is about 1/10 of mcap, so size matters. small tokens are high risk and can drop fast. would you check the pool before you buy? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #memecoin #trading #99x",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-11-15T12:00:00+07:00",
+      "bufferPostIds": {
+        "tiktok": "6af745384d5a2b44be9f8539",
+        "youtube": "6af7453838f9934c19fe8df7"
+      }
     },
     {
       "id": "coin-orbio-2026-11-13",
       "file": "videos/coin-orbio-2026-11-13.mp4",
       "title": "$ORBIO -20% but still one of the most traded pairs on Robinhood Chain | Coin check",
       "caption": "$orbio -20% in a day, still one of the most traded pairs on robinhood chain 🔥 volume $589k vs liquidity $636k, mcap $21.95m (99x terminal, nov 13). hot doesn't mean up. small tokens are high risk. do you trade the volume or wait? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #altcoins #trading #99x",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-11-15T20:00:00+07:00",
+      "bufferPostIds": {
+        "tiktok": "6af74539f27e6d892143f2d5",
+        "youtube": "6af7453a38f9934c19fe8e50"
+      }
     },
     {
       "id": "coin-pons-2026-11-13",
       "file": "videos/coin-pons-2026-11-13.mp4",
       "title": "$PONS: $97M mcap and the deepest pool on the Robinhood Chain trending list | Coin check",
       "caption": "$pons had the deepest pool on robinhood chain's trending list 🌊 liquidity $1.70m, mcap $97.07m, 24h volume $553k, -1.39% on the day (99x terminal, nov 13). deeper pool, less slippage for the same order. still crypto, still risky. do you check pool depth first? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #altcoins #trading #99x",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "dueAt": "2026-11-16T17:00:00+07:00",
+      "bufferPostIds": {
+        "tiktok": "6af7453a0234d2352e22d20d",
+        "youtube": "6af7453b60bde15261f4a6a7"
+      }
     }
   ]
 }
