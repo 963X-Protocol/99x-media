@@ -1,0 +1,97 @@
+{
+  "id": "terminal-01-robinhood-gems",
+  "series": "99X TERMINAL",
+  "badge": "ROBINHOOD CHAIN",
+  "badgeColor": "teal",
+  "date": "NOV 14, 2026",
+  "src": "terminal data read nov 13, 2026 · 99x.exchange/app/terminal (beta) · small tokens are high risk · not financial advice",
+  "tape": [
+    "99X TERMINAL · BETA",
+    "ROBINHOOD CHAIN",
+    "TRENDING · NEW · GAINERS",
+    "FEE 0.75% IN QUOTE",
+    "SLIPPAGE 0.5–2%",
+    "CHECK LIQUIDITY FIRST"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR TERMINAL TIPS",
+  "followSay": "Follow for more Terminal tips.",
+  "followCap": "Follow for more Terminal tips.",
+  "cta": [
+    ["Small caps move fast. Check liquidity, size small, and you confirm every trade.",
+     "Small caps move fast. Check liquidity, size small, you confirm every trade."],
+    ["Hunt Robinhood Chain on ninety-nine X Terminal. Now in beta.",
+     "Hunt Robinhood Chain on 99X Terminal. Now in beta."]
+  ],
+  "pitch": {
+    "head": "Hunt <span style=\"color:#00E0C6\">Robinhood Chain</span> on 99X Terminal.",
+    "cards": [
+      {"who": "STEP 1 ▸ SCAN", "line": "Trending · New · Gainers", "res": "✓ liq · vol · mcap on every pair"},
+      {"who": "STEP 2 ▸ QUOTE", "line": "buy · slippage 1% · route shown", "res": "✓ 0.75% fee included · you confirm"}
+    ],
+    "chips": ["check liquidity", "size small", "you confirm"],
+    "endTitle": "Hunt hidden gems.<br><span>Eyes open.</span>"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Plus six hundred twenty percent in a day. That was the top trending pair on Robinhood Chain.",
+      "cap": "+620% in a day. That was the top trending pair on Robinhood Chain.",
+      "k": "TOP TRENDING · ROBINHOOD CHAIN",
+      "from": 0, "to": 620, "prefix": "+", "suffix": "%", "color": "green",
+      "sub": "24h change · read on 99X Terminal, nov 13"
+    },
+    {
+      "type": "cards",
+      "say": "But its liquidity was just twenty-five thousand dollars. Hidden gems hide risk too.",
+      "cap": "But its liquidity was just $25.4K. Hidden gems hide risk too.",
+      "items": [
+        {"k": "LIQUIDITY", "v": "$25.4K", "n": "thin pool, big slippage", "color": "red"},
+        {"k": "VOL 24H", "v": "$1.45M", "n": "same pair, same day", "color": "white"}
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Meet ninety-nine X Terminal. Trending, new and top gainer pairs on Robinhood Chain, on one screen.",
+      "cap": "Meet 99X Terminal. Trending, new and top gainers on Robinhood Chain, one screen.",
+      "k": "99X TERMINAL · BETA",
+      "text": "Scan Robinhood Chain in one screen",
+      "items": [
+        {"k": "TABS", "v": "Trending · New", "n": "+ Gainers · LP", "color": "teal"},
+        {"k": "CHAINS", "v": "Robinhood", "n": "+ Ethereum", "color": "purple"}
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Every pair shows liquidity, volume and market cap, with a live chart, before you tap buy.",
+      "cap": "Every pair shows liquidity, volume and mcap, with a live chart, before you buy.",
+      "items": [
+        {"k": "LIQUIDITY", "v": "on every pair", "color": "teal"},
+        {"k": "VOL 24H · MCAP", "v": "at a glance", "color": "white"},
+        {"k": "CHART", "v": "1H · 6H · 24H", "color": "purple"}
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Pick slippage at half, one or two percent. The route and the chain are shown in every quote.",
+      "cap": "Pick slippage: 0.5, 1 or 2%. Route and chain are shown in every quote.",
+      "k": "BEFORE YOU BUY",
+      "rows": [
+        {"k": "SLIPPAGE", "v": "0.5 · 1 · 2%", "color": "teal"},
+        {"k": "ROUTE", "v": "uniswap v3/v4", "color": "white"},
+        {"k": "CHAIN", "v": "Robinhood", "color": "purple"}
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "The Terminal fee is zero point seven five percent, already in the quote. Never silent.",
+      "cap": "The Terminal fee is 0.75%, already in the quote. Never silent.",
+      "items": [
+        {"k": "TERMINAL FEE", "v": "0.75%", "n": "included in every quote", "color": "teal"},
+        {"k": "HIDDEN FEES", "v": "NONE", "n": "shown before you sign", "color": "white"}
+      ]
+    }
+  ],
+  "title": "Hunting hidden gems on Robinhood Chain? Check liquidity first | 99X Terminal",
+  "caption": "+620% in a day… with only $25k liquidity 👀 99x terminal scans robinhood chain: trending, new and gainer pairs, with liquidity, volume, mcap and a live chart on every pair. slippage 0.5–2%, route shown, 0.75% fee already in the quote. small tokens are high risk and can drop fast. what do you check first before you buy? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #memecoin #trading #99x"
+}
