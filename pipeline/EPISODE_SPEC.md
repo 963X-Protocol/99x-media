@@ -19,6 +19,7 @@ Example: `episodes/example-brief.json`.
 | `followSay` / `followCap` | no | Last spoken line. Default "Follow for the daily brief." |
 | `speed` | no | Voice speed, default 1.06 |
 | `cta` | no | Two `[say, cap]` pairs replacing the default closing pitch lines (the visuals stay the same) |
+| `pitch` | no | Replaces the closing pitch visuals: `head`, `cards` (2 × `{who, line, res, no?}`), `chips`, optional `endTitle`, optional `fine` (end-card small print, default mentions leverage) |
 | `beats` | yes | 5–7 beats (each beat = one voice line + one visual) |
 | `title` | yes | TikTok title (≤ 90 chars) |
 | `caption` | yes | TikTok caption, lowercase style, ending with 4–6 hashtags |

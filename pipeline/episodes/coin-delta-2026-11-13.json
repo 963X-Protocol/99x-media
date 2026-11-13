@@ -1,0 +1,143 @@
+{
+  "id": "coin-delta-2026-11-13",
+  "series": "COIN CHECK",
+  "badge": "ROBINHOOD CHAIN",
+  "badgeColor": "teal",
+  "date": "NOV 15, 2026",
+  "src": "terminal data read nov 13, 2026 17:01 UTC · 99x.exchange/app/terminal (beta) · small tokens are high risk · not financial advice",
+  "tape": [
+    "COIN CHECK · $DELTA",
+    "+24% 24H",
+    "MCAP $4.30M",
+    "LIQ $425.8K",
+    "99X TERMINAL · BETA",
+    "FEE 0.75% IN QUOTE",
+    "CHECK LIQUIDITY FIRST"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR COIN CHECKS",
+  "followSay": "Follow for more coin checks.",
+  "followCap": "Follow for more coin checks.",
+  "cta": [
+    [
+      "Small caps can drop as fast as they rise. Size small, and you confirm every trade.",
+      "Small caps drop as fast as they rise. Size small, you confirm every trade."
+    ],
+    [
+      "Scan Robinhood Chain on ninety-nine X Terminal. Now in beta.",
+      "Scan Robinhood Chain on 99X Terminal. Now in beta."
+    ]
+  ],
+  "pitch": {
+    "head": "Check the coin on <span style=\"color:#00E0C6\">99X Terminal</span>.",
+    "cards": [
+      {
+        "who": "STEP 1 ▸ SCAN",
+        "line": "Trending · Gainers · $DELTA",
+        "res": "✓ liq · vol · mcap on every pair"
+      },
+      {
+        "who": "STEP 2 ▸ QUOTE",
+        "line": "slippage 0.5–2% · route shown",
+        "res": "✓ 0.75% fee included · you confirm"
+      }
+    ],
+    "chips": [
+      "check liquidity",
+      "size small",
+      "you confirm"
+    ],
+    "endTitle": "Check the coin.<br><span>Then the pool.</span>",
+    "fine": "not financial advice · small tokens are high risk"
+  },
+  "beats": [
+    {
+      "type": "hero",
+      "k": "TOP GAINER · ROBINHOOD CHAIN",
+      "say": "Plus twenty-four percent in a day. DELTA was one of the top gainers on Robinhood Chain.",
+      "cap": "+24% in a day. $DELTA was one of the top gainers on Robinhood Chain.",
+      "from": 0,
+      "to": 24,
+      "prefix": "+",
+      "suffix": "%",
+      "color": "green",
+      "sub": "24h · 99X Terminal gainers · nov 13"
+    },
+    {
+      "type": "cards",
+      "say": "Market cap, four point three million dollars. Liquidity, about four hundred twenty-six thousand.",
+      "cap": "Market cap $4.30M. Liquidity about $426K.",
+      "items": [
+        {
+          "k": "MCAP",
+          "v": "$4.30M",
+          "color": "white"
+        },
+        {
+          "k": "LIQUIDITY",
+          "v": "$425.8K",
+          "n": "pons v1 pool",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Twenty-four hour volume was two hundred sixty-nine thousand dollars.",
+      "cap": "24h volume was $269.1K.",
+      "items": [
+        {
+          "k": "VOL 24H",
+          "v": "$269.1K",
+          "n": "DELTA/WETH",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "k": "LIQUIDITY CHECK",
+      "say": "Liquidity is about a tenth of market cap. Bigger orders can move the price.",
+      "cap": "Liquidity is about 1/10 of market cap. Bigger orders can move the price.",
+      "text": "Liquidity ≈ 10% of market cap",
+      "sub": "$425.8K pool vs $4.30M mcap",
+      "items": [
+        {
+          "k": "SMALL ORDER",
+          "v": "less slippage",
+          "color": "green"
+        },
+        {
+          "k": "BIG ORDER",
+          "v": "more slippage",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "k": "BEFORE YOU BUY",
+      "say": "On Terminal you pick slippage, see the route, and the fee is already in the quote.",
+      "cap": "On Terminal: pick slippage, see the route, fee already in the quote.",
+      "rows": [
+        {
+          "k": "SLIPPAGE",
+          "v": "0.5 · 1 · 2%",
+          "color": "teal"
+        },
+        {
+          "k": "ROUTE",
+          "v": "pons v1",
+          "color": "white"
+        },
+        {
+          "k": "FEE",
+          "v": "0.75%",
+          "color": "purple"
+        }
+      ]
+    }
+  ],
+  "title": "$DELTA +24% on Robinhood Chain: $4.3M mcap, $426K liquidity | Coin check",
+  "caption": "$delta +24% in a day on robinhood chain 📈 mcap $4.30m, liquidity $426k, 24h volume $269k (99x terminal, nov 13). liquidity is about 1/10 of mcap, so size matters. small tokens are high risk and can drop fast. would you check the pool before you buy? 👇 not financial advice.\n\n#robinhoodchain #crypto #defi #memecoin #trading #99x"
+}
