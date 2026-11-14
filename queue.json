@@ -220,7 +220,8 @@
       "dueAt": "2026-11-15T12:00:00+07:00",
       "bufferPostIds": {
         "tiktok": "6af745384d5a2b44be9f8539",
-        "youtube": "6af7453838f9934c19fe8df7"
+        "youtube": "6af7453838f9934c19fe8df7",
+        "facebook": "6af85f1eb9a106584c47a156"
       }
     },
     {
@@ -233,7 +234,8 @@
       "dueAt": "2026-11-15T20:00:00+07:00",
       "bufferPostIds": {
         "tiktok": "6af74539f27e6d892143f2d5",
-        "youtube": "6af7453a38f9934c19fe8e50"
+        "youtube": "6af7453a38f9934c19fe8e50",
+        "facebook": "6af85f1fb9a106584c47a19c"
       }
     },
     {
@@ -246,7 +248,8 @@
       "dueAt": "2026-11-16T17:00:00+07:00",
       "bufferPostIds": {
         "tiktok": "6af7453a0234d2352e22d20d",
-        "youtube": "6af7453b60bde15261f4a6a7"
+        "youtube": "6af7453b60bde15261f4a6a7",
+        "facebook": "6af85f2076c23bf1c7190956"
       }
     }
   ]
