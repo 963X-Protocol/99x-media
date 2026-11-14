@@ -239,8 +239,10 @@
       "file": "videos/brief-2026-11-14.mp4",
       "title": "Bitcoin slumps to $67,500, lowest since August, as $1.2B+ gets liquidated | Weekend Brief",
       "caption": "btc briefly hit $67,500, its lowest since august 📉 eth ~$1,920, sol near $80. over $1.2b liquidated in a day, mostly longs. btc etfs: 6 straight outflow days, -$643m this week through thursday. cooler ppi gave only brief relief. next week: nvidia tuesday, fed minutes wednesday. which level are you watching? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #weekend #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6af7b1759257ce33981ffedc",
+      "dueAt": "2026-11-14T09:00:00+07:00"
     }
   ]
 }
