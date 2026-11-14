@@ -1,0 +1,95 @@
+{
+  "id": "brief-2026-11-14",
+  "series": "DAILY BRIEF",
+  "badge": "WEEKEND",
+  "date": "NOV 14, 2026",
+  "src": "data as of Nov 13–14 · sources: CoinGecko, Coinbase, Bitcoin Magazine, Cointelegraph, KuCoin/CoinGlass, SoSoValue via TechFlow, Coinpaper · not financial advice",
+  "tape": [
+    "BTC ~$68,800 ▼4%",
+    "ETH ~$1,920 ▼5%",
+    "SOL ~$80",
+    "LIQ $1.2B+ 24H",
+    "BTC ETFS −$643M WEEK",
+    "FOMC MINUTES WED"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin briefly slumped to sixty-seven thousand five hundred, its lowest since August.",
+      "cap": "BTC briefly slumped to $67,500, its lowest since August.",
+      "k": "BITCOIN · NOV 13",
+      "from": 72000,
+      "to": 67500,
+      "prefix": "$",
+      "color": "red",
+      "sub": "intraday low · now ~$68,800, −4% 24h"
+    },
+    {
+      "type": "bars",
+      "say": "Over one point two billion dollars liquidated in a day, mostly longs.",
+      "cap": "Over $1.2B liquidated in a day, mostly longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$1.2B+",
+      "items": [
+        {"label": "LONGS · ~84%", "pct": 84, "color": "#B91C1C"},
+        {"label": "SHORTS · ~16%", "pct": 16, "color": "#14532D"}
+      ],
+      "note": "CoinGlass data via KuCoin, PANews"
+    },
+    {
+      "type": "cards",
+      "say": "Ether sank to around nineteen twenty, down about five percent. Solana sits near eighty dollars.",
+      "cap": "ETH sank to ~$1,920, down ~5%. SOL sits near $80.",
+      "k": "MAJORS · NOV 13",
+      "items": [
+        {"k": "ETHEREUM", "v": "~$1,920", "n": "~−5% · under $2K", "color": "red"},
+        {"k": "SOLANA", "v": "~$80", "n": "quotes ~$78–$80", "color": "red"}
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs: six straight outflow days, six hundred forty-three million out this week through Thursday.",
+      "cap": "BTC ETFs: 6 straight outflow days, $643M out this week through Thursday.",
+      "k": "SPOT BTC ETF FLOWS · SOSOVALUE",
+      "items": [
+        {"k": "WEEK TO THU", "v": "−$643M", "n": "Nov 9–12", "color": "red"},
+        {"k": "2026 SO FAR", "v": "−$1.56B", "n": "net outflow YTD", "color": "red"}
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: cooler producer prices gave crypto only brief relief.",
+      "cap": "The driver: cooler producer prices gave crypto only brief relief.",
+      "k": "THE DRIVER",
+      "text": "Cooler PPI fails to lift crypto",
+      "items": [
+        {"k": "OCT PPI M/M", "v": "+0.3%", "n": "vs 0.4% expected", "color": "green"},
+        {"k": "PPI Y/Y", "v": "6.5%", "n": "vs 6.6% expected", "color": "amber"}
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next week: Nvidia earnings Tuesday, Fed minutes Wednesday.",
+      "cap": "Next week: Nvidia earnings Tuesday, Fed minutes Wednesday.",
+      "k": "NEXT WEEK",
+      "items": [
+        {"k": "TUE · NOV 17", "v": "NVIDIA EARNINGS"},
+        {"k": "WED · NOV 18", "v": "FOMC MINUTES"}
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support sixty-seven five, then sixty-five thousand. Resistance at seventy thousand.",
+      "cap": "Levels to watch: support $67.5K, then $65K. Resistance at $70K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {"k": "RESISTANCE", "v": "$70K", "color": "green"},
+        {"k": "SUPPORT", "v": "$67.5K", "color": "red"},
+        {"k": "BELOW THAT", "v": "$65K", "color": "red"}
+      ]
+    }
+  ],
+  "title": "Bitcoin slumps to $67,500, lowest since August, as $1.2B+ gets liquidated | Weekend Brief",
+  "caption": "btc briefly hit $67,500, its lowest since august 📉 eth ~$1,920, sol near $80. over $1.2b liquidated in a day, mostly longs. btc etfs: 6 straight outflow days, -$643m this week through thursday. cooler ppi gave only brief relief. next week: nvidia tuesday, fed minutes wednesday. which level are you watching? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #weekend #trading"
+}
