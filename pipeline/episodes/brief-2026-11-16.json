@@ -1,0 +1,145 @@
+{
+  "id": "brief-2026-11-16",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 16, 2026",
+  "src": "data as of Nov 15 · sources: CryptoTicker (CoinGecko, CME FedWatch), CoinCodex, Koin Bülteni, PANews & Bloomingbit (CoinGlass), CoinCentral & KuCoin (SoSoValue), Yardeni · not financial advice",
+  "tape": [
+    "BTC ~$64,500 ▼4%",
+    "ETH ~$1,800 ▼5%",
+    "SOL ~$70 ▼6%",
+    "LIQ $1.71B 24H",
+    "BTC ETFS −$1.91B 7 DAYS",
+    "FED MINUTES WED"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin crashed to about sixty-two thousand on Sunday, its lowest since early July.",
+      "cap": "BTC crashed to ~$62K on Sunday, its lowest since early July.",
+      "k": "BITCOIN · NOV 15",
+      "from": 66000,
+      "to": 62000,
+      "prefix": "$",
+      "color": "red",
+      "sub": "intraday low · back near $64K · −14.5% 7D"
+    },
+    {
+      "type": "bars",
+      "say": "One point seven billion dollars liquidated in a day, mostly longs.",
+      "cap": "$1.7B liquidated in a day, mostly longs.",
+      "k": "LIQUIDATED · 24H",
+      "v": "$1.71B",
+      "items": [
+        {
+          "label": "LONGS · $1.37B",
+          "pct": 80,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · $338M",
+          "pct": 20,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass data via PANews, Bloomingbit"
+    },
+    {
+      "type": "cards",
+      "say": "Ether near eighteen hundred, down five percent. Solana around seventy dollars, down six percent.",
+      "cap": "ETH ~$1,800, down 5%. SOL ~$70, down 6%.",
+      "k": "MAJORS · 24H · NOV 15",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,803",
+          "n": "−5.3% 24h",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$70",
+          "n": "−6.2% 24h",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs: seven straight outflow days, one point nine one billion dollars out.",
+      "cap": "BTC ETFs: 7 straight outflow days, $1.91B out.",
+      "k": "SPOT BTC ETF FLOWS · SOSOVALUE",
+      "items": [
+        {
+          "k": "FRI · NOV 13",
+          "v": "−$185M",
+          "n": "IBIT −$143.5M",
+          "color": "red"
+        },
+        {
+          "k": "7-DAY STREAK",
+          "v": "−$1.91B",
+          "n": "since Nov 5",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: traders price an eighty-eight point five percent chance of a December Fed hike.",
+      "cap": "The driver: traders price an 88.5% chance of a December Fed hike.",
+      "k": "THE DRIVER",
+      "text": "Fed hike bets drive the sell-off",
+      "items": [
+        {
+          "k": "DEC HIKE ODDS",
+          "v": "88.5%",
+          "n": "CME FedWatch",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "This week: retail sales and Nvidia earnings Tuesday, Fed minutes Wednesday.",
+      "cap": "This week: retail sales + Nvidia earnings Tuesday, Fed minutes Wednesday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "TUE · NOV 17",
+          "v": "RETAIL SALES + NVIDIA"
+        },
+        {
+          "k": "WED · NOV 18",
+          "v": "FOMC MINUTES"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support at sixty thousand. Resistance sixty-six to sixty-eight thousand.",
+      "cap": "Levels to watch: support $60K. Resistance $66K–$68K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$66K–$68K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$60K",
+          "color": "red"
+        },
+        {
+          "k": "YEARLY LOW",
+          "v": "$58,566",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin crashes to ~$62K, lowest since July, as $1.7B gets liquidated | Daily Brief",
+  "caption": "btc crashed to ~$62k on sunday, its lowest since early july 📉 eth ~$1,800 (-5%), sol ~$70 (-6%). $1.7b liquidated in 24h, ~80% longs. btc etfs: 7 straight outflow days, -$1.91b since nov 5. the driver: traders price an 88.5% chance of a december fed hike. this week: retail sales + nvidia tue, fed minutes wed. which level are you watching? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
