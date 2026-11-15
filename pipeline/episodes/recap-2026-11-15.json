@@ -1,0 +1,131 @@
+{
+  "id": "recap-2026-11-15",
+  "series": "WEEKLY RECAP",
+  "badge": "THIS WEEK",
+  "date": "NOV 15, 2026",
+  "src": "data as of Nov 14, ~23:03 UTC · sources: CryptoTicker (CoinGecko, CME FedWatch via bitcoin.com), FinanceFeeds & KuCoin (SoSoValue), The Block, CapitalStreetFX, StockTitan, MrNasDog · not financial advice",
+  "tape": [
+    "BTC ~$63,500 ▼~16% 7D",
+    "ETH ~$1,745 ▼9.1% 24H",
+    "DEC HIKE ODDS 88.5%",
+    "BTC ETFS −$1.07B WK",
+    "ETH ETFS −$399M WK",
+    "FOMC MINUTES WED"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR THE WEEKLY RECAP",
+  "followSay": "Follow for the weekly recap.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin dropped to sixty-three thousand five hundred, down about sixteen percent this week.",
+      "cap": "BTC dropped to $63,500, down ~16% this week.",
+      "k": "BITCOIN · SAT, NOV 14",
+      "from": 0,
+      "to": 63500,
+      "prefix": "$",
+      "color": "red",
+      "sub": "down ~16% on the week · CoinGecko"
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell nine percent in a day, to seventeen forty-five.",
+      "cap": "ETH fell 9% in a day, to $1,745.",
+      "k": "24H MOVE · NOV 14, 23:03 UTC",
+      "items": [
+        {
+          "k": "BITCOIN",
+          "v": "$63,528",
+          "n": "−6.6% 24h",
+          "color": "red"
+        },
+        {
+          "k": "ETHER",
+          "v": "$1,745",
+          "n": "−9.1% 24h",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The big story: traders price an eighty-eight point five percent chance of a December Fed hike.",
+      "cap": "The big story: traders price an 88.5% chance of a December Fed hike.",
+      "k": "THE WEEK'S BIGGEST STORY",
+      "text": "Markets price a December Fed hike",
+      "items": [
+        {
+          "k": "HIKE ODDS",
+          "v": "88.5%",
+          "n": "CME FedWatch",
+          "color": "amber"
+        },
+        {
+          "k": "LIQUIDATED 24H",
+          "v": "~$1B",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost one point zero seven billion. Ether ETFs lost three hundred ninety-nine million.",
+      "cap": "BTC ETFs lost $1.07B. ETH ETFs lost $399M.",
+      "k": "SPOT ETF FLOWS · WEEK TO NOV 13",
+      "items": [
+        {
+          "k": "BITCOIN ETFS",
+          "v": "−$1.07B",
+          "n": "−$2.35B in 2 weeks",
+          "color": "red"
+        },
+        {
+          "k": "ETHER ETFS",
+          "v": "−$399M",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Strategy bought one thousand thirty-six Bitcoin, holding over eight hundred fifty thousand.",
+      "cap": "Strategy bought 1,036 BTC, holding 850,364 BTC.",
+      "k": "INSTITUTIONS",
+      "text": "Strategy buys 1,036 BTC",
+      "items": [
+        {
+          "k": "SPENT",
+          "v": "$81.9M",
+          "color": "teal"
+        },
+        {
+          "k": "TOTAL HOLDINGS",
+          "v": "850,364 BTC",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next week: Nvidia and retail sales Tuesday, Fed minutes Wednesday, a LayerZero unlock Friday.",
+      "cap": "Next week: Nvidia + retail sales Tue, Fed minutes Wed, a LayerZero unlock Fri.",
+      "k": "NEXT WEEK",
+      "items": [
+        {
+          "k": "TUE · NOV 17",
+          "v": "RETAIL SALES · NVDA"
+        },
+        {
+          "k": "WED · NOV 18",
+          "v": "FOMC MINUTES"
+        },
+        {
+          "k": "FRI · NOV 20",
+          "v": "ZRO UNLOCK ~$33M"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin drops to ~$63,500, down ~16% on the week as Fed hike bets jump | Weekly Recap",
+  "caption": "the week in crypto 🗓️ btc dropped to ~$63,500, down ~16% on the week. eth fell 9% in a day to ~$1,745. traders now see an 88.5% chance of a december fed hike, ~$1b liquidated in a day. btc etfs -$1.07b (2nd straight $1b+ outflow week), eth etfs -$399m. strategy added 1,036 btc, now 850,364. next week: retail sales + nvidia tue, fed minutes wed, layerzero unlock fri. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #weeklyrecap"
+}
