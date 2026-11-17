@@ -1,0 +1,118 @@
+{
+  "id": "insight-2026-11-17",
+  "series": "INSIGHT",
+  "badge": "DEAL FLOW",
+  "badgeColor": "purple",
+  "date": "NOV 17, 2026",
+  "src": "data as of Nov 16, 2026 · sources: The Block, Bitcoin Magazine, Cointelegraph, Unchained · not financial advice",
+  "tape": [
+    "MSTR +485 BTC",
+    "STRC BUYBACK $228.1M",
+    "MSTR 850,849 BTC",
+    "BMNR +7,653 ETH",
+    "LIGHTER $10.4M DRAINED",
+    "MSCI EXIT NOV 30"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Last week Strategy spent almost seven times more buying back its own preferred stock than buying bitcoin.",
+      "cap": "Last week Strategy spent almost 7x more buying back its own preferred stock than buying bitcoin.",
+      "k": "STRATEGY 8-K · NOV 9–15",
+      "to": 228.1,
+      "from": 0,
+      "prefix": "$",
+      "suffix": "M",
+      "dec": 1,
+      "color": "purple",
+      "sub": "STRC buyback vs $33.4M of bitcoin"
+    },
+    {
+      "type": "headline",
+      "say": "It still bought four hundred eighty-five bitcoin, around sixty-nine thousand dollars each, funded by selling M S T R shares.",
+      "cap": "It still bought 485 BTC, around $69K each, funded by selling MSTR shares.",
+      "k": "TREASURY · MON",
+      "text": "Strategy buys 485 BTC, funds buyback",
+      "items": [
+        {
+          "k": "BOUGHT",
+          "v": "485 BTC",
+          "color": "teal"
+        },
+        {
+          "k": "NOW HOLDS",
+          "v": "850,849 BTC",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "say": "Michael Saylor's teaser on X: this dip could use a little orange.",
+      "cap": "Michael Saylor's teaser on X: \"This dip could use a little orange.\"",
+      "k": "STRATEGY · WEEKEND",
+      "text": "This dip could use a little orange.",
+      "who": "Michael Saylor, Strategy"
+    },
+    {
+      "type": "headline",
+      "say": "Tom Lee's Bitmine added seven thousand six hundred fifty-three ether, now nearly five percent of all ether.",
+      "cap": "Tom Lee's Bitmine added 7,653 ETH, now nearly 5% of all ether.",
+      "k": "TREASURY · MON",
+      "text": "Bitmine adds 7,653 ETH",
+      "items": [
+        {
+          "k": "NOW HOLDS",
+          "v": "6,077,745 ETH",
+          "color": "purple"
+        },
+        {
+          "k": "OF SUPPLY",
+          "v": "4.97%",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Perp exchange Lighter paused withdrawals Monday after a leaked A P I key let about ten point four million dollars out.",
+      "cap": "Perp exchange Lighter paused withdrawals Monday after a leaked API key let ~$10.4M out.",
+      "k": "EXCHANGES · MON",
+      "text": "Lighter pauses withdrawals after drain",
+      "items": [
+        {
+          "k": "DRAINED",
+          "v": "~$10.4M USDC",
+          "color": "red"
+        },
+        {
+          "k": "CAUSE",
+          "v": "LEAKED API KEY",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: the big treasury buyers are buying smaller, and an A P I key that can withdraw is a real risk.",
+      "cap": "Why it matters: the big treasury buyers are buying smaller, and an API key that can withdraw is a real risk.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {
+          "k": "WEEKLY · MON",
+          "v": "MSTR & BMNR BUYS"
+        },
+        {
+          "k": "MON · NOV 30",
+          "v": "MSCI DROPS MSTR"
+        }
+      ]
+    }
+  ],
+  "title": "Strategy's $228M buyback beat its bitcoin buy, Bitmine adds ETH, Lighter drained",
+  "caption": "deal flow 🏦 strategy bought 485 btc (~$33.4m) last week but spent $228.1m buying back strc preferred shares, now holds 850,849 btc. bitmine added 7,653 eth to 6.08m eth, ~4.97% of supply. perp dex lighter paused withdrawals after ~$10.4m was drained via one trader's leaked api key. would you give an api key withdrawal rights? 👇 not financial advice.\n\n#crypto #bitcoin #mstr #ethereum #cryptonews #trading"
+}
