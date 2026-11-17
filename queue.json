@@ -269,8 +269,10 @@
       "file": "videos/brief-2026-11-17.mp4",
       "title": "Bitcoin back near $65K after $2B weekend flush; Nvidia + Fed minutes ahead | Daily Brief",
       "caption": "btc back near $65k after a weekend flush to $62k 📉 $2.02b liquidated in the flush, $1.68b longs. eth ~$1,818, sol ~$71. etfs: btc funds -$1.07b last week, eth funds -$399m. the driver: 10-year yield above 5% feeding december fed hike bets. today: retail sales + nvidia earnings after the close. fed minutes wed. which level are you watching? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6afb9944df36f4d825578be8",
+      "dueAt": "2026-11-17T08:30:00+07:00"
     }
   ]
 }
