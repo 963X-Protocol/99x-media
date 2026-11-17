@@ -1,0 +1,146 @@
+{
+  "id": "brief-2026-11-18",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 18, 2026",
+  "src": "data as of Nov 17 evening ET · sources: Motley Fool, PANews & TechFlow (CoinGlass), Blockonomi & CoinGabbar (SoSoValue/Farside), NVIDIA (SEC 8-K), Crypto.com, Cryptonomist, The Daily Coins · not financial advice",
+  "tape": [
+    "BTC ~$63,990 ▼1.3%",
+    "ETH ~$1,797 ▼1.2%",
+    "SOL ~$73.04 ▲2.2%",
+    "24H LIQ $194M",
+    "NVDA REV $115.8B",
+    "FEAR & GREED 12"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Nvidia posted one hundred fifteen point eight billion in revenue. Bitcoin still slipped to sixty-four thousand.",
+      "cap": "Nvidia posted $115.8B in revenue. Bitcoin still slipped to $64K.",
+      "k": "BITCOIN · NOV 17 EVENING ET",
+      "from": 64838,
+      "to": 63990,
+      "prefix": "$",
+      "color": "red",
+      "sub": "−1.3% 24h · weekend low ~$62K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether slipped below eighteen hundred. Solana rose two percent to seventy-three.",
+      "cap": "ETH slipped below $1,800. SOL rose 2% to $73.",
+      "k": "MAJORS · 24H · NOV 17",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,797",
+          "n": "−1.2% 24h",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$73.04",
+          "n": "+2.2% 24h",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "One hundred ninety-four million liquidated in twenty-four hours, both sides hit.",
+      "cap": "$194M liquidated in 24h, both sides hit.",
+      "k": "LIQUIDATED · 24H · NOV 17",
+      "v": "$194M",
+      "items": [
+        {
+          "label": "LONGS · $111M",
+          "pct": 57,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · $82.8M",
+          "pct": 43,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass via PANews · BTC $52.9M · ETH $35.9M"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T F's took in eight million Monday, ending a seven-day outflow run. Ether funds lost eight million.",
+      "cap": "BTC ETFs took in $8M Monday, ending a 7-day outflow run. ETH funds lost $8M.",
+      "k": "SPOT ETF FLOWS · MON NOV 16",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "+$7.99M",
+          "n": "IBIT +$76.5M",
+          "color": "green"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$8.31M",
+          "n": "net outflow",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: Nvidia beat and guided one hundred thirty billion, but markets price a December Fed hike.",
+      "cap": "The driver: Nvidia beat and guided $130B, but markets price a December Fed hike.",
+      "k": "THE DRIVER",
+      "text": "Nvidia beats, but Fed hike bets still weigh",
+      "items": [
+        {
+          "k": "NVDA Q4 GUIDE",
+          "v": "$130B ±3%",
+          "n": "Q3 rev +103% YoY",
+          "color": "green"
+        },
+        {
+          "k": "DEC HIKE ODDS",
+          "v": "~91%",
+          "n": "CME FedWatch",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today: Fed minutes. Thursday: jobless claims and the Philly Fed.",
+      "cap": "Today: Fed minutes. Thursday: jobless claims and the Philly Fed.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "WED · NOV 18",
+          "v": "FOMC MINUTES · 2PM ET"
+        },
+        {
+          "k": "THU · NOV 19",
+          "v": "JOBLESS + PHILLY FED"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support sixty-two thousand. Resistance sixty-eight thousand.",
+      "cap": "Levels to watch: support $62K. Resistance $68K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$68K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$62K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Nvidia beats with $115.8B, Bitcoin slips to $64K; Fed minutes today | Daily Brief",
+  "caption": "nvidia posted $115.8b in revenue and guided $130b, but btc still slipped to ~$64k 📉 eth slipped below $1,800, sol +2% to $73. $194m liquidated in 24h, both sides hit. btc etfs +$7.99m monday, ending a 7-day outflow run; eth funds -$8.31m. the driver: ~91% odds of a december fed hike. today: fomc minutes 2pm et. levels to watch: $62k support, $68k resistance. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
