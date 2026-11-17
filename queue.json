@@ -279,8 +279,10 @@
       "file": "videos/insight-2026-11-17.mp4",
       "title": "Strategy's $228M buyback beat its bitcoin buy, Bitmine adds ETH, Lighter drained",
       "caption": "deal flow 🏦 strategy bought 485 btc (~$33.4m) last week but spent $228.1m buying back strc preferred shares, now holds 850,849 btc. bitmine added 7,653 eth to 6.08m eth, ~4.97% of supply. perp dex lighter paused withdrawals after ~$10.4m was drained via one trader's leaked api key. would you give an api key withdrawal rights? 👇 not financial advice.\n\n#crypto #bitcoin #mstr #ethereum #cryptonews #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6afc161fdfcbde96ef70952e",
+      "dueAt": "2026-11-17T20:00:00+07:00"
     }
   ]
 }
