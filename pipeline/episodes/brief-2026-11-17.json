@@ -1,0 +1,146 @@
+{
+  "id": "brief-2026-11-17",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 17, 2026",
+  "src": "data as of Nov 16 evening ET · sources: Motley Fool/Yahoo (FMP), Unchained, Capital Street FX & KuCoin (CoinGlass), PANews, Bloomingbit & KuCoin (SoSoValue), Cryptonomist, CoinCentral · not financial advice",
+  "tape": [
+    "BTC ~$64,950 ▼0.6%",
+    "ETH ~$1,818 ▼0.9%",
+    "SOL ~$71.40 ▼1.8%",
+    "WKND LIQ $2.02B",
+    "BTC ETFS −$1.07B WK",
+    "FEAR & GREED 10"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin is back near sixty-five thousand after a weekend flush to sixty-two thousand.",
+      "cap": "BTC is back near $65K after a weekend flush to $62K.",
+      "k": "BITCOIN · NOV 16",
+      "from": 62006,
+      "to": 64954,
+      "prefix": "$",
+      "color": "red",
+      "sub": "weekend low $62,006 · −13.2% 7D"
+    },
+    {
+      "type": "bars",
+      "say": "The weekend flush liquidated two point oh two billion dollars, one point six eight billion of it longs.",
+      "cap": "The weekend flush liquidated $2.02B, $1.68B of it longs.",
+      "k": "LIQUIDATED · WEEKEND FLUSH · 24H",
+      "v": "$2.02B",
+      "items": [
+        {
+          "label": "LONGS · $1.68B",
+          "pct": 83,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · ~$0.34B",
+          "pct": 17,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass via Capital Street FX · Mon 24h: $283M"
+    },
+    {
+      "type": "cards",
+      "say": "Ether near eighteen hundred, Solana near seventy-one dollars.",
+      "cap": "ETH ~$1,818, SOL ~$71.",
+      "k": "MAJORS · 24H · NOV 16",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,818",
+          "n": "−0.9% 24h",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$71.40",
+          "n": "−1.8% 24h",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T F's lost one point oh seven billion last week. Ether funds, three hundred ninety-nine million.",
+      "cap": "BTC ETFs lost $1.07B last week. ETH funds, $399M.",
+      "k": "SPOT ETF FLOWS · NOV 9–13 · SOSOVALUE",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "−$1.07B",
+          "n": "IBIT −$909M",
+          "color": "red"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$399M",
+          "n": "7th weekly outflow",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: the ten-year Treasury yield above five percent, feeding December Fed hike bets.",
+      "cap": "The driver: the 10-year yield above 5%, feeding December Fed hike bets.",
+      "k": "THE DRIVER",
+      "text": "Yields above 5% fuel Fed hike bets",
+      "items": [
+        {
+          "k": "US 10Y YIELD",
+          "v": "5.15%",
+          "n": "Friday close",
+          "color": "amber"
+        },
+        {
+          "k": "FEAR & GREED",
+          "v": "10",
+          "n": "extreme fear",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today: retail sales, then Nvidia earnings after the close. Fed minutes Wednesday.",
+      "cap": "Today: retail sales, then Nvidia earnings after the close. Fed minutes Wednesday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "TUE · NOV 17",
+          "v": "RETAIL SALES + NVIDIA"
+        },
+        {
+          "k": "WED · NOV 18",
+          "v": "FOMC MINUTES"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support sixty to sixty-two thousand. Resistance sixty-six to sixty-eight thousand.",
+      "cap": "Levels to watch: support $60K–$62K. Resistance $66K–$68K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$66K–$68K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$60K–$62K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin back near $65K after $2B weekend flush; Nvidia + Fed minutes ahead | Daily Brief",
+  "caption": "btc back near $65k after a weekend flush to $62k 📉 $2.02b liquidated in the flush, $1.68b longs. eth ~$1,818, sol ~$71. etfs: btc funds -$1.07b last week, eth funds -$399m. the driver: 10-year yield above 5% feeding december fed hike bets. today: retail sales + nvidia earnings after the close. fed minutes wed. which level are you watching? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
