@@ -25,8 +25,8 @@ from promomusic import Song, add, B        # noqa: E402
 FPS, LEAD, TAIL = 30, 0.15, 1.6
 TTS_SR = 24000
 CTA = [
-    ("Markets this fast? Trade with AI agents on ninety-nine X.", "Markets this fast? Trade with AI agents on 99X."),
-    ("Your rules. Your limits. And keys that can never withdraw.", "Your rules. Your limits. Keys that can never withdraw."),
+    ("Trade it on the 99X Terminal.", "Trade it on the 99X Terminal."),
+    ("At 99x dot exchange slash app slash terminal.", "99x.exchange/app/terminal"),
 ]
 
 

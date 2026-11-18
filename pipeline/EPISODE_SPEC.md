@@ -24,7 +24,7 @@ Example: `episodes/example-brief.json`.
 | `title` | yes | TikTok title (≤ 90 chars) |
 | `caption` | yes | TikTok caption, lowercase style, ending with 4–6 hashtags |
 
-The closing 99X pitch (agent order passes, withdrawal denied) and the end card are added automatically. Do not add them as beats.
+The closing Terminal CTA ("Trade it on 99X Terminal — 99x.exchange/app/terminal") and the end card are added automatically. Do not add them as beats. The default close has no trade examples, prices, or product claims.
 
 ## Beat
 

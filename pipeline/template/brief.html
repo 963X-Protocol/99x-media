@@ -35,7 +35,8 @@ body { background: #07070A; }
 .end img { height: 46px; }
 .end .t { font-size: 40px; font-weight: 800; letter-spacing: -0.03em; margin-top: 24px; line-height: 1.1; }
 .end .t span { color: #00E0C6; }
-.end .url { font-family: 'Geist Mono', monospace; font-size: 18px; border: 1px solid #00E0C6; border-radius: 9px; padding: 8px 20px; margin-top: 24px; }
+.end .url { font-family: 'Geist Mono', monospace; font-size: 16px; border: 1px solid #00E0C6; border-radius: 9px; padding: 8px 16px; margin-top: 24px; }
+.cta-url { font-family: 'Geist Mono', monospace; font-size: 20px; border: 1px solid #00E0C6; border-radius: 9px; padding: 16px 18px; text-align: center; color: #E5FFFB; background: #0B1716; margin-top: 8px; letter-spacing: -0.02em; }
 .end .f { font-family: 'Geist Mono', monospace; font-size: 12px; letter-spacing: 0.22em; color: #9CA3AF; margin-top: 28px; }
 .end .fine { position: absolute; left: 28px; right: 28px; bottom: 200px; font-size: 10px; color: #6B7280; }
 </style></head>
@@ -49,8 +50,8 @@ body { background: #07070A; }
 <div class="tape" id="tapeW"><div class="tin" id="tape"></div></div>
 <div class="end" id="end">
   <img src="logo.png" alt="99X">
-  <div class="t">Trade with AI.<br><span>Stay in control.</span></div>
-  <div class="url">99x.exchange</div>
+  <div class="t">Trade it on<br><span>99X Terminal</span></div>
+  <div class="url">99x.exchange/app/terminal</div>
   <div class="f" id="endf"></div>
   <div class="fine">not financial advice · leverage trading involves substantial risk</div>
 </div>
@@ -120,16 +121,23 @@ function build() {
   });
   // closing pitch: 2 voice chunks after the beats, then the follow line
   const p = el('div', 'blk'); p.dataset.in = 'c' + nb; p.dataset.a = 'up'; p.dataset.out = 'c' + (nb + 2) + '-0.05';
-  p.append(el('div', 'sub', '', 'font-size:30px; margin:0 0 14px'));
-  const PT = window.EP.pitch;  // optional: replaces the default AI-agent pitch visuals
-  p.lastChild.innerHTML = PT ? PT.head : 'Trade with <span style="color:#00E0C6">AI agents</span> on 99X.';
-  const card = c => '<div class="who">' + c.who + '</div>' + c.line + '<br><span class="' + (c.no ? 'no' : 'ok') + '">' + c.res + '</span>';
-  const a1 = el('div', 'ag'); a1.innerHTML = PT ? card(PT.cards[0]) : '<div class="who">AGENT ▸ ORDER</div>long BTC 0.01 · max 5× · stop −3%<br><span class="ok">✓ risk check passed · filled</span>';
-  const a2 = el('div', 'ag'); a2.innerHTML = PT ? card(PT.cards[1]) : '<div class="who">AGENT ▸ WITHDRAW</div>withdraw all USDC<br><span class="no">✕ DENIED · agent keys can\'t withdraw</span>';
-  if (PT && PT.endTitle) document.querySelector('#end .t').innerHTML = PT.endTitle;
-  if (PT && PT.fine) document.querySelector('#end .fine').textContent = PT.fine;
-  const ch = el('div', 'chips'); (PT ? PT.chips : ['your rules', 'your limits', 'no withdrawal access']).forEach((s, i) => ch.append(anim(el('span', null, s), 'c' + (nb + 1) + '+' + (0.5 * i).toFixed(1), 'pop')));
-  p.append(anim(a1, 'c' + nb + '+1.0'), anim(a2, 'c' + (nb + 1) + '+1.3'), ch);
+  const PT = window.EP.pitch;  // optional: replaces the default Terminal CTA visuals
+  if (PT) {
+    p.append(el('div', 'sub', '', 'font-size:30px; margin:0 0 14px'));
+    p.lastChild.innerHTML = PT.head;
+    const card = c => '<div class="who">' + c.who + '</div>' + c.line + '<br><span class="' + (c.no ? 'no' : 'ok') + '">' + c.res + '</span>';
+    const a1 = el('div', 'ag'); a1.innerHTML = card(PT.cards[0]);
+    const a2 = el('div', 'ag'); a2.innerHTML = card(PT.cards[1]);
+    if (PT.endTitle) document.querySelector('#end .t').innerHTML = PT.endTitle;
+    if (PT.fine) document.querySelector('#end .fine').textContent = PT.fine;
+    const ch = el('div', 'chips'); (PT.chips || []).forEach((s, i) => ch.append(anim(el('span', null, s), 'c' + (nb + 1) + '+' + (0.5 * i).toFixed(1), 'pop')));
+    p.append(anim(a1, 'c' + nb + '+1.0'), anim(a2, 'c' + (nb + 1) + '+1.3'), ch);
+  } else {
+    p.append(el('div', 'sub', '', 'font-size:34px; font-weight:800; margin:0 0 18px; line-height:1.15'));
+    p.lastChild.innerHTML = 'Trade it on <span style="color:#00E0C6">99X Terminal</span>';
+    const box = el('div', 'cta-url', '99x.exchange/app/terminal');
+    p.append(anim(box, 'c' + nb + '+1.0', 'pop'));
+  }
   root.append(p);
   built = true;
 }

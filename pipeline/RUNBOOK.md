@@ -22,7 +22,7 @@ Series:
 - English voice and captions. Hook first: beat 1 must make someone stop scrolling.
 - Report, don't predict: no price targets, no "will pump", no buy/sell calls. Levels are "levels to watch".
 - Never say or imply 99X (the token) has a price or will gain value. Do not use "airdrop", "1000x", "guaranteed", "risk-free", "0 market impact".
-- Only claim 99X features that are in the automatic pitch (AI agents, your rules/limits, agent keys can't withdraw).
+- Do not invent 99X product claims. The automatic close is a Terminal CTA only (99x.exchange/app/terminal). No trade examples, no token price or sale talk, no Genesis or fee-discount claims, and never say "non-custodial".
 - Public companies, funds and their executives are fine; no private individuals.
 - Quotes must be real, short and attributed.
 - Total voice length 35–50 s.
