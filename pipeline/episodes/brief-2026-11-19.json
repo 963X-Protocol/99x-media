@@ -1,0 +1,151 @@
+{
+  "id": "brief-2026-11-19",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 19, 2026",
+  "src": "data as of Nov 18 evening ET · sources: Motley Fool (CoinGecko/FMP), PANews (CoinGlass), KuCoin & TokenPost (SoSoValue), CryptoTicker (FOMC minutes, CME FedWatch), CoinGabbar, Investing.com · not financial advice",
+  "tape": [
+    "BTC ~$62,387 ▼3.8%",
+    "ETH ~$1,753 ▼3.8%",
+    "SOL ~$72.94 ▼2.9%",
+    "24H LIQ $446M",
+    "BTC ETFS −$240M",
+    "FEAR & GREED 11"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "The Fed minutes say more hikes are likely. Bitcoin slid to sixty-two thousand four hundred.",
+      "cap": "The Fed minutes say more hikes are likely. Bitcoin slid to $62.4K.",
+      "k": "BITCOIN · NOV 18 EVENING ET",
+      "from": 64146,
+      "to": 62387,
+      "prefix": "$",
+      "color": "red",
+      "sub": "−3.8% 24h · Sunday low ~$61.9K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell almost four percent to seventeen fifty. Solana dropped three percent to seventy-three.",
+      "cap": "ETH fell almost 4% to $1,750. SOL dropped 3% to $73.",
+      "k": "MAJORS · 24H · NOV 18",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,753",
+          "n": "−3.8% 24h",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$72.94",
+          "n": "−2.9% 24h",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Four hundred forty-six million liquidated in twenty-four hours. Almost three quarters were longs.",
+      "cap": "$446M liquidated in 24h. Almost three quarters were longs.",
+      "k": "LIQUIDATED · 24H · NOV 18",
+      "v": "$446M",
+      "items": [
+        {
+          "label": "LONGS · $328M",
+          "pct": 74,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · $118M",
+          "pct": 26,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass via PANews · BTC $149M · ETH $87.9M"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T F's lost two hundred forty million Tuesday. Ether funds lost twenty-nine million.",
+      "cap": "BTC ETFs lost $240M Tuesday. ETH funds lost $29M.",
+      "k": "SPOT ETF FLOWS · TUE NOV 17",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "−$240M",
+          "n": "IBIT −$210M",
+          "color": "red"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$29.1M",
+          "n": "3rd day of outflows",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: almost all Fed officials see more hikes as likely. December hike odds: over ninety-five percent.",
+      "cap": "The driver: almost all Fed officials see more hikes as likely. December hike odds: over 95%.",
+      "k": "THE DRIVER",
+      "text": "Fed minutes: almost all officials see more hikes",
+      "items": [
+        {
+          "k": "FED RATE",
+          "v": "3.75–4.00%",
+          "n": "held 10–2 in Oct",
+          "color": "white"
+        },
+        {
+          "k": "DEC HIKE ODDS",
+          "v": ">95%",
+          "n": "CME FedWatch",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today: jobless claims and the Philly Fed, plus Fed speakers Jefferson and Barr.",
+      "cap": "Today: jobless claims and the Philly Fed, plus Fed speakers Jefferson and Barr.",
+      "k": "TODAY · THU NOV 19",
+      "items": [
+        {
+          "k": "8:30 AM ET",
+          "v": "JOBLESS + PHILLY FED"
+        },
+        {
+          "k": "THU · FED SPEAKERS",
+          "v": "JEFFERSON · BARR"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support sixty-two, then sixty thousand. Resistance sixty-five thousand.",
+      "cap": "Levels to watch: support $62K, then $60K. Resistance $65K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$65K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$62K",
+          "color": "red"
+        },
+        {
+          "k": "NEXT SUPPORT",
+          "v": "$60K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Fed minutes signal more hikes, Bitcoin slides to $62.4K; $446M liquidated | Daily Brief",
+  "caption": "fed minutes: almost all officials see further hikes as likely, and btc slid to ~$62.4k 📉 eth -3.8% to ~$1,753, sol -2.9% to ~$72.94. $446m liquidated in 24h, ~74% longs. btc etfs -$240m tuesday (ibit -$210m); eth etfs -$29m. december hike odds >95% (cme fedwatch). today: jobless claims + philly fed at 8:30 et, fed speakers jefferson and barr. levels to watch: $62k and $60k support, $65k resistance. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
