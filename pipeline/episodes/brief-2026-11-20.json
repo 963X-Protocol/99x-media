@@ -1,0 +1,157 @@
+{
+  "id": "brief-2026-11-20",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 20, 2026",
+  "src": "data as of Nov 19, ~23:15 UTC · sources: investingLive, CoinDesk, PANews (CoinGlass), TokenPost & KuCoin (SoSoValue), thedailycoins, Cryptonomist, Ted Pillows, LiteFinance, Admirals · not financial advice",
+  "tape": [
+    "BTC ~$61.8K ▼2%",
+    "ETH <$1,800",
+    "SOL ~$73",
+    "24H LIQ $324M",
+    "BTC ETFS −$306M",
+    "FEAR & GREED 10"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Breaking. Bitcoin sank to sixty-one thousand eight hundred, its lowest since early July.",
+      "cap": "BREAKING: Bitcoin sank to $61.8K, its lowest since early July.",
+      "k": "BITCOIN · NOV 19 · US SESSION",
+      "from": 63900,
+      "to": 61800,
+      "prefix": "$",
+      "color": "red",
+      "sub": "~$63.9K at the US open → ~$61.8K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell below eighteen hundred. Solana sits near seventy-three. Fear and greed: ten.",
+      "cap": "ETH fell below $1,800. SOL sits near $73. Fear & Greed: 10.",
+      "k": "MAJORS · NOV 19",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "<$1,800",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$73",
+          "color": "white"
+        },
+        {
+          "k": "FEAR & GREED",
+          "v": "10 · EXTREME",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Three hundred twenty-four million liquidated in twenty-four hours. Two thirds were longs.",
+      "cap": "$324M liquidated in 24h. Two thirds were longs.",
+      "k": "LIQUIDATED · 24H · NOV 19",
+      "v": "$324M",
+      "items": [
+        {
+          "label": "LONGS · $215M",
+          "pct": 66,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · $109M",
+          "pct": 34,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass via PANews · BTC $143M · ETH $57.5M"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T Fs lost three hundred six million Wednesday. Ether funds lost almost forty million.",
+      "cap": "BTC ETFs lost $306M Wednesday. ETH funds lost almost $40M.",
+      "k": "SPOT ETF FLOWS · WED NOV 18",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "−$306.4M",
+          "n": "2nd straight day",
+          "color": "red"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$39.8M",
+          "n": "3rd straight day",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: Fed hike talk. Anthropic's I P O popped, but the Dow shed over a thousand points.",
+      "cap": "The driver: Fed hike talk. Anthropic's IPO popped, but the Dow shed over 1,000 points.",
+      "k": "THE DRIVER",
+      "text": "Anthropic pops, Dow sheds 1,000+ points",
+      "items": [
+        {
+          "k": "ANTHROPIC OPEN",
+          "v": "$111.50",
+          "n": "IPO price $83",
+          "color": "teal"
+        },
+        {
+          "k": "VIX",
+          "v": ">28",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next week: P C E inflation and G D P on Wednesday. U S markets close Thursday for Thanksgiving.",
+      "cap": "Next week: PCE inflation and GDP on Wednesday. US markets close Thursday for Thanksgiving.",
+      "k": "NEXT WEEK",
+      "items": [
+        {
+          "k": "WED · NOV 25",
+          "v": "PCE + GDP"
+        },
+        {
+          "k": "THU · NOV 26",
+          "v": "US MARKETS CLOSED"
+        },
+        {
+          "k": "WED · DEC 9",
+          "v": "FED DECISION"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: support sixty thousand. Resistance sixty-five thousand.",
+      "cap": "Levels to watch: support $60K. Resistance $65K.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$65K",
+          "color": "green"
+        },
+        {
+          "k": "BROKEN FLOOR",
+          "v": "$62K",
+          "color": "amber"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$60K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin hits lowest since July at $61.8K as the Dow sheds 1,000+ | Daily Brief",
+  "caption": "bitcoin sank to ~$61.8k, its lowest since early july 📉 anthropic's ipo popped (opened $111.50 vs $83), but fed hike talk and a wall street rout won. eth below $1,800, sol near $73, fear & greed 10. $324m liquidated in 24h, two thirds longs. btc etfs -$306m wednesday, eth etfs -$39.8m (3rd straight day). next week: pce + gdp wed, us markets closed thu. levels to watch: $60k support, $65k resistance. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
