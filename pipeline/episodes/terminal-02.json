@@ -1,0 +1,152 @@
+{
+  "id": "terminal-02",
+  "series": "TERMINAL",
+  "badge": "FEATURE",
+  "badgeColor": "teal",
+  "date": "NOV 19, 2026",
+  "src": "source: live 99X Terminal page (99x.exchange/app/terminal), viewed Nov 19, 2026 \u00b7 https://99x.exchange/app/terminal?utm_source=x&utm_medium=video&utm_campaign=core5_terminal&utm_content=terminal-02 \u00b7 not financial advice",
+  "tape": [
+    "99X TERMINAL \u00b7 BETA",
+    "RH \u00b7 ETH \u00b7 BASE",
+    "HYPE \u00b7 ARC",
+    "MARKET + LIMIT",
+    "TP / SL EXITS",
+    "PRICE ALERTS"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "k": "99X TERMINAL \u00b7 BETA",
+      "text": "TERMINAL",
+      "color": "teal",
+      "sub": "RH \u00b7 ETH \u00b7 BASE \u00b7 HYPE \u00b7 ARC",
+      "say": "The ninety-nine X Terminal, now in beta, puts Robinhood Chain, Ethereum, Base, Hype and Arc on one markets screen.",
+      "cap": "The 99X Terminal, now in beta, puts Robinhood Chain, Ethereum, Base, HYPE and Arc on one markets screen."
+    },
+    {
+      "type": "list",
+      "k": "FIND PAIRS",
+      "items": [
+        {
+          "k": "LISTS",
+          "v": "TRENDING \u00b7 NEW \u00b7 GAINERS"
+        },
+        {
+          "k": "TABS",
+          "v": "PULSE \u00b7 LAUNCH \u00b7 STOCKS"
+        },
+        {
+          "k": "FILTERS",
+          "v": "LIQ \u00b7 VOL \u00b7 AGE"
+        }
+      ],
+      "say": "Scan trending, new and top-gainer lists, plus pulse, launch and stocks tabs, filtered by liquidity, volume and pair age.",
+      "cap": "Scan trending, new and top-gainer lists, plus Pulse, Launch and Stocks tabs, filtered by liquidity, volume and pair age."
+    },
+    {
+      "type": "cards",
+      "k": "PAIR CARD",
+      "items": [
+        {
+          "k": "LIQUIDITY",
+          "v": "PER PAIR",
+          "color": "teal"
+        },
+        {
+          "k": "24H VOLUME",
+          "v": "PER PAIR",
+          "color": "teal"
+        },
+        {
+          "k": "HOLDERS",
+          "v": "PER TOKEN",
+          "color": "teal"
+        }
+      ],
+      "say": "Every pair card shows liquidity, twenty-four hour volume, token age and holder count.",
+      "cap": "Every pair card shows liquidity, 24h volume, token age and holder count."
+    },
+    {
+      "type": "headline",
+      "k": "CHART + TAPE",
+      "text": "Live trade tape beside every chart",
+      "items": [
+        {
+          "k": "CHART",
+          "v": "1H \u00b7 6H \u00b7 24H",
+          "color": "white"
+        },
+        {
+          "k": "LIVE TAPE",
+          "v": "BUYS + SELLS",
+          "color": "teal"
+        }
+      ],
+      "say": "A live trade tape streams buys and sells next to one-hour, six-hour and twenty-four-hour charts.",
+      "cap": "A live trade tape streams buys and sells next to 1H, 6H and 24H charts."
+    },
+    {
+      "type": "cards",
+      "k": "ORDER TICKET",
+      "items": [
+        {
+          "k": "ORDERS",
+          "v": "MARKET + LIMIT",
+          "color": "teal"
+        },
+        {
+          "k": "EXITS",
+          "v": "TP + SL",
+          "color": "amber"
+        },
+        {
+          "k": "ALERTS",
+          "v": "ABOVE / BELOW",
+          "color": "purple"
+        }
+      ],
+      "say": "The ticket offers market and limit orders, take-profit and stop-loss exits, and price alerts above or below.",
+      "cap": "The ticket offers market and limit orders, take-profit and stop-loss exits, and price alerts above or below."
+    },
+    {
+      "type": "cards",
+      "k": "BEFORE YOU TRADE",
+      "items": [
+        {
+          "k": "SAFETY CHECK",
+          "v": "FEE + IMPACT",
+          "color": "amber"
+        },
+        {
+          "k": "WATCHLIST",
+          "v": "SAVED PAIRS",
+          "color": "teal"
+        }
+      ],
+      "say": "A safety check estimates fees and price impact before each trade, and a watchlist keeps the pairs you follow.",
+      "cap": "A safety check estimates fees and price impact before each trade, and a watchlist keeps the pairs you follow."
+    },
+    {
+      "type": "list",
+      "k": "ALSO ON THE SCREEN",
+      "items": [
+        {
+          "k": "TERMINAL PNL",
+          "v": "REALIZED + UPNL"
+        },
+        {
+          "k": "BRIDGE",
+          "v": "DEPOSIT IN-APP"
+        }
+      ],
+      "say": "Terminal P and L tracks realized and unrealized results, and a built-in bridge brings cross-chain deposits into ninety-nine X.",
+      "cap": "Terminal PnL tracks realized and unrealized results, and a built-in bridge brings cross-chain deposits into 99X."
+    }
+  ],
+  "title": "One screen, five chains: inside the 99X Terminal (beta) | Terminal Feature",
+  "caption": "one markets screen for robinhood chain, ethereum, base, hype and arc \ud83d\udda5\ufe0f trending, new and gainers lists, pair cards with liquidity, 24h volume and holders, a live trade tape, market + limit orders, tp/sl exits, price alerts, a safety check and a watchlist. see it live: https://99x.exchange/app/terminal?utm_source=x&utm_medium=video&utm_campaign=core5_terminal&utm_content=terminal-02 not financial advice.\n\n#crypto #trading #defi #onchain #99x",
+  "follow": "FOLLOW FOR TERMINAL TIPS",
+  "followSay": "Follow for more Terminal tips.",
+  "followCap": "Follow for more Terminal tips."
+}
