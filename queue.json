@@ -309,8 +309,10 @@
       "file": "videos/insight-2026-11-19.mp4",
       "title": "Variational valued at $1.5B, Kraken's parent buys Tribe Capital, Ark buys crypto stocks",
       "caption": "deal flow 🏦 onchain derivatives platform variational raised $110m at a $1.5b valuation, led by bain capital crypto. its omni platform has done $475b+ in volume, over half from traditional markets. kraken parent payward agreed to buy tribe capital ($2.7b aum), closing expected q1 2027. ark bought block, circle and coinbase shares while selling ~$85m of nvidia. are stocks and crypto merging into one venue? 👇 not financial advice.\n\n#crypto #kraken #defi #perps #cryptonews #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6afeb9094ad8a97b3a2c06e4",
+      "dueAt": "2026-11-19T20:00:00+07:00"
     }
   ]
 }
