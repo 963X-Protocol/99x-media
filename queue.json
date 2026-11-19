@@ -319,8 +319,10 @@
       "file": "videos/brief-2026-11-20.mp4",
       "title": "Bitcoin hits lowest since July at $61.8K as the Dow sheds 1,000+ | Daily Brief",
       "caption": "bitcoin sank to ~$61.8k, its lowest since early july 📉 anthropic's ipo popped (opened $111.50 vs $83), but fed hike talk and a wall street rout won. eth below $1,800, sol near $73, fear & greed 10. $324m liquidated in 24h, two thirds longs. btc etfs -$306m wednesday, eth etfs -$39.8m (3rd straight day). next week: pce + gdp wed, us markets closed thu. levels to watch: $60k support, $65k resistance. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6aff8d78d5f8acdd0d57a304",
+      "dueAt": "2026-11-20T08:30:00+07:00"
     }
   ]
 }
