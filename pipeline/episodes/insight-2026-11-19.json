@@ -1,0 +1,129 @@
+{
+  "id": "insight-2026-11-19",
+  "series": "INSIGHT",
+  "badge": "DEAL FLOW",
+  "badgeColor": "purple",
+  "date": "NOV 19, 2026",
+  "src": "data as of Nov 19, 2026 · sources: The Block, Payward (Business Wire), crypto.news · not financial advice",
+  "tape": [
+    "VARIATIONAL $110M",
+    "VALUATION $1.5B",
+    "OMNI $475B+ VOL",
+    "PAYWARD ← TRIBE",
+    "TRIBE $2.7B AUM",
+    "ARK +COIN +CRCL"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Investors just valued an onchain derivatives platform at one point five billion dollars.",
+      "cap": "Investors just valued an onchain derivatives platform at $1.5 billion.",
+      "k": "VARIATIONAL · SERIES B",
+      "to": 1.5,
+      "from": 0,
+      "prefix": "$",
+      "suffix": "B",
+      "dec": 1,
+      "color": "purple",
+      "sub": "valuation in a $110M round"
+    },
+    {
+      "type": "headline",
+      "say": "Variational raised one hundred ten million dollars, led by Bain Capital Crypto, with Dragonfly joining.",
+      "cap": "Variational raised $110M, led by Bain Capital Crypto, with Dragonfly joining.",
+      "k": "DEALS · WED",
+      "text": "Variational raises $110M Series B",
+      "items": [
+        {
+          "k": "LEAD",
+          "v": "BAIN CAPITAL",
+          "color": "teal"
+        },
+        {
+          "k": "VALUATION",
+          "v": "$1.5B",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Its Omni platform has done over four hundred seventy-five billion in volume, over half from traditional markets.",
+      "cap": "Its Omni platform has done $475B+ in volume, over half from traditional markets.",
+      "k": "WHY IT MATTERS",
+      "text": "Omni: TradFi now over half of volume",
+      "items": [
+        {
+          "k": "VOLUME",
+          "v": "$475B+",
+          "color": "teal"
+        },
+        {
+          "k": "OPEN INTEREST",
+          "v": "$1.3B+",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Kraken's parent Payward is buying Tribe Capital, with two point seven billion dollars under management.",
+      "cap": "Kraken's parent Payward is buying Tribe Capital, with $2.7B under management.",
+      "k": "EXCHANGES · WED",
+      "text": "Kraken parent Payward to buy Tribe Capital",
+      "items": [
+        {
+          "k": "TRIBE AUM",
+          "v": "$2.7B",
+          "color": "purple"
+        },
+        {
+          "k": "CLOSE",
+          "v": "Q1 2027",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "And Cathie Wood's Ark bought Block, Circle and Coinbase shares, while selling about eighty-five million of Nvidia.",
+      "cap": "And Cathie Wood's Ark bought Block, Circle and Coinbase shares, while selling ~$85M of Nvidia.",
+      "k": "FUNDS · MON",
+      "text": "Ark buys crypto stocks, trims Nvidia",
+      "items": [
+        {
+          "k": "BOUGHT BLOCK",
+          "v": "$23M",
+          "color": "teal"
+        },
+        {
+          "k": "SOLD NVDA",
+          "v": "$84.8M",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: big money is building venues that trade stocks and private markets next to crypto.",
+      "cap": "Why it matters: big money is building venues that trade stocks and private markets next to crypto.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {
+          "k": "VARIATIONAL",
+          "v": "HIGHER OI LIMITS"
+        },
+        {
+          "k": "Q1 2027",
+          "v": "TRIBE DEAL CLOSE"
+        }
+      ]
+    }
+  ],
+  "title": "Variational valued at $1.5B, Kraken's parent buys Tribe Capital, Ark buys crypto stocks",
+  "caption": "deal flow 🏦 onchain derivatives platform variational raised $110m at a $1.5b valuation, led by bain capital crypto. its omni platform has done $475b+ in volume, over half from traditional markets. kraken parent payward agreed to buy tribe capital ($2.7b aum), closing expected q1 2027. ark bought block, circle and coinbase shares while selling ~$85m of nvidia. are stocks and crypto merging into one venue? 👇 not financial advice.\n\n#crypto #kraken #defi #perps #cryptonews #trading"
+}
