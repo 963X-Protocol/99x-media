@@ -329,8 +329,10 @@
       "file": "videos/brief-2026-11-21.mp4",
       "title": "Bitcoin breaks below $60K as AI stocks crash; $1.5B liquidated | Weekend Brief",
       "caption": "bitcoin broke below $60k for the first time since july, now near $59k 📉 eth -8% to ~$1,620, sol ~$69. ~$1.5b liquidated in a day, over 90% longs. btc etfs -$582m thursday, with blackrock's ibit posting a record -$541m. the driver: an ai stock rout, the nasdaq fell 5%+ and erased its 2026 gains. next week: pce + gdp wed, us markets closed thu. levels to watch: $60k and $58k. how are you trading the weekend? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6b00ec1fd9cbb430a10bba02",
+      "dueAt": "2026-11-21T09:00:00+07:00"
     }
   ]
 }
