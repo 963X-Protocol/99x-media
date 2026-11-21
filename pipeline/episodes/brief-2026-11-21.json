@@ -1,0 +1,148 @@
+{
+  "id": "brief-2026-11-21",
+  "series": "DAILY BRIEF",
+  "badge": "WEEKEND",
+  "date": "NOV 21, 2026",
+  "src": "data as of Nov 21, ~01:00 UTC · sources: Cointelegraph, Decrypt, Bybit, OKX, SBS/Coinbase, Forbes, KuCoin & Bitcoin.com (CoinGlass), The Block & PANews (SoSoValue/Farside), investingLive, Yahoo Finance, Admirals, LiteFinance · not financial advice",
+  "tape": [
+    "BTC ~$59K ▼5%",
+    "ETH ~$1,620 ▼8%",
+    "SOL ~$69 ▼5%",
+    "24H LIQ ~$1.5B",
+    "BTC ETFS −$582M",
+    "NASDAQ ▼5%"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin broke below sixty thousand, a first since July. It now sits near fifty-nine.",
+      "cap": "Bitcoin broke below $60K, a first since July. Now near $59K.",
+      "k": "BITCOIN · NOV 20 → 21",
+      "from": 62000,
+      "to": 59000,
+      "prefix": "$",
+      "color": "red",
+      "sub": "~5% down in 24h · Friday low under $58K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether dropped eight percent to around sixteen twenty. Solana fell to about sixty-nine.",
+      "cap": "ETH dropped 8% to ~$1,620. SOL fell to ~$69.",
+      "k": "MAJORS · 24H",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,620",
+          "n": "▼ ~8% · 24h",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$69",
+          "n": "▼ ~5% · 24h",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "About one point five billion dollars liquidated in a day. Over nine in ten were longs.",
+      "cap": "~$1.5B liquidated in a day. Over 9 in 10 were longs.",
+      "k": "LIQUIDATED · 24H · NOV 20",
+      "v": "~$1.5B",
+      "items": [
+        {
+          "label": "LONGS · ~$1.4B",
+          "pct": 93,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS",
+          "pct": 7,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass via KuCoin & Bitcoin.com"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T Fs lost five hundred eighty-two million Thursday. BlackRock's I bit: a record five forty-one.",
+      "cap": "BTC ETFs lost $582M Thursday. BlackRock's IBIT: a record $541M.",
+      "k": "SPOT BTC ETF FLOWS · THU NOV 19",
+      "items": [
+        {
+          "k": "ALL BTC ETFS",
+          "v": "−$582M",
+          "n": "3rd straight day",
+          "color": "red"
+        },
+        {
+          "k": "BLACKROCK IBIT",
+          "v": "−$541M",
+          "n": "record 1-day outflow",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: an A I stock rout. The Nasdaq fell over five percent, erasing its gains for the year.",
+      "cap": "The driver: an AI stock rout. Nasdaq fell 5%+, erasing its gains for the year.",
+      "k": "THE DRIVER",
+      "text": "AI rout: Nasdaq erases its 2026 gains",
+      "items": [
+        {
+          "k": "NASDAQ · FRI",
+          "v": "▼5%+",
+          "color": "red"
+        },
+        {
+          "k": "NVIDIA · FRI",
+          "v": "▼12%+",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next week: P C E and G D P on Wednesday. U S markets close Thursday for Thanksgiving.",
+      "cap": "Next week: PCE and GDP on Wednesday. US markets close Thursday for Thanksgiving.",
+      "k": "NEXT WEEK",
+      "items": [
+        {
+          "k": "MON · NOV 23",
+          "v": "FLASH PMIs"
+        },
+        {
+          "k": "WED · NOV 25",
+          "v": "PCE + GDP"
+        },
+        {
+          "k": "THU · NOV 26",
+          "v": "US MARKETS CLOSED"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: sixty thousand, the line it lost. Fifty-eight thousand, near Friday's low.",
+      "cap": "Levels to watch: $60K, the line it lost. $58K, near Friday's low.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "LOST LINE",
+          "v": "$60K",
+          "color": "amber"
+        },
+        {
+          "k": "FRIDAY LOW AREA",
+          "v": "$58K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin breaks below $60K as AI stocks crash; $1.5B liquidated | Weekend Brief",
+  "caption": "bitcoin broke below $60k for the first time since july, now near $59k 📉 eth -8% to ~$1,620, sol ~$69. ~$1.5b liquidated in a day, over 90% longs. btc etfs -$582m thursday, with blackrock's ibit posting a record -$541m. the driver: an ai stock rout, the nasdaq fell 5%+ and erased its 2026 gains. next week: pce + gdp wed, us markets closed thu. levels to watch: $60k and $58k. how are you trading the weekend? not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
