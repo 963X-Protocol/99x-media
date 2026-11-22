@@ -1,0 +1,133 @@
+{
+  "id": "recap-2026-11-22",
+  "series": "WEEKLY RECAP",
+  "badge": "THIS WEEK",
+  "date": "NOV 22, 2026",
+  "src": "data as of Nov 21–22 · sources: Yahoo Finance, NordFX (CME FedWatch), crypto.news & The Block (Farside/SoSoValue), Strategy SEC 8-K, FXIFY, Benson Kong · not financial advice",
+  "tape": [
+    "BTC ~$57,900 ▼~10% 7D",
+    "ETH ~$1,560 ▼17.8% 7D",
+    "24H LIQ $2B+",
+    "BTC ETFS −$1.25B WK",
+    "ETH ETFS −$222M WK",
+    "PCE + GDP WED"
+  ],
+  "tapeColor": "teal",
+  "follow": "FOLLOW FOR THE WEEKLY RECAP",
+  "followSay": "Follow for the weekly recap.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin closed Saturday near fifty-seven thousand nine hundred, down almost ten percent on the week.",
+      "cap": "BTC closed Saturday near $57,900, down almost 10% on the week.",
+      "k": "BITCOIN · SAT, NOV 21 CLOSE",
+      "from": 64128,
+      "to": 57914,
+      "prefix": "$",
+      "color": "red",
+      "sub": "from $64,128 a week ago · Yahoo Finance"
+    },
+    {
+      "type": "cards",
+      "say": "Ether did worse: down seventeen point eight percent, to about fifteen sixty.",
+      "cap": "ETH did worse: down 17.8%, to ~$1,560.",
+      "k": "WEEKLY MOVE · SAT MORNING",
+      "items": [
+        {
+          "k": "ETHER",
+          "v": "$1,560",
+          "n": "−17.8% on the week",
+          "color": "red"
+        },
+        {
+          "k": "BTC WEEK LOW",
+          "v": "$55,632",
+          "n": "Sat, Nov 21",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The big story: Bitcoin slid to about fifty-five thousand five hundred as over two billion dollars got liquidated in a day.",
+      "cap": "The big story: BTC slid to ~$55,500 as $2B+ got liquidated in a day.",
+      "k": "THE WEEK'S BIGGEST STORY",
+      "text": "Bitcoin slides to ~$55,500",
+      "sub": "Sat, Nov 21 · per NordFX",
+      "items": [
+        {
+          "k": "LIQUIDATED 24H",
+          "v": "$2B+",
+          "color": "red"
+        },
+        {
+          "k": "DEC 9 HIKE ODDS",
+          "v": "95%+",
+          "n": "CME FedWatch",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin ETFs lost one point two five billion this week. BlackRock's IBIT had its biggest daily outflow ever.",
+      "cap": "BTC ETFs lost $1.25B this week. BlackRock's IBIT had its biggest daily outflow ever.",
+      "k": "SPOT ETF FLOWS · NOV 16–20",
+      "items": [
+        {
+          "k": "BITCOIN ETFS",
+          "v": "−$1.25B",
+          "n": "ETH ETFs −$221.7M",
+          "color": "red"
+        },
+        {
+          "k": "IBIT · THU NOV 19",
+          "v": "−$541.1M",
+          "n": "record daily outflow",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Strategy kept buying: four hundred eighty-five Bitcoin for thirty-three million, now holding eight hundred fifty thousand.",
+      "cap": "Strategy kept buying: 485 BTC for $33.4M, now holding 850,849 BTC.",
+      "k": "INSTITUTIONS · SEC 8-K, NOV 16",
+      "text": "Strategy buys 485 BTC",
+      "items": [
+        {
+          "k": "AVG PRICE",
+          "v": "$68,887",
+          "color": "teal"
+        },
+        {
+          "k": "TOTAL HOLDINGS",
+          "v": "850,849 BTC",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next week: Dell and HP report Tuesday, PCE and GDP land Wednesday, US markets shut Thursday.",
+      "cap": "Next week: Dell + HP report Tue, PCE + GDP Wed, US markets shut Thu.",
+      "k": "NEXT WEEK",
+      "items": [
+        {
+          "k": "TUE · NOV 24",
+          "v": "DELL · HP EARNINGS"
+        },
+        {
+          "k": "WED · NOV 25",
+          "v": "CORE PCE · GDP"
+        },
+        {
+          "k": "THU · NOV 26",
+          "v": "THANKSGIVING · CLOSED"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin down ~10% on the week, ETH −17.8%, $1.25B leaves BTC ETFs | Weekly Recap",
+  "caption": "the week in crypto 🗓️ btc closed saturday near $57,900, down almost 10% on the week, after touching ~$55,600. eth fell 17.8% to ~$1,560. $2b+ liquidated in a day. btc etfs -$1.25b for the week (-$3.59b in november), blackrock's ibit posted a record -$541m day. eth etfs -$222m. strategy added 485 btc, now 850,849. next week: dell + hp tue, pce + gdp wed, us markets closed thu for thanksgiving. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #weeklyrecap"
+}
