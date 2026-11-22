@@ -349,8 +349,10 @@
       "file": "videos/brief-2026-11-23.mp4",
       "title": "Bitcoin back above $60K after a two-year low; shorts take the hit | Daily Brief",
       "caption": "bitcoin bounced back above $60k (~$60.8k) after a two-year low near $55.6k 📈 eth +2% to ~$1,720, sol flat near $70, btc still -22% in november. $233m liquidated in 24h, mostly shorts. btc etfs -$1.24b last week, eth etfs -$222m, sol etfs +$4.4m. driver: ai/tech risk-off and fed hike fears. this week: pce wed, us markets closed thu, $6.6b options expiry fri. levels to watch: $61.5k, $60k, $55.6k. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6b03815bc72676f5e96d82ad",
+      "dueAt": "2026-11-23T08:30:00+07:00"
     }
   ]
 }
