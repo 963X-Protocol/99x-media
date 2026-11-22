@@ -1,0 +1,143 @@
+{
+  "id": "brief-2026-11-23",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 23, 2026",
+  "src": "data as of Nov 22, ~22:20 UTC · sources: Motley Fool, IT Times (CoinMarketCap), Bitcoin.com News, PANews (CoinGlass), Incrypted (SoSoValue), cryptoetf.today, Altcoinbuzz · not financial advice",
+  "tape": [
+    "BTC ~$60.8K ▲1.2%",
+    "ETH ~$1,720 ▲2.2%",
+    "SOL ~$70",
+    "24H LIQ $233M",
+    "BTC ETFS WK −$1.24B",
+    "BTC NOV −22%"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin is back above sixty thousand, after a two-year low near fifty-five six.",
+      "cap": "Bitcoin is back above $60K, after a two-year low near $55.6K.",
+      "k": "BITCOIN · NOV 22",
+      "from": 55640,
+      "to": 60785,
+      "prefix": "$",
+      "color": "green",
+      "sub": "2-yr low ~$55.6K → ~$60.8K · Nov −22%"
+    },
+    {
+      "type": "cards",
+      "say": "Ether rose two percent to about seventeen twenty. Solana is flat near seventy.",
+      "cap": "ETH rose 2% to ~$1,720. SOL is flat near $70.",
+      "k": "MAJORS · NOV 22",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,720",
+          "n": "▲2.2% · 24h",
+          "color": "green"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$70",
+          "n": "flat · 24h",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "The bounce flipped the pain: two hundred thirty-three million liquidated, mostly shorts.",
+      "cap": "The bounce flipped the pain: $233M liquidated, mostly shorts.",
+      "k": "LIQUIDATED · 24H · NOV 22",
+      "v": "$233M",
+      "items": [
+        {
+          "label": "SHORTS · $161M",
+          "pct": 69,
+          "color": "#14532D"
+        },
+        {
+          "label": "LONGS · $71M",
+          "pct": 31,
+          "color": "#B91C1C"
+        }
+      ],
+      "note": "CoinGlass via PANews · BTC $125M · ETH $55.5M"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T Fs lost one point two four billion last week. Ether funds, two hundred twenty-two million.",
+      "cap": "BTC ETFs lost $1.24B last week. ETH funds, $222M.",
+      "k": "SPOT ETF FLOWS · NOV 16–20",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "−$1.24B",
+          "n": "Fri −$124M",
+          "color": "red"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$222M",
+          "n": "Fri −$13M",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: an A I and tech stock rout, plus Fed hike fears.",
+      "cap": "The driver: an AI and tech stock rout, plus Fed hike fears.",
+      "k": "THE DRIVER",
+      "text": "AI stock rout drags crypto; Fed hike fears linger",
+      "sub": "Glassnode: the drop cleared the $59K–$62K long cluster",
+      "items": []
+    },
+    {
+      "type": "list",
+      "say": "This week: P C E Wednesday, U S markets shut Thursday, six point six billion in options expire Friday.",
+      "cap": "This week: PCE Wednesday, US markets shut Thursday, $6.6B in options expire Friday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "WED · NOV 25",
+          "v": "PCE INFLATION"
+        },
+        {
+          "k": "THU · NOV 26",
+          "v": "US MARKETS CLOSED"
+        },
+        {
+          "k": "FRI · NOV 27",
+          "v": "$6.6B OPTIONS EXPIRY"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: sixty-one five, sixty thousand, and the fifty-five six low.",
+      "cap": "Levels to watch: $61.5K, $60K, and the $55.6K low.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "WEEKEND HIGH",
+          "v": "$61.5K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$60K",
+          "color": "amber"
+        },
+        {
+          "k": "2-YEAR LOW",
+          "v": "$55.6K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin back above $60K after a two-year low; shorts take the hit | Daily Brief",
+  "caption": "bitcoin bounced back above $60k (~$60.8k) after a two-year low near $55.6k 📈 eth +2% to ~$1,720, sol flat near $70, btc still -22% in november. $233m liquidated in 24h, mostly shorts. btc etfs -$1.24b last week, eth etfs -$222m, sol etfs +$4.4m. driver: ai/tech risk-off and fed hike fears. this week: pce wed, us markets closed thu, $6.6b options expiry fri. levels to watch: $61.5k, $60k, $55.6k. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
