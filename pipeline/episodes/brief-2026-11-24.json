@@ -1,0 +1,136 @@
+{
+  "id": "brief-2026-11-24",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 24, 2026",
+  "src": "data as of Nov 23, ~21:15 UTC · sources: Motley Fool (FMP/CoinGecko), PANews (CoinGlass), The Block & Bitcoin.com News (SoSoValue), KuCoin daily report · not financial advice",
+  "tape": [
+    "BTC ~$61.2K ▲0.1%",
+    "ETH ~$1,719 ▼0.1%",
+    "SOL ~$72.6 ▲2.8%",
+    "24H LIQ $638M",
+    "BTC ETFS WK −$1.79B",
+    "NASDAQ ▲6.5%"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "The Nasdaq ripped six and a half percent. Bitcoin? Basically flat.",
+      "cap": "The Nasdaq ripped 6.5%. Bitcoin? Basically flat.",
+      "k": "NASDAQ · NOV 23",
+      "from": 0,
+      "to": 6.51,
+      "dec": 2,
+      "prefix": "+",
+      "suffix": "%",
+      "color": "green",
+      "sub": "Bitcoin +0.08% · ~$61.2K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether is flat at seventeen nineteen. Solana led, up almost three percent.",
+      "cap": "ETH is flat at $1,719. SOL led, up almost 3%.",
+      "k": "MAJORS · NOV 23",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,719",
+          "n": "▼0.1% · 24h",
+          "color": "white"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$72.6",
+          "n": "▲2.8% · 24h",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Six hundred thirty-eight million liquidated in a day, and eighty percent were shorts.",
+      "cap": "$638M liquidated in a day, and 80% were shorts.",
+      "k": "LIQUIDATED · 24H · NOV 23",
+      "v": "$638M",
+      "items": [
+        {
+          "label": "SHORTS · $512M",
+          "pct": 80,
+          "color": "#14532D"
+        },
+        {
+          "label": "LONGS · $126M",
+          "pct": 20,
+          "color": "#B91C1C"
+        }
+      ],
+      "note": "CoinGlass via PANews · BTC $266M · ETH $133M"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T Fs lost one point seven nine billion last week. Ether funds, three hundred fourteen million.",
+      "cap": "BTC ETFs lost $1.79B last week. ETH funds, $314M.",
+      "k": "SPOT ETF FLOWS · NOV 16–20",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "−$1.79B",
+          "n": "IBIT −$1.37B",
+          "color": "red"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$314M",
+          "n": "8th week out",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: stocks bounced, but E T F selling and extreme fear kept crypto pinned.",
+      "cap": "The driver: stocks bounced, but ETF selling and extreme fear kept crypto pinned.",
+      "k": "THE DRIVER",
+      "text": "Stocks rip, crypto lags as ETF outflows weigh",
+      "sub": "Fear & Greed Index: 11 (extreme fear)",
+      "items": []
+    },
+    {
+      "type": "list",
+      "say": "Next: Fed's Williams speaks today, then P C E and Q three G D P Wednesday.",
+      "cap": "Next: Fed's Williams speaks today, then PCE and Q3 GDP Wednesday.",
+      "k": "THIS WEEK",
+      "items": [
+        {
+          "k": "TUE · NOV 24",
+          "v": "FED'S WILLIAMS SPEAKS"
+        },
+        {
+          "k": "WED · NOV 25",
+          "v": "PCE + Q3 GDP"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: sixty-two to sixty-five thousand above, fifty-five to fifty-six below.",
+      "cap": "Levels to watch: $62K–$65K above, $55K–$56K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "RESISTANCE",
+          "v": "$62K–$65K",
+          "color": "green"
+        },
+        {
+          "k": "SUPPORT",
+          "v": "$55K–$56K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Nasdaq +6.5%, Bitcoin flat: $1.79B ETF exodus keeps crypto pinned | Daily Brief",
+  "caption": "wall street ripped (nasdaq +6.5%) but bitcoin sat it out near $61.2k 😐 eth flat at ~$1,719, sol +2.8% to ~$72.6. $638m liquidated in 24h, 80% shorts. btc etfs -$1.79b last week (ibit -$1.37b), eth etfs -$314m, sol etfs +$4.4m. fear & greed at 11. next: fed's williams today, pce + q3 gdp wed. levels to watch: $62k–$65k above, $55k–$56k below. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
