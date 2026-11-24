@@ -1,0 +1,94 @@
+{
+  "id": "brief-2026-11-25",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 25, 2026",
+  "src": "data as of Nov 24, ~21:15 UTC · sources: Motley Fool (FMP/CoinGecko), CoinDesk, PANews & KuCoin (CoinGlass), The Block (SoSoValue) · not financial advice",
+  "tape": [
+    "BTC ~$59.7K ▼2.4%",
+    "ETH ~$1,674 ▼2.1%",
+    "SOL ~$69.2 ▼3.9%",
+    "24H LIQ $472M",
+    "BTC ETFS MON −$570M",
+    "FEAR & GREED 9"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin just lost sixty thousand again, handing back the whole Nvidia rally.",
+      "cap": "Bitcoin just lost $60K again, handing back the whole Nvidia rally.",
+      "k": "BITCOIN · NOV 24",
+      "from": 64500,
+      "to": 59718,
+      "dec": 0,
+      "prefix": "$",
+      "color": "red",
+      "sub": "▼2.4% · 24h · Monday high $64.5K"
+    },
+    {
+      "type": "cards",
+      "say": "Ether slipped two percent to sixteen seventy-four. Solana fell almost four percent.",
+      "cap": "ETH slipped 2% to $1,674. SOL fell almost 4%.",
+      "k": "MAJORS · NOV 24",
+      "items": [
+        {"k": "ETHEREUM", "v": "~$1,674", "n": "▼2.1% · 24h", "color": "red"},
+        {"k": "SOLANA", "v": "~$69.2", "n": "▼3.9% · 24h", "color": "red"}
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Four hundred seventy-two million liquidated in a day, and eighty-four percent were longs.",
+      "cap": "$472M liquidated in a day, and 84% were longs.",
+      "k": "LIQUIDATED · 24H · NOV 24",
+      "v": "$472M",
+      "items": [
+        {"label": "LONGS · $395M", "pct": 84, "color": "#B91C1C"},
+        {"label": "SHORTS · $77M", "pct": 16, "color": "#14532D"}
+      ],
+      "note": "CoinGlass via PANews · BTC $177M · ETH $93M"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T Fs lost five hundred seventy million Monday. November outflows: a record four point seven billion.",
+      "cap": "BTC ETFs lost $570M Monday. November outflows: a record $4.7B.",
+      "k": "SPOT ETF FLOWS · MON NOV 23",
+      "items": [
+        {"k": "BTC ETFS", "v": "−$570M", "n": "IBIT −$509M", "color": "red"},
+        {"k": "NOVEMBER", "v": "−$4.71B", "n": "record month", "color": "red"}
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: the Nvidia bounce faded, tech sold off, the dollar firmed, and fear hit nine.",
+      "cap": "The driver: the Nvidia bounce faded, tech sold off, the dollar firmed, and fear hit 9.",
+      "k": "THE DRIVER",
+      "text": "Nvidia rally fades as tech, dollar and ETFs weigh",
+      "sub": "Fear & Greed Index: 9 (extreme fear)",
+      "items": []
+    },
+    {
+      "type": "list",
+      "say": "Next: P C E and Q three G D P today, then U S markets close for Thanksgiving.",
+      "cap": "Next: PCE and Q3 GDP today, then US markets close for Thanksgiving.",
+      "k": "THIS WEEK",
+      "items": [
+        {"k": "WED · NOV 25", "v": "PCE + Q3 GDP"},
+        {"k": "THU · NOV 26", "v": "US MARKETS CLOSED"},
+        {"k": "FRI · NOV 27", "v": "1 PM ET EARLY CLOSE"}
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: sixty-four five, Monday's high, and fifty-eight thousand, the biggest put on Deribit.",
+      "cap": "Levels to watch: $64.5K, Monday's high, and $58K, the biggest put on Deribit.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {"k": "MONDAY HIGH", "v": "$64.5K", "color": "green"},
+        {"k": "TOP DERIBIT PUT", "v": "$58K", "color": "red"}
+      ]
+    }
+  ],
+  "title": "Bitcoin loses $60K again: $472M liquidated, record $4.7B ETF exodus | Daily Brief",
+  "caption": "bitcoin gave back the whole nvidia rally and slipped under $60k (~$59.7k, -2.4%) 📉 eth -2.1% to ~$1,674, sol -3.9% to ~$69.2. $472m liquidated in 24h, 84% longs. btc etfs -$570m monday (ibit -$509m), november outflows a record $4.71b. fear & greed at 9. next: pce + q3 gdp today, us markets shut thursday for thanksgiving. levels to watch: $64.5k (monday high), $58k (top deribit put). not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
