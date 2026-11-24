@@ -1,0 +1,143 @@
+{
+  "id": "insight-2026-11-24",
+  "series": "INSIGHT",
+  "badge": "DEAL FLOW",
+  "badgeColor": "purple",
+  "date": "NOV 24, 2026",
+  "src": "data as of Nov 24, 2026 · sources: The Block, crypto.news, Mugglehead, PANews · not financial advice",
+  "tape": [
+    "OKXICE 113 ASSETS",
+    "STOCKS 24/7 ONCHAIN",
+    "MSTR +457 BTC",
+    "MSTR 851,305 BTC",
+    "STRC BUYBACK $211.8M",
+    "BITMINE +7,819 ETH"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "One hundred thirteen stocks and ETFs just went onchain, trading twenty-four seven.",
+      "cap": "113 stocks and ETFs just went onchain, trading 24/7.",
+      "k": "OKXICE · LAUNCH",
+      "to": 113,
+      "from": 0,
+      "prefix": "",
+      "suffix": "",
+      "dec": 0,
+      "color": "purple",
+      "sub": "tokenized stocks & ETFs, 24/7"
+    },
+    {
+      "type": "headline",
+      "say": "OKXICE, a joint venture of OKX and Intercontinental Exchange, opened Monday for eligible U S users.",
+      "cap": "OKXICE, a joint venture of OKX and Intercontinental Exchange, opened Monday for eligible US users.",
+      "k": "EXCHANGES · MON",
+      "text": "OKX + ICE launch tokenized stock venue",
+      "items": [
+        {
+          "k": "ASSETS",
+          "v": "113",
+          "color": "purple"
+        },
+        {
+          "k": "HOURS",
+          "v": "24/7",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "But sixty-seven companies, including Apple, Nvidia and Tesla, blocked tokenized versions of their shares.",
+      "cap": "But 67 companies, including Apple, Nvidia and Tesla, blocked tokenized versions of their shares.",
+      "k": "THE CATCH",
+      "text": "67 issuers opt out of tokenization",
+      "items": [
+        {
+          "k": "OBJECTIONS",
+          "v": "67",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Strategy bought four hundred fifty-seven bitcoin for about thirty million dollars.",
+      "cap": "Strategy bought 457 BTC for about $30M.",
+      "k": "TREASURIES · MON",
+      "text": "Strategy adds 457 BTC",
+      "items": [
+        {
+          "k": "AVG PRICE",
+          "v": "$64,898",
+          "color": "teal"
+        },
+        {
+          "k": "TOTAL BTC",
+          "v": "851,305",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "It also bought back two hundred twelve million dollars of its STRC preferred.",
+      "cap": "It also bought back $212M of its STRC preferred.",
+      "k": "STRATEGY · BUYBACK",
+      "text": "$211.8M STRC preferred buyback",
+      "items": [
+        {
+          "k": "STRC SHARES",
+          "v": "2.18M",
+          "color": "purple"
+        },
+        {
+          "k": "MSTR LAST WEEK",
+          "v": "-30.6%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "And Bitmine added seven thousand eight hundred nineteen ether to its treasury.",
+      "cap": "And Bitmine added 7,819 ETH to its treasury.",
+      "k": "TREASURIES · ETH",
+      "text": "Bitmine keeps buying ETH weekly",
+      "items": [
+        {
+          "k": "ADDED",
+          "v": "+7,819 ETH",
+          "color": "teal"
+        },
+        {
+          "k": "HOLDINGS",
+          "v": "~6.09M ETH",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: stocks now trade onchain around the clock, while the big treasuries keep buying.",
+      "cap": "Why it matters: stocks now trade onchain around the clock, while the big treasuries keep buying.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {
+          "k": "OKXICE",
+          "v": "MORE LISTINGS"
+        },
+        {
+          "k": "67 ISSUERS",
+          "v": "OPTED OUT"
+        }
+      ]
+    }
+  ],
+  "title": "OKX + ICE put 113 stocks onchain 24/7, Strategy adds 457 BTC, Bitmine keeps buying ETH",
+  "caption": "deal flow 🏦 okxice, the okx x intercontinental exchange joint venture, launched 113 tokenized stocks and etfs trading 24/7 for eligible us customers, but 67 companies incl. apple, nvidia and tesla objected. strategy bought 457 btc for $29.6m (avg $64,898), now holds 851,305 btc, and bought back $211.8m of strc preferred. bitmine added 7,819 eth. would you trade stocks onchain at 3am? 👇 not financial advice.\n\n#crypto #bitcoin #tokenization #cryptonews #trading #ethereum"
+}
