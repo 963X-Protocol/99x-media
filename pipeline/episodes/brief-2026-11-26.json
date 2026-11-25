@@ -1,0 +1,150 @@
+{
+  "id": "brief-2026-11-26",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 26, 2026",
+  "src": "data as of Nov 25, ~18:00 UTC · sources: The Block, GNcrypto, Coin-Turk, CoinGlass, Tokenpost (SoSoValue), crypto.news · not financial advice",
+  "tape": [
+    "BTC LOW $57.2K ▼4.2%",
+    "ETH ~$1,650 ▼2.6%",
+    "SOL ~$68 ▼3%",
+    "24H LIQ $512M",
+    "BTC ETFS −$231M",
+    "CORE PCE 3.3%"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Hot inflation and new tariff threats just knocked Bitcoin down to fifty-seven thousand two hundred.",
+      "cap": "Hot inflation and new tariff threats just knocked Bitcoin down to $57,200.",
+      "k": "BITCOIN · NOV 25 LOW",
+      "from": 59747,
+      "to": 57209,
+      "dec": 0,
+      "prefix": "$",
+      "color": "red",
+      "sub": "▼4.2% intraday · low on Bitstamp"
+    },
+    {
+      "type": "cards",
+      "say": "Ether fell two point six percent to sixteen fifty. Solana dropped over three percent to sixty-eight.",
+      "cap": "ETH fell 2.6% to $1,650. SOL dropped over 3% to $68.",
+      "k": "MAJORS · NOV 25",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "~$1,650",
+          "n": "▼2.6%",
+          "color": "red"
+        },
+        {
+          "k": "SOLANA",
+          "v": "~$68",
+          "n": "▼3%+",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Five hundred twelve million liquidated in a day. Four hundred sixteen million were longs.",
+      "cap": "$512M liquidated in a day. $416M were longs.",
+      "k": "LIQUIDATED · 24H · NOV 25",
+      "v": "$512M",
+      "items": [
+        {
+          "label": "LONGS · $416M",
+          "pct": 81,
+          "color": "#B91C1C"
+        },
+        {
+          "label": "SHORTS · 19%",
+          "pct": 19,
+          "color": "#14532D"
+        }
+      ],
+      "note": "CoinGlass via GNcrypto & Coin-Turk"
+    },
+    {
+      "type": "cards",
+      "say": "Bitcoin E T Fs lost two hundred thirty-one million Tuesday, a sixth straight outflow day. Ether E T Fs: sixty-four million.",
+      "cap": "BTC ETFs lost $231M Tuesday, a 6th straight outflow day. ETH ETFs: $64M.",
+      "k": "SPOT ETF FLOWS · TUE NOV 24",
+      "items": [
+        {
+          "k": "BTC ETFS",
+          "v": "−$231M",
+          "n": "6th day out · IBIT −$175M",
+          "color": "red"
+        },
+        {
+          "k": "ETH ETFS",
+          "v": "−$64M",
+          "n": "7th day out",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: core P C E hit three point three percent, above forecasts, plus a new U S tariff plan.",
+      "cap": "The driver: core PCE hit 3.3%, above forecasts, plus a new US tariff plan.",
+      "k": "THE DRIVER",
+      "text": "Hot inflation + new US tariff plan hit risk assets",
+      "items": [
+        {
+          "k": "CORE PCE · OCT",
+          "v": "3.3% y/y",
+          "n": "vs 3.2% expected",
+          "color": "amber"
+        },
+        {
+          "k": "NASDAQ · WED",
+          "v": "−4.2%",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Coming up: options expire Friday. The Fed meets December eighth and ninth, a hike priced in.",
+      "cap": "Coming up: options expire Friday. The Fed meets Dec 8–9, a hike priced in.",
+      "k": "COMING UP",
+      "items": [
+        {
+          "k": "FRI · NOV 27",
+          "v": "OPTIONS EXPIRY"
+        },
+        {
+          "k": "DEC 8–9",
+          "v": "FED MEETING"
+        },
+        {
+          "k": "PRICED IN",
+          "v": "25 BP HIKE"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: fifty-five thousand, Saturday's low, and sixty-five thousand overhead.",
+      "cap": "Levels to watch: $55K, Saturday's low, and $65K overhead.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "ABOVE",
+          "v": "$65,000",
+          "color": "green"
+        },
+        {
+          "k": "SATURDAY LOW",
+          "v": "$55,130",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin hits $57.2K on hot inflation + tariffs, $512M liquidated | Daily Brief",
+  "caption": "hot inflation + a new us tariff plan knocked bitcoin to an intraday low of $57,209 (-4.2%) 📉 eth -2.6% to ~$1,650, sol -3%+ to ~$68. $512m liquidated in 24h, $416m longs. btc etfs -$231m tuesday (6th straight outflow day, ibit -$175m), eth etfs -$64m. core pce 3.3% vs 3.2% expected, nasdaq -4.2%. coming up: options expiry friday, fed dec 8-9 with a hike priced in. levels to watch: $55k (saturday low), $65k. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
