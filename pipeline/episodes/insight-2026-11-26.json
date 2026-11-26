@@ -1,0 +1,139 @@
+{
+  "id": "insight-2026-11-26",
+  "series": "INSIGHT",
+  "badge": "DEAL FLOW",
+  "badgeColor": "purple",
+  "date": "NOV 26, 2026",
+  "src": "data as of Nov 26, 2026 · sources: The Block, CoinDesk, Blockhead · not financial advice",
+  "tape": [
+    "FIDELITY FLNK FILED",
+    "GLNK ~$112M AUM",
+    "RIALTO $5M SEED",
+    "CFTC BTC HAIRCUT 20%",
+    "STABLES HAIRCUT 2%",
+    "BTC ETFs NOV ~-$5B"
+  ],
+  "tapeColor": "purple",
+  "follow": "FOLLOW FOR DAILY INSIGHT",
+  "followSay": "Follow for more insight.",
+  "followCap": "Follow for more insight.",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin ETFs bled nearly five billion dollars this month. Wall Street is still building.",
+      "cap": "Bitcoin ETFs bled nearly $5B this month. Wall Street is still building.",
+      "k": "NOVEMBER · BTC ETF FLOWS",
+      "text": "-$5B",
+      "color": "red",
+      "sub": "nearly $5B out of US spot BTC ETFs in Nov"
+    },
+    {
+      "type": "headline",
+      "say": "Fidelity filed for a spot Chainlink ETF on Wednesday, ticker F L N K, planned for Nasdaq.",
+      "cap": "Fidelity filed for a spot Chainlink ETF on Wednesday, ticker FLNK, planned for Nasdaq.",
+      "k": "ETFs · WED",
+      "text": "Fidelity files for a spot Chainlink ETF",
+      "items": [
+        {
+          "k": "TICKER",
+          "v": "FLNK",
+          "color": "purple"
+        },
+        {
+          "k": "VENUE",
+          "v": "NASDAQ",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "No staking, no launch date yet. Grayscale and Bitwise already run Chainlink ETFs.",
+      "cap": "No staking, no launch date yet. Grayscale and Bitwise already run Chainlink ETFs.",
+      "k": "THE RIVALS",
+      "text": "Fidelity joins Grayscale and Bitwise",
+      "items": [
+        {
+          "k": "GLNK AUM",
+          "v": "~$112M",
+          "color": "purple"
+        },
+        {
+          "k": "CLNK AUM",
+          "v": "~$42M",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Robinhood co-led a five million dollar seed round for onchain trading platform Rialto.",
+      "cap": "Robinhood co-led a $5M seed round for onchain trading platform Rialto.",
+      "k": "DEALS · TUE",
+      "text": "Robinhood backs onchain venue Rialto",
+      "items": [
+        {
+          "k": "SEED ROUND",
+          "v": "$5M",
+          "color": "teal"
+        },
+        {
+          "k": "SPOT VOLUME",
+          "v": "$600M+",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "And C F T C staff now let derivatives venues count bitcoin, ether and stablecoins as capital.",
+      "cap": "And CFTC staff now let derivatives venues count BTC, ETH and stablecoins as capital.",
+      "k": "REGULATION · CFTC STAFF",
+      "text": "Crypto counts toward venue capital",
+      "items": [
+        {
+          "k": "BTC/ETH HAIRCUT",
+          "v": "20%",
+          "color": "amber"
+        },
+        {
+          "k": "STABLES HAIRCUT",
+          "v": "2%",
+          "color": "teal"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "Meanwhile Galaxy's research head withdrew his call that the bear market ended.",
+      "cap": "Meanwhile Galaxy's research head withdrew his call that the bear market ended.",
+      "k": "FUNDS · GALAXY",
+      "text": "Galaxy takes back its bottom call",
+      "items": [
+        {
+          "k": "JUNE CLOSE LOW",
+          "v": "$58,525",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Why it matters: more crypto products and cheaper licenses, even while flows run negative.",
+      "cap": "Why it matters: more crypto products and cheaper licenses, even while flows run negative.",
+      "k": "WHAT TO WATCH",
+      "items": [
+        {
+          "k": "FLNK",
+          "v": "LAUNCH DATE"
+        },
+        {
+          "k": "CFTC · DEC 15",
+          "v": "24/7 ROUNDTABLE"
+        }
+      ]
+    }
+  ],
+  "title": "Fidelity files Chainlink ETF, Robinhood backs Rialto, CFTC lets crypto count as capital",
+  "caption": "deal flow 🏦 btc etfs bled nearly $5b in november, but the builders didn't stop. fidelity filed for a spot chainlink etf (flnk, planned for nasdaq, no staking), joining grayscale's glnk (~$112m) and bitwise's clnk (~$42m). robinhood co-led a $5m seed for onchain trading platform rialto ($600m+ spot volume since july). cftc staff now let derivatives venues count btc and eth (20% haircut) and stablecoins (2%) toward required capital. and galaxy withdrew its 'bear market ended in june' call. which matters most? 👇 not financial advice.\n\n#crypto #bitcoin #chainlink #cryptonews #etf #trading"
+}
