@@ -389,8 +389,10 @@
       "file": "videos/brief-2026-11-26.mp4",
       "title": "Bitcoin hits $57.2K on hot inflation + tariffs, $512M liquidated | Daily Brief",
       "caption": "hot inflation + a new us tariff plan knocked bitcoin to an intraday low of $57,209 (-4.2%) 📉 eth -2.6% to ~$1,650, sol -3%+ to ~$68. $512m liquidated in 24h, $416m longs. btc etfs -$231m tuesday (6th straight outflow day, ibit -$175m), eth etfs -$64m. core pce 3.3% vs 3.2% expected, nasdaq -4.2%. coming up: options expiry friday, fed dec 8-9 with a hike priced in. levels to watch: $55k (saturday low), $65k. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6b07768807071a60673b13a4",
+      "dueAt": "2026-11-26T08:30:00+07:00"
     }
   ]
 }
