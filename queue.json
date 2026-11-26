@@ -399,8 +399,10 @@
       "file": "videos/insight-2026-11-26.mp4",
       "title": "Fidelity files Chainlink ETF, Robinhood backs Rialto, CFTC lets crypto count as capital",
       "caption": "deal flow 🏦 btc etfs bled nearly $5b in november, but the builders didn't stop. fidelity filed for a spot chainlink etf (flnk, planned for nasdaq, no staking), joining grayscale's glnk (~$112m) and bitwise's clnk (~$42m). robinhood co-led a $5m seed for onchain trading platform rialto ($600m+ spot volume since july). cftc staff now let derivatives venues count btc and eth (20% haircut) and stablecoins (2%) toward required capital. and galaxy withdrew its 'bear market ended in june' call. which matters most? 👇 not financial advice.\n\n#crypto #bitcoin #chainlink #cryptonews #etf #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6b07f415f13f49a925a797cc",
+      "dueAt": "2026-11-26T20:00:00+07:00"
     }
   ]
 }
