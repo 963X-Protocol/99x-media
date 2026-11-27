@@ -1,0 +1,150 @@
+{
+  "id": "brief-2026-11-27",
+  "series": "DAILY BRIEF",
+  "badge": "BREAKING",
+  "date": "NOV 27, 2026",
+  "src": "data as of Nov 26, 00:00–16:00 UTC · sources: The Company Chronicle (Coinbase), TokenPost (CoinGlass), crypto.news & KuCoin (SoSoValue), Bitcoinist, Wisevoter · not financial advice",
+  "tape": [
+    "BTC ~$60,734 ▲4.7%",
+    "ETH ~$1,704 ▲4.5%",
+    "SOL ~$70.89 ▲6.2%",
+    "24H LIQ $368M",
+    "BTC ETFS −$453M",
+    "FEAR & GREED 11"
+  ],
+  "tapeColor": "teal",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin bounced from fifty-seven thousand back above sixty thousand, up four point seven percent.",
+      "cap": "Bitcoin bounced from $57K back above $60K, up 4.7%.",
+      "k": "BITCOIN · NOV 26",
+      "from": 57208,
+      "to": 60734,
+      "dec": 0,
+      "prefix": "$",
+      "color": "green",
+      "sub": "▲4.7% 24h · Coinbase, 8:10 AM ET"
+    },
+    {
+      "type": "cards",
+      "say": "Ether rose four and a half percent. Solana jumped six percent.",
+      "cap": "ETH rose 4.5%. SOL jumped 6%.",
+      "k": "MAJORS · 24H · NOV 26",
+      "items": [
+        {
+          "k": "ETHEREUM",
+          "v": "$1,704",
+          "n": "▲4.5%",
+          "color": "green"
+        },
+        {
+          "k": "SOLANA",
+          "v": "$70.89",
+          "n": "▲6.2%",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "Three hundred sixty-eight million liquidated, two hundred seventy-eight million of it shorts.",
+      "cap": "$368M liquidated, $278M of it shorts.",
+      "k": "LIQUIDATED · 24H · NOV 26",
+      "v": "$368M",
+      "items": [
+        {
+          "label": "SHORTS · $278M",
+          "pct": 76,
+          "color": "#14532D"
+        },
+        {
+          "label": "LONGS · $89.6M",
+          "pct": 24,
+          "color": "#B91C1C"
+        }
+      ],
+      "note": "CoinGlass via TokenPost"
+    },
+    {
+      "type": "cards",
+      "say": "But Bitcoin E T Fs lost four hundred fifty-three million Wednesday, and a record five point four billion this month.",
+      "cap": "But BTC ETFs lost $453M Wednesday, and a record $5.39B this month.",
+      "k": "SPOT BTC ETF FLOWS",
+      "items": [
+        {
+          "k": "WED · NOV 25",
+          "v": "−$453M",
+          "n": "SoSoValue",
+          "color": "red"
+        },
+        {
+          "k": "NOVEMBER",
+          "v": "−$5.39B",
+          "n": "record month",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "headline",
+      "say": "The driver: shorts got caught in thin Thanksgiving trade. Fear and greed sits at eleven.",
+      "cap": "The driver: shorts got caught in thin Thanksgiving trade. Fear & Greed sits at 11.",
+      "k": "THE DRIVER",
+      "text": "Shorts caught in thin Thanksgiving trade",
+      "items": [
+        {
+          "k": "FEAR & GREED",
+          "v": "11",
+          "n": "Nov 26 · 00:00 UTC",
+          "color": "amber"
+        },
+        {
+          "k": "US STOCKS · THU",
+          "v": "CLOSED",
+          "color": "grey"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Today: about seven billion in Bitcoin options expire, and U S stocks close early. A December Fed hike is expected.",
+      "cap": "Today: ~$7B in BTC options expire, and US stocks close early. A December Fed hike is expected.",
+      "k": "COMING UP",
+      "items": [
+        {
+          "k": "FRI · 08:00 UTC",
+          "v": "~$7B BTC OPTIONS"
+        },
+        {
+          "k": "FRI · 1PM ET",
+          "v": "US EARLY CLOSE"
+        },
+        {
+          "k": "DECEMBER",
+          "v": "FED · HIKE EYED"
+        }
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: sixty-one to sixty-two thousand above, fifty-seven to fifty-eight thousand below.",
+      "cap": "Levels to watch: $61K–$62K above, $57K–$58K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {
+          "k": "ABOVE",
+          "v": "$61K–$62K",
+          "color": "green"
+        },
+        {
+          "k": "BELOW",
+          "v": "$57K–$58K",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "title": "Bitcoin rebounds above $60K, shorts lose $278M | Daily Brief",
+  "caption": "bitcoin bounced from a $57,208 low back to ~$60,734 (+4.7% in 24h) 📈 eth +4.5% to $1,704, sol +6.2% to $70.89. $368m liquidated in 24h, $278m of it shorts. but btc etfs lost $453m wednesday and $5.39b in november, a record month. fear & greed index at 11. today: ~$7b in btc options expire on deribit, us stocks close early, december fed hike expected. levels to watch: $61k-$62k, $57k-$58k. not financial advice.\n\n#bitcoin #crypto #ethereum #cryptonews #dailybrief #trading"
+}
