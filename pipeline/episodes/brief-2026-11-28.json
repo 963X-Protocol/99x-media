@@ -1,0 +1,96 @@
+{
+  "id": "brief-2026-11-28",
+  "series": "DAILY BRIEF",
+  "badge": "WEEKEND",
+  "date": "NOV 28, 2026",
+  "src": "data as of Nov 28, ~00:00 UTC · sources: CoinGecko, CoinGlass, PANews, Cointelegraph, KuCoin, Farside, Glassnode · not financial advice",
+  "tape": [
+    "BTC ~$59,700 ▼1.4%",
+    "ETH ~$1,664 ▼1.7%",
+    "SOL ~$71.70 ▲0.7%",
+    "24H LIQ ~$458M",
+    "BTC ETFS NOV −$5.39B",
+    "OPTIONS EXPIRY ~$6.8B"
+  ],
+  "tapeColor": "red",
+  "beats": [
+    {
+      "type": "hero",
+      "say": "Bitcoin's Thanksgiving bounce faded. It slid from sixty-two thousand back under sixty thousand.",
+      "cap": "Bitcoin's Thanksgiving bounce faded. It slid from $62K back under $60K.",
+      "k": "BITCOIN · NOV 28",
+      "from": 62207,
+      "to": 59700,
+      "dec": 0,
+      "prefix": "$",
+      "color": "red",
+      "sub": "24h low $58,750 · CoinGecko, CoinGlass"
+    },
+    {
+      "type": "cards",
+      "say": "Ether slipped near sixteen hundred sixty-four dollars. Solana held near seventy-two.",
+      "cap": "ETH slipped near $1,664. SOL held near $72.",
+      "k": "MAJORS · 24H",
+      "items": [
+        {"k": "ETHEREUM", "v": "$1,664", "n": "▼1.7%", "color": "red"},
+        {"k": "SOLANA", "v": "$71.70", "n": "▲0.7%", "color": "green"}
+      ]
+    },
+    {
+      "type": "bars",
+      "say": "About four hundred fifty-eight million liquidated, and this time longs took most of it.",
+      "cap": "~$458M liquidated, and this time longs took most of it.",
+      "k": "LIQUIDATED · 24H · NOV 27",
+      "v": "~$458M",
+      "items": [
+        {"label": "LONGS · $273M", "pct": 60, "color": "#B91C1C"},
+        {"label": "SHORTS · $185M", "pct": 40, "color": "#14532D"}
+      ],
+      "note": "CoinGlass via PANews"
+    },
+    {
+      "type": "headline",
+      "say": "The driver: about six point eight billion in options expired, and Bitcoin fell at the Wall Street open.",
+      "cap": "The driver: ~$6.8B in options expired, and BTC fell at the Wall Street open.",
+      "k": "THE DRIVER",
+      "text": "$6.8B options expiry, BTC drops at US open",
+      "items": [
+        {"k": "EXPIRED · DERIBIT", "v": "~$6.8B", "n": "Fri · Nov 27", "color": "amber"},
+        {"k": "INTRADAY LOW", "v": "$58,700", "color": "red"}
+      ]
+    },
+    {
+      "type": "cards",
+      "say": "Friday's E T F flows aren't out yet. November outflows already hit a record five point four billion.",
+      "cap": "Friday's ETF flows aren't out yet. November outflows already hit a record $5.39B.",
+      "k": "SPOT BTC ETF FLOWS",
+      "items": [
+        {"k": "WED · NOV 25", "v": "−$453M", "n": "7th day out", "color": "red"},
+        {"k": "NOVEMBER", "v": "−$5.39B", "n": "record month", "color": "red"}
+      ]
+    },
+    {
+      "type": "list",
+      "say": "Next week: Strategy leaves M S C I indexes Monday, the U S jobs report Friday, then the Fed on December ninth.",
+      "cap": "Next week: Strategy leaves MSCI indexes Monday, US jobs report Friday, then the Fed on Dec 9.",
+      "k": "COMING UP",
+      "items": [
+        {"k": "MON · NOV 30", "v": "MSCI DROPS MSTR"},
+        {"k": "FRI · DEC 4", "v": "US JOBS REPORT"},
+        {"k": "WED · DEC 9", "v": "FED DECISION"}
+      ]
+    },
+    {
+      "type": "levels",
+      "say": "Levels to watch: sixty-two thousand above, fifty-eight thousand five hundred below.",
+      "cap": "Levels to watch: $62K above, $58.5K below.",
+      "k": "LEVELS TO WATCH",
+      "rows": [
+        {"k": "ABOVE", "v": "$62,000", "color": "green"},
+        {"k": "BELOW", "v": "$58,500", "color": "red"}
+      ]
+    }
+  ],
+  "title": "Bitcoin slips under $60K after $6.8B options expiry | Weekend Brief",
+  "caption": "bitcoin's thanksgiving bounce faded: from ~$62,200 back to ~$59,700, with a $58,750 low 📉 eth ~$1,664, sol ~$71.70. ~$458m liquidated in 24h, mostly longs. ~$6.8b in options expired friday and btc dropped at the wall street open. friday's etf flows aren't out yet; november outflows are a record $5.39b. next week: strategy leaves msci indexes mon, us jobs report fri, fed dec 9. levels to watch: $62k, $58.5k. not financial advice. what's your read for the weekend?\n\n#bitcoin #crypto #ethereum #cryptonews #weekendbrief #trading"
+}
