@@ -419,8 +419,10 @@
       "file": "videos/brief-2026-11-28.mp4",
       "title": "Bitcoin slips under $60K after $6.8B options expiry | Weekend Brief",
       "caption": "bitcoin's thanksgiving bounce faded: from ~$62,200 back to ~$59,700, with a $58,750 low 📉 eth ~$1,664, sol ~$71.70. ~$458m liquidated in 24h, mostly longs. ~$6.8b in options expired friday and btc dropped at the wall street open. friday's etf flows aren't out yet; november outflows are a record $5.39b. next week: strategy leaves msci indexes mon, us jobs report fri, fed dec 9. levels to watch: $62k, $58.5k. not financial advice. what's your read for the weekend?\n\n#bitcoin #crypto #ethereum #cryptonews #weekendbrief #trading",
-      "status": "draft",
-      "bufferUrl": ""
+      "status": "scheduled",
+      "bufferUrl": "",
+      "bufferPostId": "6b0a268f2a2e4f66cae8bb11",
+      "dueAt": "2026-11-28T09:00:00+07:00"
     }
   ]
 }
